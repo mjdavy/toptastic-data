@@ -1,0 +1,802 @@
+[
+    {
+        "re_new": "",
+        "song_name": "SOMEONE LIKE YOU",
+        "artist": "ADELE",
+        "lw": "1",
+        "peak": "1",
+        "weeks": "7"
+    },
+    {
+        "re_new": "",
+        "song_name": "PRICE TAG",
+        "artist": "JESSIE J FT BOB",
+        "lw": "2",
+        "peak": "1",
+        "weeks": "6"
+    },
+    {
+        "re_new": "",
+        "song_name": "S&M",
+        "artist": "RIHANNA",
+        "lw": "3",
+        "peak": "3",
+        "weeks": "15"
+    },
+    {
+        "re_new": "",
+        "song_name": "BORN THIS WAY",
+        "artist": "LADY GAGA",
+        "lw": "4",
+        "peak": "3",
+        "weeks": "5"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "BLACK AND YELLOW",
+        "artist": "WIZ KHALIFA",
+        "lw": "New",
+        "peak": "5",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "YEAH 3X",
+        "artist": "CHRIS BROWN",
+        "lw": "8",
+        "peak": "6",
+        "weeks": "7"
+    },
+    {
+        "re_new": "",
+        "song_name": "GOOD GIRL",
+        "artist": "ALEXIS JORDAN",
+        "lw": "7",
+        "peak": "6",
+        "weeks": "3"
+    },
+    {
+        "re_new": "",
+        "song_name": "CHAMPION",
+        "artist": "CHIPMUNK FT CHRIS BROWN",
+        "lw": "6",
+        "peak": "2",
+        "weeks": "5"
+    },
+    {
+        "re_new": "",
+        "song_name": "ROLLING IN THE DEEP",
+        "artist": "ADELE",
+        "lw": "5",
+        "peak": "2",
+        "weeks": "8"
+    },
+    {
+        "re_new": "",
+        "song_name": "GRENADE",
+        "artist": "BRUNO MARS",
+        "lw": "9",
+        "peak": "1",
+        "weeks": "9"
+    },
+    {
+        "re_new": "",
+        "song_name": "I NEED A DOCTOR",
+        "artist": "DR DRE FT EMINEM & SKYLAR GREY",
+        "lw": "15",
+        "peak": "11",
+        "weeks": "6"
+    },
+    {
+        "re_new": "",
+        "song_name": "WONDERMAN",
+        "artist": "TINIE TEMPAH FT ELLIE GOULDING",
+        "lw": "16",
+        "peak": "12",
+        "weeks": "10"
+    },
+    {
+        "re_new": "",
+        "song_name": "DO IT LIKE A DUDE",
+        "artist": "JESSIE J",
+        "lw": "10",
+        "peak": "2",
+        "weeks": "16"
+    },
+    {
+        "re_new": "",
+        "song_name": "C'MON (CATCH 'EM BY SURPRISE)",
+        "artist": "TIESTO VS DIPLO/BUSTA RHYMES",
+        "lw": "13",
+        "peak": "13",
+        "weeks": "6"
+    },
+    {
+        "re_new": "",
+        "song_name": "F**KIN' PERFECT",
+        "artist": "PINK",
+        "lw": "11",
+        "peak": "10",
+        "weeks": "8"
+    },
+    {
+        "re_new": "",
+        "song_name": "WHAT THE HELL",
+        "artist": "AVRIL LAVIGNE",
+        "lw": "25",
+        "peak": "16",
+        "weeks": "8"
+    },
+    {
+        "re_new": "",
+        "song_name": "HIGHER",
+        "artist": "TAIO CRUZ/MCCOY/MINOGUE",
+        "lw": "12",
+        "peak": "8",
+        "weeks": "9"
+    },
+    {
+        "re_new": "",
+        "song_name": "WHO'S THAT CHICK",
+        "artist": "DAVID GUETTA FT RIHANNA",
+        "lw": "14",
+        "peak": "6",
+        "weeks": "15"
+    },
+    {
+        "re_new": "",
+        "song_name": "L.I.F.E.G.O.E.S.O.N.",
+        "artist": "NOAH & THE WHALE",
+        "lw": "31",
+        "peak": "19",
+        "weeks": "7"
+    },
+    {
+        "re_new": "",
+        "song_name": "HEART ON MY SLEEVE",
+        "artist": "OLLY MURS",
+        "lw": "45",
+        "peak": "20",
+        "weeks": "3"
+    },
+    {
+        "re_new": "",
+        "song_name": "TILL THE WORLD ENDS",
+        "artist": "BRITNEY SPEARS",
+        "lw": "55",
+        "peak": "21",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "COMING HOME",
+        "artist": "DIDDY - DIRTY MONEY FT SKYLAR",
+        "lw": "20",
+        "peak": "4",
+        "weeks": "8"
+    },
+    {
+        "re_new": "",
+        "song_name": "WE R WHO WE R",
+        "artist": "KESHA",
+        "lw": "19",
+        "peak": "1",
+        "weeks": "8"
+    },
+    {
+        "re_new": "",
+        "song_name": "FORGET YOU",
+        "artist": "CEE LO GREEN",
+        "lw": "18",
+        "peak": "1",
+        "weeks": "23"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "SKINNY LOVE",
+        "artist": "BIRDY",
+        "lw": "New",
+        "peak": "25",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "EYES WIDE SHUT",
+        "artist": "JLS FT TINIE TEMPAH",
+        "lw": "17",
+        "peak": "8",
+        "weeks": "10"
+    },
+    {
+        "re_new": "",
+        "song_name": "JUST CAN'T GET ENOUGH",
+        "artist": "BLACK EYED PEAS",
+        "lw": "89",
+        "peak": "27",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "TONIGHT (I'M F**KIN' YOU)",
+        "artist": "ENRIQUE IGLESIAS FT LUDACRIS",
+        "lw": "21",
+        "peak": "5",
+        "weeks": "6"
+    },
+    {
+        "re_new": "",
+        "song_name": "JUST THE WAY YOU ARE (AMAZING)",
+        "artist": "BRUNO MARS",
+        "lw": "29",
+        "peak": "1",
+        "weeks": "25"
+    },
+    {
+        "re_new": "",
+        "song_name": "HELLO",
+        "artist": "MARTIN SOLVEIG & DRAGONETTE",
+        "lw": "23",
+        "peak": "13",
+        "weeks": "11"
+    },
+    {
+        "re_new": "",
+        "song_name": "KIDZ",
+        "artist": "TAKE THAT",
+        "lw": "30",
+        "peak": "28",
+        "weeks": "4"
+    },
+    {
+        "re_new": "",
+        "song_name": "WHAT'S MY NAME",
+        "artist": "RIHANNA FT DRAKE",
+        "lw": "26",
+        "peak": "1",
+        "weeks": "17"
+    },
+    {
+        "re_new": "",
+        "song_name": "MAKE YOU FEEL MY LOVE",
+        "artist": "ADELE",
+        "lw": "27",
+        "peak": "4",
+        "weeks": "36"
+    },
+    {
+        "re_new": "",
+        "song_name": "ONLY GIRL (IN THE WORLD)",
+        "artist": "RIHANNA",
+        "lw": "32",
+        "peak": "1",
+        "weeks": "20"
+    },
+    {
+        "re_new": "",
+        "song_name": "THAT'S THE TRUTH",
+        "artist": "MCFLY",
+        "lw": "67",
+        "peak": "35",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "FIREWORK",
+        "artist": "KATY PERRY",
+        "lw": "37",
+        "peak": "3",
+        "weeks": "21"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "HEY SOUL SISTER",
+        "artist": "GLEE CAST",
+        "lw": "New",
+        "peak": "37",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "NEVER SAY NEVER",
+        "artist": "JUSTIN BIEBER FT JADEN SMITH",
+        "lw": "38",
+        "peak": "34",
+        "weeks": "5"
+    },
+    {
+        "re_new": "",
+        "song_name": "MOMENT 4 LIFE",
+        "artist": "NICKI MINAJ FT DRAKE",
+        "lw": "33",
+        "peak": "22",
+        "weeks": "6"
+    },
+    {
+        "re_new": "",
+        "song_name": "DOWN ON ME",
+        "artist": "JEREMIH FT 50 CENT",
+        "lw": "43",
+        "peak": "40",
+        "weeks": "10"
+    },
+    {
+        "re_new": "",
+        "song_name": "MARRY YOU",
+        "artist": "BRUNO MARS",
+        "lw": "62",
+        "peak": "41",
+        "weeks": "4"
+    },
+    {
+        "re_new": "",
+        "song_name": "ROCKETEER",
+        "artist": "FAR EAST MOVEMENT/RYAN TEDDER",
+        "lw": "28",
+        "peak": "14",
+        "weeks": "4"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "TEENAGE DIRTBAG",
+        "artist": "WHEATUS",
+        "lw": "RE",
+        "peak": "2",
+        "weeks": "21"
+    },
+    {
+        "re_new": "",
+        "song_name": "HAPPINESS",
+        "artist": "ALEXIS JORDAN",
+        "lw": "42",
+        "peak": "3",
+        "weeks": "19"
+    },
+    {
+        "re_new": "",
+        "song_name": "HOLD IT AGAINST ME",
+        "artist": "BRITNEY SPEARS",
+        "lw": "36",
+        "peak": "6",
+        "weeks": "8"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "YOU'LL BE MINE",
+        "artist": "PIERCES",
+        "lw": "New",
+        "peak": "46",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "LIGHTS ON",
+        "artist": "KATY B FT MS DYNAMITE",
+        "lw": "48",
+        "peak": "4",
+        "weeks": "12"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "DOG DAYS ARE OVER",
+        "artist": "GLEE CAST",
+        "lw": "New",
+        "peak": "48",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "THE LAST DANCE",
+        "artist": "CLARE MAGUIRE",
+        "lw": "24",
+        "peak": "23",
+        "weeks": "3"
+    },
+    {
+        "re_new": "",
+        "song_name": "WHO YOU ARE",
+        "artist": "JESSIE J",
+        "lw": "40",
+        "peak": "40",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "BLIND FAITH",
+        "artist": "CHASE & STATUS FT LIAM BAILEY",
+        "lw": "41",
+        "peak": "5",
+        "weeks": "7"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "BUZZIN REMIX",
+        "artist": "MANN FT 50 CENT",
+        "lw": "New",
+        "peak": "52",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "TRAKTOR",
+        "artist": "WRETCH 32 FT L",
+        "lw": "44",
+        "peak": "5",
+        "weeks": "8"
+    },
+    {
+        "re_new": "",
+        "song_name": "THE TIME (DIRTY BIT)",
+        "artist": "BLACK EYED PEAS",
+        "lw": "53",
+        "peak": "1",
+        "weeks": "18"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "CHASING CARS",
+        "artist": "SNOW PATROL",
+        "lw": "RE",
+        "peak": "6",
+        "weeks": "143"
+    },
+    {
+        "re_new": "",
+        "song_name": "WRITTEN IN THE STARS",
+        "artist": "TINIE TEMPAH FT ERIC TURNER",
+        "lw": "47",
+        "peak": "1",
+        "weeks": "24"
+    },
+    {
+        "re_new": "",
+        "song_name": "MORNING STAR",
+        "artist": "N-DUBZ",
+        "lw": "66",
+        "peak": "57",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "FIGHTING FIRE",
+        "artist": "BREAKAGE FT JESS MILLS",
+        "lw": "34",
+        "peak": "34",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "MARRY YOU",
+        "artist": "GLEE CAST",
+        "lw": "51",
+        "peak": "51",
+        "weeks": "2"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "HEY SOUL SISTER",
+        "artist": "TRAIN",
+        "lw": "RE",
+        "peak": "18",
+        "weeks": "31"
+    },
+    {
+        "re_new": "",
+        "song_name": "SINGING IN THE RAIN/UMBRELLA",
+        "artist": "GLEE CAST FT GWYNETH PALTROW",
+        "lw": "39",
+        "peak": "22",
+        "weeks": "3"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "SWEET CHILD O' MINE",
+        "artist": "GUNS N' ROSES",
+        "lw": "RE",
+        "peak": "24",
+        "weeks": "27"
+    },
+    {
+        "re_new": "",
+        "song_name": "THE SHOW GOES ON",
+        "artist": "LUPE FIASCO",
+        "lw": "50",
+        "peak": "49",
+        "weeks": "3"
+    },
+    {
+        "re_new": "",
+        "song_name": "LIGHTS",
+        "artist": "ELLIE GOULDING",
+        "lw": "91",
+        "peak": "64",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "DYNAMITE",
+        "artist": "TAIO CRUZ",
+        "lw": "74",
+        "peak": "1",
+        "weeks": "29"
+    },
+    {
+        "re_new": "",
+        "song_name": "ALL OF THE LIGHTS",
+        "artist": "KANYE WEST FT DRAKE & RIHANNA",
+        "lw": "46",
+        "peak": "46",
+        "weeks": "5"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "DON'T CRY FOR ME ARGENTINA",
+        "artist": "GLEE CAST",
+        "lw": "New",
+        "peak": "67",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "END CREDITS",
+        "artist": "CHASE & STATUS FT PLAN B",
+        "lw": "94",
+        "peak": "9",
+        "weeks": "31"
+    },
+    {
+        "re_new": "",
+        "song_name": "ROPE",
+        "artist": "FOO FIGHTERS",
+        "lw": "22",
+        "peak": "22",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "YOUR SONG",
+        "artist": "ELLIE GOULDING",
+        "lw": "59",
+        "peak": "2",
+        "weeks": "18"
+    },
+    {
+        "re_new": "",
+        "song_name": "I GOTTA FEELING",
+        "artist": "BLACK EYED PEAS",
+        "lw": "93",
+        "peak": "1",
+        "weeks": "91"
+    },
+    {
+        "re_new": "",
+        "song_name": "LOVE THE WAY YOU LIE",
+        "artist": "EMINEM FT RIHANNA",
+        "lw": "58",
+        "peak": "2",
+        "weeks": "38"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "POISON",
+        "artist": "NICOLE SCHERZINGER",
+        "lw": "RE",
+        "peak": "3",
+        "weeks": "12"
+    },
+    {
+        "re_new": "",
+        "song_name": "JUST A DREAM",
+        "artist": "NELLY",
+        "lw": "77",
+        "peak": "8",
+        "weeks": "21"
+    },
+    {
+        "re_new": "",
+        "song_name": "PASS OUT",
+        "artist": "TINIE TEMPAH",
+        "lw": "52",
+        "peak": "1",
+        "weeks": "54"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "EP",
+        "artist": "BETH DITTO",
+        "lw": "New",
+        "peak": "76",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "YOUNG BLOOD",
+        "artist": "NAKED & FAMOUS",
+        "lw": "64",
+        "peak": "64",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "SHAKE ME DOWN",
+        "artist": "CAGE THE ELEPHANT",
+        "lw": "87",
+        "peak": "78",
+        "weeks": "3"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "DOG DAYS ARE OVER",
+        "artist": "FLORENCE & THE MACHINE",
+        "lw": "RE",
+        "peak": "23",
+        "weeks": "44"
+    },
+    {
+        "re_new": "",
+        "song_name": "RAISE YOUR GLASS",
+        "artist": "PINK",
+        "lw": "63",
+        "peak": "13",
+        "weeks": "18"
+    },
+    {
+        "re_new": "",
+        "song_name": "BOTTOMS UP",
+        "artist": "TREY SONGZ FT NICKI MINAJ",
+        "lw": "71",
+        "peak": "71",
+        "weeks": "3"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "(I'VE HAD) THE TIME OF MY LIFE",
+        "artist": "GLEE CAST",
+        "lw": "New",
+        "peak": "82",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "I HEART U SO",
+        "artist": "CASSIUS",
+        "lw": "60",
+        "peak": "52",
+        "weeks": "3"
+    },
+    {
+        "re_new": "",
+        "song_name": "FORGET YOU",
+        "artist": "GLEE CAST FT GWYNETH PALTROW",
+        "lw": "49",
+        "peak": "31",
+        "weeks": "3"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "RUDE BOY",
+        "artist": "RIHANNA",
+        "lw": "RE",
+        "peak": "2",
+        "weeks": "35"
+    },
+    {
+        "re_new": "",
+        "song_name": "LIKE A G6",
+        "artist": "FAR EAST MOVEMENT/CATARACS/DEV",
+        "lw": "61",
+        "peak": "5",
+        "weeks": "18"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "THE MAN WHO CAN'T BE MOVED",
+        "artist": "SCRIPT",
+        "lw": "RE",
+        "peak": "2",
+        "weeks": "43"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "MORE",
+        "artist": "USHER",
+        "lw": "RE",
+        "peak": "23",
+        "weeks": "17"
+    },
+    {
+        "re_new": "",
+        "song_name": "HEY BABY (DROP IT TO THE FLOOR)",
+        "artist": "PITBULL FT T-PAIN",
+        "lw": "88",
+        "peak": "38",
+        "weeks": "9"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "GANGSTA'S PARADISE",
+        "artist": "COOLIO FT LV",
+        "lw": "RE",
+        "peak": "1",
+        "weeks": "25"
+    },
+    {
+        "re_new": "",
+        "song_name": "COOLER THAN ME",
+        "artist": "MIKE POSNER",
+        "lw": "75",
+        "peak": "5",
+        "weeks": "24"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "ONE DAY LIKE THIS",
+        "artist": "ELBOW",
+        "lw": "RE",
+        "peak": "35",
+        "weeks": "46"
+    },
+    {
+        "re_new": "NEW",
+        "song_name": "21ST CENTURY GIRL",
+        "artist": "WILLOW",
+        "lw": "New",
+        "peak": "93",
+        "weeks": "1"
+    },
+    {
+        "re_new": "",
+        "song_name": "THE FLOOD",
+        "artist": "TAKE THAT",
+        "lw": "70",
+        "peak": "2",
+        "weeks": "18"
+    },
+    {
+        "re_new": "",
+        "song_name": "WHEN WE COLLIDE",
+        "artist": "MATT CARDLE",
+        "lw": "68",
+        "peak": "1",
+        "weeks": "13"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "ALL TIME LOW",
+        "artist": "WANTED",
+        "lw": "RE",
+        "peak": "1",
+        "weeks": "29"
+    },
+    {
+        "re_new": "RE",
+        "song_name": "LOSE YOURSELF",
+        "artist": "EMINEM",
+        "lw": "RE",
+        "peak": "1",
+        "weeks": "40"
+    },
+    {
+        "re_new": "",
+        "song_name": "BRIGHT LIGHTS BIGGER CITY",
+        "artist": "CEE LO GREEN",
+        "lw": "79",
+        "peak": "79",
+        "weeks": "2"
+    },
+    {
+        "re_new": "",
+        "song_name": "THINKING OF ME",
+        "artist": "OLLY MURS",
+        "lw": "84",
+        "peak": "4",
+        "weeks": "16"
+    },
+    {
+        "re_new": "",
+        "song_name": "SHINE A LIGHT",
+        "artist": "MCFLY FT TAIO CRUZ",
+        "lw": "76",
+        "peak": "4",
+        "weeks": "18"
+    }
+]
