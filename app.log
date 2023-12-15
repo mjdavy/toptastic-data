@@ -1,0 +1,20 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 328-519-554
+INFO:root:Songs for date 20231215 scraped from web and stored in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:25:53] "GET /api/songs/20231215 HTTP/1.1" 200 -
+INFO:root:Songs for date 20110311 scraped from web and stored in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:26:23] "GET /api/songs/20110311 HTTP/1.1" 200 -
+INFO:root:Songs for date 20231215 scraped from web and stored in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:26:36] "GET /api/songs/20231215 HTTP/1.1" 200 -
+INFO:root:Songs for date 20231208 scraped from web and stored in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:26:44] "GET /api/songs/20231208 HTTP/1.1" 200 -
+INFO:root:Songs for date 20231215 scraped from web and stored in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:30:06] "GET /api/songs/20231215 HTTP/1.1" 200 -
+INFO:root:Songs for date 20231208 found in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:30:16] "GET /api/songs/20231208 HTTP/1.1" 200 -
+INFO:root:Songs for date 20110311 found in database.
+INFO:werkzeug:127.0.0.1 - - [15/Dec/2023 09:31:10] "GET /api/songs/20110311 HTTP/1.1" 200 -
