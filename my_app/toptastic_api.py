@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 import logging
 from flask import Flask, jsonify
 import requests
@@ -81,18 +82,51 @@ def get_playlist_from_db(date):
             're_new': 'RE' if row['is_reentry'] else 'NEW' if row['is_new'] else '',
             'song_name': row['song_name'],
             'artist': row['artist'],
-            'lw': 'RE' if row['is_reentry'] else 'NEW' if row['is_new'] else row['lw'],
-            'peak': row['peak'],
-            'weeks': row['weeks']
+            'lw': 'RE' if row['is_reentry'] else 'NEW' if row['is_new'] else str(row['lw']),
+            'peak': str(row['peak']),
+            'weeks': str(row['weeks'])
         } 
         for row in rows
     ]
-
+    logging.info(f'Playlist for date {date} containing {len(playlist)} records retrieved from the db.')
     return playlist
 
-def update_database(songs):
-    # Code to update your database goes here
-    pass
+def add_playlist_to_db(date, songs):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    # Add a new playlist for the given date
+    cursor.execute('INSERT INTO playlists (date) VALUES (?)', (date,))
+    playlist_id = cursor.lastrowid
+
+    for position, song in enumerate(songs, start=1):
+        # Check if the song already exists in the songs table
+        cursor.execute('SELECT id FROM songs WHERE song_name = ? AND artist = ?', (song['song_name'], song['artist']))
+        song_id = cursor.fetchone()
+        if song_id is None:
+            # If the song doesn't exist, add it to the songs table
+            cursor.execute('INSERT INTO songs (song_name, artist) VALUES (?, ?)', (song['song_name'], song['artist']))
+            song_id = cursor.lastrowid
+        else:
+            song_id = song_id[0]
+
+        # Determine if the song is new or a reentry
+        is_new = song['re_new'].lower() == 'new' or song['lw'].lower() == 'new'
+        is_reentry = song['re_new'].lower() == 're' or song['lw'].lower() == 're'
+
+        # If the song is new or a reentry, set lw to 0
+        if is_new or is_reentry:
+            song['lw'] = '0'
+
+        # Add the song to the playlist
+        cursor.execute('''
+            INSERT INTO playlist_songs (playlist_id, song_id, position, lw, peak, weeks, is_new, is_reentry)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        ''', (playlist_id, song_id, position, song['lw'], song['peak'], song['weeks'], is_new, is_reentry))
+    
+    logging.info(f'Playlist for date {date} added to the db successfully.')
+    conn.commit()
+    conn.close()
 
 def scrape_songs(date):
 
@@ -141,14 +175,27 @@ def scrape_songs(date):
 @app.route('/api/songs/<date>', methods=['GET'])
 def get_songs(date):
     logging.info(f'Getting songs for date {date}.')
-    songs = scrape_songs(date)
+    executor = ThreadPoolExecutor(max_workers=5)
+
+    # Check if the playlist is already in the database
+    playlist = get_playlist_from_db(date)
+    if playlist:
+        logging.info(f'Playlist for date {date} fetched from the db.')
+        return jsonify(playlist)
     
+    logging.info(f'Playlist for date {date} not found in the db. Performing web scrape.')
+    songs = scrape_songs(date)
+
     # Convert the songs to a JSON string and print it to the console
     # songs_json = json.dumps(songs, indent=4)
     # logging.debug(songs_json)
 
-     # Start a background task to update the database
-    executor.submit(update_database, songs)
+     # Add the playlist to the database
+    future = executor.submit(add_playlist_to_db, date, songs)
+    try:
+        future.result()  # This will raise an exception if the callable threw one.
+    except Exception as e:
+        logging.error(f'An error occurred: {e}')
 
     return jsonify(songs)
 
