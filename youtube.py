@@ -1,8 +1,10 @@
 
+import json
 import logging
 from flask import app, jsonify
 from googleapiclient.discovery import build
 import os
+import sqlite3
 
 from my_app.toptastic_api import get_db_connection
 
@@ -29,7 +31,6 @@ def get_youtube_video_id(query):
     return None
 
 # Update video IDs for songs that don't have them
-@app.route('/api/update_video_ids', methods=['GET'])
 def update_video_ids():
     conn = get_db_connection()
     songs = conn.execute('SELECT * FROM songs WHERE video_id IS NULL OR video_id = ""').fetchall()
@@ -45,5 +46,10 @@ def update_video_ids():
                 song['video_id'] = video_id
         except Exception as e:
             logging.error(f'Error updating video ID for song {song["song_name"]} by {song["artist"]}: {e}')
+    
+    conn.commit()
+    conn.close()
 
-    return jsonify({'message': 'Video IDs updated successfully'}), 200
+    logging.info('Video IDs updated successfully.')
+
+update_video_ids()
