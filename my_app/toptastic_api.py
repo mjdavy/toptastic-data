@@ -5,8 +5,10 @@ from bs4 import BeautifulSoup
 import sqlite3
 import sys
 import json
+from flask_executor import Executor
 
 app = Flask(__name__)
+executor = Executor(app)
 
 logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
@@ -88,6 +90,10 @@ def get_playlist_from_db(date):
 
     return playlist
 
+def update_database(songs):
+    # Code to update your database goes here
+    pass
+
 def scrape_songs(date):
 
     # Make a request to the website
@@ -138,13 +144,15 @@ def get_songs(date):
     songs = scrape_songs(date)
     
     # Convert the songs to a JSON string and print it to the console
-    songs_json = json.dumps(songs, indent=4)
-    logging.debug(songs_json)
+    # songs_json = json.dumps(songs, indent=4)
+    # logging.debug(songs_json)
+
+     # Start a background task to update the database
+    executor.submit(update_database, songs)
 
     return jsonify(songs)
 
 # main entry point
-
 if __name__ == '__main__':
     create_tables_if_needed()
     app.run(debug=True)

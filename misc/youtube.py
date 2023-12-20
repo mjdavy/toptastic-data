@@ -1,7 +1,10 @@
 
 import logging
+from flask import app, jsonify
 from googleapiclient.discovery import build
 import os
+
+from my_app.toptastic_api import get_db_connection
 
 # Get your YouTube Data API key from an environment variable
 api_key = os.getenv('YOUTUBE_DATA_API_KEY')
