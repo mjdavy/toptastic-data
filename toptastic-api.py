@@ -3,32 +3,36 @@ from flask import Flask, jsonify
 import requests
 from bs4 import BeautifulSoup
 import sqlite3
+import sys
 
 app = Flask(__name__)
 
-logging.basicConfig(filename='app.log', level=logging.INFO)
+logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
 def get_db_connection():
     conn = sqlite3.connect('songs.db')
     conn.row_factory = sqlite3.Row
     return conn
 
+#
+# Get songs for a given date. If they don't exist in the database, scrape them from the web
 @app.route('/api/songs/<date>', methods=['GET'])
 def get_songs(date):
-    conn = get_db_connection()
-    songs = conn.execute('SELECT * FROM songs WHERE date = ?', (date,)).fetchall()
 
-    if songs:
-        logging.info(f'Songs for date {date} found in database.')
-        return jsonify([dict(ix) for ix in songs])
-
+    # Make a request to the website
     url = f'https://www.officialcharts.com/charts/singles-chart/{date}/7501/' 
     response = requests.get(url)
 
+    # Use the 'html.parser' to parse the page
     soup = BeautifulSoup(response.text, 'html.parser')
+
+     # Find all the div tags with class 'description block'
     divs = soup.find_all('div', class_='description block')
 
+    # Create a list to store the song data
     songs = []
+
+     # Extract and print the song name, artist, and chart information
     for div in divs:
         song_name_tag = div.find('a', class_='chart-name font-bold inline-block')
         song_name_elements = song_name_tag.find_all('span')
@@ -52,30 +56,45 @@ def get_songs(date):
         
         songs.append(song)
 
-        conn.execute('''
-            INSERT INTO songs (date, re_new, song_name, artist, lw, peak, weeks, video_id)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (date, re_new, song_name, artist, lw, peak, weeks, video_id))
-
-    conn.commit()
-    conn.close()
-
-    logging.info(f'Songs for date {date} scraped from web and stored in database.')
+    logging.info(f'Songs for date {date} scraped from web successfully.')
     return jsonify(songs)
-
-if __name__ == '__main__':
+  
+def create_tables_if_needed():
     conn = get_db_connection()
-    conn.execute('''
+    cursor = conn.cursor()
+
+    # Create new tables
+    cursor.execute('''
         CREATE TABLE IF NOT EXISTS songs (
-            date TEXT,
-            re_new TEXT,
-            song_name TEXT,
-            artist TEXT,
-            lw TEXT,
-            peak TEXT,
-            weeks TEXT,
+            id INTEGER PRIMARY KEY,
+            song_name TEXT NOT NULL,
+            artist TEXT NOT NULL,
             video_id TEXT
         )
     ''')
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS playlists (
+            id INTEGER PRIMARY KEY,
+            date TEXT NOT NULL
+        )
+    ''')
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS playlist_songs (
+            playlist_id INTEGER,
+            song_id INTEGER,
+            position INTEGER,
+            lw INTEGER,
+            peak INTEGER,
+            weeks INTEGER,
+            is_new INTEGER,
+            is_reentry INTEGER
+        )
+    ''')
+    conn.commit()
     conn.close()
+
+# main entry point
+
+if __name__ == '__main__':
+    create_tables_if_needed()
     app.run(debug=True)
