@@ -1,7 +1,6 @@
 
 import json
 import logging
-from flask import app, jsonify
 from googleapiclient.discovery import build
 import os
 import sqlite3
