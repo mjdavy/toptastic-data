@@ -60,6 +60,7 @@ def get_playlist_from_db(date):
         SELECT 
             s.song_name, 
             s.artist, 
+            s.video_id,
             ps.position, 
             ps.lw, 
             ps.peak, 
@@ -84,7 +85,8 @@ def get_playlist_from_db(date):
             'artist': row['artist'],
             'lw': 'RE' if row['is_reentry'] else 'NEW' if row['is_new'] else str(row['lw']),
             'peak': str(row['peak']),
-            'weeks': str(row['weeks'])
+            'weeks': str(row['weeks']),
+            'video_id': row['video_id']
         } 
         for row in rows
     ]
@@ -170,6 +172,10 @@ def scrape_songs(date):
     logging.info(f'Songs for date {date} scraped from web successfully.')
     return songs
 
+def debug_dump_songs(songs):
+    songs_json = json.dumps(songs, indent=4)
+    logging.debug(songs_json)
+
 #
 # Get songs for a given date. If they don't exist in the database, scrape them from the web
 @app.route('/api/songs/<date>', methods=['GET'])
@@ -181,14 +187,14 @@ def get_songs(date):
     playlist = get_playlist_from_db(date)
     if playlist:
         logging.info(f'Playlist for date {date} fetched from the db.')
+        debug_dump_songs(playlist)
         return jsonify(playlist)
     
     logging.info(f'Playlist for date {date} not found in the db. Performing web scrape.')
     songs = scrape_songs(date)
 
     # Convert the songs to a JSON string and print it to the console
-    # songs_json = json.dumps(songs, indent=4)
-    # logging.debug(songs_json)
+    debug_dump_songs(songs)
 
      # Add the playlist to the database
     future = executor.submit(add_playlist_to_db, date, songs)
