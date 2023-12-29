@@ -197,11 +197,12 @@ def get_songs(date):
     debug_dump_songs(songs)
 
      # Add the playlist to the database
-    future = executor.submit(add_playlist_to_db, date, songs)
-    try:
-        future.result()  # This will raise an exception if the callable threw one.
-    except Exception as e:
-        logging.error(f'An error occurred: {e}')
+    if len(songs) > 0:
+        future = executor.submit(add_playlist_to_db, date, songs)
+        try:
+            future.result()  # This will raise an exception if the callable threw one.
+        except Exception as e:
+            logging.error(f'An error occurred: {e}')
 
     return jsonify(songs)
 
