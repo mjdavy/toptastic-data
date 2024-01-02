@@ -11,7 +11,14 @@ from flask_executor import Executor
 app = Flask(__name__)
 executor = Executor(app)
 
-logging.basicConfig(level=logging.INFO, stream=sys.stdout)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("syncdb.log"),
+        logging.StreamHandler()
+    ]
+)
 
 def get_db_connection():
     conn = sqlite3.connect('songs.db')
@@ -148,13 +155,42 @@ def scrape_songs(date):
      # Extract and print the song name, artist, and chart information
     for div in divs:
         song_name_tag = div.find('a', class_='chart-name font-bold inline-block')
+        if song_name_tag is None:
+            logging.error(f'Unable to find song name tag for div: {div}')
+            continue
+
         song_name_elements = song_name_tag.find_all('span')
+        if len(song_name_elements) == 0:
+            logging.error(f'Unable to find song name elements for div: {div}')
+            continue
+
         re_new = song_name_elements[0].get_text(strip=True).upper() if len(song_name_elements) > 1 else ''
         song_name = song_name_elements[-1].get_text(strip=True)
-        artist = div.find('a', class_='chart-artist text-lg inline-block').get_text(strip=True)
-        lw = div.find('li', class_='movement px-2 py-1 rounded-md inline-block mr-1 sm:mr-2').get_text(strip=True).split(':')[1].replace(',', '')
-        peak = div.find('li', class_='peak px-2 py-1 rounded-md inline-block mr-1 sm:mr-2').get_text(strip=True).split(':')[1].replace(',', '')
-        weeks = div.find('li', class_='weeks px-2 py-1 rounded-md inline-block mr-1 sm:mr-2').get_text(strip=True).split(':')[1]
+
+        artist_tag = div.find('a', class_='chart-artist text-lg inline-block')
+        if artist_tag is None:
+            logging.error(f'Unable to find artist tag for div: {div}')
+            continue
+        artist = artist_tag.get_text(strip=True)
+
+        lw_tag = div.find('li', class_='movement px-2 py-1 rounded-md inline-block mr-1 sm:mr-2')
+        if lw_tag is None:
+            logging.error(f'Unable to find lw tag for div: {div}')
+            continue
+        lw = lw_tag.get_text(strip=True).split(':')[1].replace(',', '')
+
+        peak_tag = div.find('li', class_='peak px-2 py-1 rounded-md inline-block mr-1 sm:mr-2')
+        if peak_tag is None:
+            logging.error(f'Unable to find peak tag for div: {div}')
+            continue
+        peak = peak_tag.get_text(strip=True).split(':')[1].replace(',', '')
+
+        weeks_tag = div.find('li', class_='weeks px-2 py-1 rounded-md inline-block mr-1 sm:mr-2')
+        if weeks_tag is None:
+            logging.error(f'Unable to find weeks tag for div: {div}')
+            continue
+        weeks = weeks_tag.get_text(strip=True).split(':')[1]
+
         video_id = ''  # This will be populated by a separate process
 
         song = {

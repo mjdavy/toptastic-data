@@ -3,7 +3,7 @@ import logging
 import sys
 from my_app.toptastic_api import add_playlist_to_db, debug_dump_songs, get_playlist_from_db, get_songs, scrape_songs
 
-logging.basicConfig(level=logging.DEBUG, stream=sys.stdout)
+logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
 #
 # Get songs for a given date. If they don't exist in the database, scrape them from the web
@@ -30,7 +30,7 @@ def fetch_and_store_songs(date):
     debug_dump_songs(songs)
 
      # Add the playlist to the database
-    if len(songs) == 100:
+    if len(songs) >= 40:
         add_playlist_to_db(date_str, songs)
     else:
         logging.error(f'Playlist for date {date} only contains {len(songs)} songs. Not adding to the db.')
@@ -38,12 +38,25 @@ def fetch_and_store_songs(date):
 # Get the current date
 today = datetime.date.today()
 
+# Get today's date
+today = datetime.date.today()
+
+# Find the most recent Friday
+if today.weekday() == 4:
+    # Today is Friday, use the previous Friday
+    days_since_last_friday = 7
+else:
+    # Find the most recent Friday
+    days_since_last_friday = (today.weekday() - 4) % 7
+
+current_date = today - datetime.timedelta(days=days_since_last_friday)
+
 # Find the first Friday of the year 2000
 year_2000 = datetime.date(2000, 1, 1)
 first_friday = year_2000 + datetime.timedelta(days=(4 - year_2000.weekday() + 7) % 7)
 
-# Iterate over the Fridays from today back to the first Friday of the year 2000
-current_date = today
+# Iterate over the Fridays from most recent (not including today if is it friday) back to the first Friday of the year 2000
+
 while current_date >= first_friday:
 
     logging.info(f'Fetching songs for {current_date}.')
