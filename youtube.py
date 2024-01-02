@@ -2,6 +2,7 @@
 import json
 import logging
 import googleapiclient.discovery
+from google_auth_oauthlib.flow import InstalledAppFlow
 import os
 import sqlite3
 
@@ -25,8 +26,22 @@ except Exception as e:
     logging.error(f'Error reading secrets file: {e}')
     exit(1)
 
-# Initialize the index of the current API key
-current_key_index = 0
+
+# The CLIENT_SECRETS_FILE variable specifies the name of a file that contains
+# the OAuth 2.0 information for this application, including its client_id and
+# client_secret.
+CLIENT_SECRETS_FILE = "client_secret.json"
+
+# This OAuth 2.0 access scope allows for full read/write access to the
+# authenticated user's account.
+SCOPES = ['https://www.googleapis.com/auth/youtube.force-ssl']
+API_SERVICE_NAME = 'youtube'
+API_VERSION = 'v3'
+
+def get_authenticated_service():
+    flow = InstalledAppFlow.from_client_secrets_file(CLIENT_SECRETS_FILE, SCOPES)
+    credentials = flow.run_console()
+    return googleapiclient.discovery.build(API_SERVICE_NAME, API_VERSION, credentials = credentials)
 
 # Function to get the YouTube Data API service with the current API key
 def get_youtube_service():
@@ -34,6 +49,38 @@ def get_youtube_service():
     youtube_service = googleapiclient.discovery.build('youtube', 'v3', developerKey=api_key)
     return youtube_service
 
+def create_playlist(youtube, title, description):
+    playlists_insert_response = youtube.playlists().insert(
+        part="snippet,status",
+        body=dict(
+            snippet=dict(
+                title=title,
+                description=description
+            ),
+            status=dict(
+                privacyStatus="private"
+            )
+        )
+    ).execute()
+
+    return playlists_insert_response["id"]
+
+def add_video_to_playlist(youtube, playlist_id, video_id):
+    youtube.playlistItems().insert(
+        part="snippet",
+        body=dict(
+            snippet=dict(
+                playlistId=playlist_id,
+                resourceId=dict(
+                    kind="youtube#video",
+                    videoId=video_id
+                )
+            )
+        )
+    ).execute()
+
+# Initialize the index of the current API key
+current_key_index = 0
 
 def get_youtube_video_id(query):
     global current_key_index  # Add this line
