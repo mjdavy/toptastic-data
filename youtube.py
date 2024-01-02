@@ -7,10 +7,23 @@ import sqlite3
 
 from my_app.toptastic_api import get_db_connection
 
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("youtube.log", mode="w"),
+        logging.StreamHandler()
+    ]
+)
+
 # Read the API keys from the file
 api_keys_file = os.path.expanduser('~/secrets/youtube_api_keys.txt')
-with open(api_keys_file) as f:
-    api_keys = f.read().splitlines()
+try:
+    with open(api_keys_file) as f:
+        api_keys = f.read().splitlines()
+except Exception as e:
+    logging.error(f'Error reading secrets file: {e}')
+    exit(1)
 
 # Initialize the index of the current API key
 current_key_index = 0
@@ -23,6 +36,7 @@ def get_youtube_service():
 
 
 def get_youtube_video_id(query):
+    global current_key_index  # Add this line
     try:
         logging.info(f'Getting video id for {query} from YouTube.')
         youtube = get_youtube_service() 
@@ -37,20 +51,22 @@ def get_youtube_video_id(query):
         items = response.get('items', [])
         if items:
             return items[0]['id']['videoId']
+        
     except googleapiclient.errors.HttpError as e:
-        if e.resp.status == 403 and 'quotaExceeded' in e.content:
+        if e.resp.status == 403 :
         # Quota exceeded error, switch to the next API key
             current_key_index += 1
             if current_key_index >= len(api_keys):
                 # All quotas are used up, stop the program
-                print("All API keys have exceeded their quotas.")
+                logging.info("All API keys have exceeded their quotas.")
                 exit(1)
             else:
                 # Retry with the next API key
+                logging.info(f"Quota exceeded for API key {api_keys[current_key_index - 1]}. Switching to API key {api_keys[current_key_index]}.")
                 youtube = get_youtube_service()
     else:
         # Other HTTP error, handle it as desired
-        print(f"HTTP error occurred: {e}")
+        logging.error(f"HTTP error occurred: {e}")
     return None
 
 # Update video IDs for songs that don't have them

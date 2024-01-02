@@ -3,7 +3,14 @@ import logging
 import sys
 from my_app.toptastic_api import add_playlist_to_db, debug_dump_songs, get_playlist_from_db, get_songs, scrape_songs
 
-logging.basicConfig(level=logging.INFO, stream=sys.stdout)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("syncdb.log", mode="w"),
+        logging.StreamHandler()
+    ]
+)
 
 #
 # Get songs for a given date. If they don't exist in the database, scrape them from the web

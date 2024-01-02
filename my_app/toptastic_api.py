@@ -11,15 +11,6 @@ from flask_executor import Executor
 app = Flask(__name__)
 executor = Executor(app)
 
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler("syncdb.log"),
-        logging.StreamHandler()
-    ]
-)
-
 def get_db_connection():
     conn = sqlite3.connect('songs.db')
     conn.row_factory = sqlite3.Row

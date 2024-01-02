@@ -1,0 +1,232 @@
+2024-01-02 12:33:02,487 - root - INFO - Updating video IDs for 17321 songs.
+2024-01-02 12:33:02,488 - root - INFO - Getting video id for I WISH IT COULD BE CHRISTMAS EVERYDAY CREATOR UNIVERSE from YouTube.
+2024-01-02 12:33:02,491 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:02,699 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-02 12:33:02,700 - root - INFO - Quota exceeded for API key AIzaSyBdzB6pqMGoJ8B3tAi0AEBAVdKN6US1wrk. Switching to API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA.
+2024-01-02 12:33:02,702 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:02,705 - root - INFO - Getting video id for FTCU NICKI MINAJ from YouTube.
+2024-01-02 12:33:02,707 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:02,925 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-02 12:33:02,925 - root - INFO - Quota exceeded for API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA. Switching to API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw.
+2024-01-02 12:33:02,927 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:02,930 - root - INFO - Getting video id for SANTA BABY KYLIE MINOGUE from YouTube.
+2024-01-02 12:33:02,933 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:03,185 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-02 12:33:03,185 - root - INFO - Quota exceeded for API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw. Switching to API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo.
+2024-01-02 12:33:03,187 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:03,191 - root - INFO - Getting video id for CAROL OF THE BELLS JOHN WILLIAMS from YouTube.
+2024-01-02 12:33:03,193 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:03,364 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-02 12:33:03,365 - root - INFO - Quota exceeded for API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo. Switching to API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o.
+2024-01-02 12:33:03,367 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:03,371 - root - INFO - Getting video id for LACE IT JUICE WRLD/EMINEM/BENNY BLANCO from YouTube.
+2024-01-02 12:33:03,373 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:03,600 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-02 12:33:03,600 - root - INFO - Quota exceeded for API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o. Switching to API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA.
+2024-01-02 12:33:03,603 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:03,606 - root - INFO - Getting video id for JINGLE BELL ROCK DARYL HALL & JOHN OATES from YouTube.
+2024-01-02 12:33:03,608 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:04,174 - root - INFO - Getting video id for MISTLETOE AND WINE CLIFF RICHARD from YouTube.
+2024-01-02 12:33:04,176 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:04,694 - root - INFO - Getting video id for LALALALA STRAY KIDS from YouTube.
+2024-01-02 12:33:04,696 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:05,065 - root - INFO - Getting video id for SAY YES TO HEAVEN LANA DEL REY from YouTube.
+2024-01-02 12:33:05,068 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:05,543 - root - INFO - Getting video id for NIGHTMARES CHRIS BROWN FT BYRON MESSIA from YouTube.
+2024-01-02 12:33:05,545 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:06,011 - root - INFO - Getting video id for ALL-AMERICAN BITCH OLIVIA RODRIGO from YouTube.
+2024-01-02 12:33:06,014 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:06,404 - root - INFO - Getting video id for DARKSIDE BRING ME THE HORIZON from YouTube.
+2024-01-02 12:33:06,406 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:06,796 - root - INFO - Getting video id for THE GRUDGE OLIVIA RODRIGO from YouTube.
+2024-01-02 12:33:06,798 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:07,170 - root - INFO - Getting video id for SAY MY GRACE OFFSET FT TRAVIS SCOTT from YouTube.
+2024-01-02 12:33:07,172 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:07,626 - root - INFO - Getting video id for WORTH IT OFFSET FT DON TOLIVER from YouTube.
+2024-01-02 12:33:07,628 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:08,039 - root - INFO - Getting video id for BLACK HOLE BOYGENIUS from YouTube.
+2024-01-02 12:33:08,041 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:08,557 - root - INFO - Getting video id for I DO NINES FT TUNDE & MUGZZ from YouTube.
+2024-01-02 12:33:08,559 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:08,909 - root - INFO - Getting video id for FEEL DAVIDO from YouTube.
+2024-01-02 12:33:08,911 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:09,309 - root - INFO - Getting video id for FAST CAR LUKE COMBS from YouTube.
+2024-01-02 12:33:09,312 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:09,715 - root - INFO - Getting video id for VIRGINIA BEACH DRAKE from YouTube.
+2024-01-02 12:33:09,717 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:10,094 - root - INFO - Getting video id for NORMAL PEOPLE THINGS LOVEJOY from YouTube.
+2024-01-02 12:33:10,097 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:10,485 - root - INFO - Getting video id for TOXIC NINES FT BAD BOY CHILLER CREW from YouTube.
+2024-01-02 12:33:10,487 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:10,922 - root - INFO - Getting video id for YOU & ME JENNIE from YouTube.
+2024-01-02 12:33:10,924 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:11,374 - root - INFO - Getting video id for TLC DIGGA D from YouTube.
+2024-01-02 12:33:11,376 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:11,812 - root - INFO - Getting video id for JUST US JAMES ARTHUR from YouTube.
+2024-01-02 12:33:11,815 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:12,259 - root - INFO - Getting video id for JUST HOW YOU LIKE IT KAK HATT from YouTube.
+2024-01-02 12:33:12,261 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:12,673 - root - INFO - Getting video id for SHE CALLS ME BACK NOAH KAHAN from YouTube.
+2024-01-02 12:33:12,676 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:13,269 - root - INFO - Getting video id for CLOSER BOU FT SLAY from YouTube.
+2024-01-02 12:33:13,271 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:13,709 - root - INFO - Getting video id for RAVE OUT TURNO/SKEPSIS/PLANK from YouTube.
+2024-01-02 12:33:13,713 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:14,304 - root - INFO - Getting video id for RELAX MY EYES ANOTR/ABEL BALDER from YouTube.
+2024-01-02 12:33:14,306 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:14,918 - root - INFO - Getting video id for PADAM PADAM KYLIE MINOGUE from YouTube.
+2024-01-02 12:33:14,921 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:15,327 - root - INFO - Getting video id for HOLD ON TO NOW KYLIE MINOGUE from YouTube.
+2024-01-02 12:33:15,329 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:15,807 - root - INFO - Getting video id for BONGOS CARDI B FT MEGAN THEE STALLION from YouTube.
+2024-01-02 12:33:15,809 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:16,226 - root - INFO - Getting video id for DEMONS DOJA CAT from YouTube.
+2024-01-02 12:33:16,229 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:16,830 - root - INFO - Getting video id for MELTDOWN TRAVIS SCOTT FT DRAKE from YouTube.
+2024-01-02 12:33:16,832 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:17,266 - root - INFO - Getting video id for MORE THAN YOU KNOW BLINK 182 from YouTube.
+2024-01-02 12:33:17,268 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:17,733 - root - INFO - Getting video id for PARK CHINOIS HEADIE ONE FT K TRAP from YouTube.
+2024-01-02 12:33:17,735 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:18,146 - root - INFO - Getting video id for A N X I E T Y SLEEPY HALLOW FT DOECHII from YouTube.
+2024-01-02 12:33:18,148 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:18,613 - root - INFO - Getting video id for I'M JUST KEN (FROM BARBIE THE ALBUM) RYAN GOSLING from YouTube.
+2024-01-02 12:33:18,615 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:19,106 - root - INFO - Getting video id for MY LOVE LEIGH-ANNE FT AYRA STARR from YouTube.
+2024-01-02 12:33:19,108 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:19,600 - root - INFO - Getting video id for TIP TOES CLAVISH & AITCH from YouTube.
+2024-01-02 12:33:19,604 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:19,997 - root - INFO - Getting video id for WOULD YOU (GO TO BED WITH ME ) CAMPBELL & ALCEMIST from YouTube.
+2024-01-02 12:33:19,999 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:20,457 - root - INFO - Getting video id for CALL YOUR MOM NOAH KAHAN from YouTube.
+2024-01-02 12:33:20,459 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:20,862 - root - INFO - Getting video id for HIGHS & LOWS PRINZ FT GABRIELA BEE from YouTube.
+2024-01-02 12:33:20,864 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:21,279 - root - INFO - Getting video id for WHO TOLD YOU J HUS FT DRAKE from YouTube.
+2024-01-02 12:33:21,281 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:21,726 - root - INFO - Getting video id for AMEN TION WAYNE & NINES from YouTube.
+2024-01-02 12:33:21,728 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:22,124 - root - INFO - Getting video id for PINK (FROM BARBIE THE ALBUM) LIZZO from YouTube.
+2024-01-02 12:33:22,126 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:22,584 - root - INFO - Getting video id for UNAVAILABLE DAVIDO FT MUSA KEYS from YouTube.
+2024-01-02 12:33:22,586 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:23,119 - root - INFO - Getting video id for ANOTHER ONE OF ME FRENCH MONTANA/DIDDY/21 SAVAGE from YouTube.
+2024-01-02 12:33:23,121 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:23,649 - root - INFO - Getting video id for SLOW DANCING V from YouTube.
+2024-01-02 12:33:23,653 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:24,039 - root - INFO - Getting video id for MERIDIAN DAVE & TIAKOLA from YouTube.
+2024-01-02 12:33:24,041 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:24,442 - root - INFO - Getting video id for NORMAL SKRAPZ from YouTube.
+2024-01-02 12:33:24,444 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:24,858 - root - INFO - Getting video id for LAST TIME I SAW YOU NICKI MINAJ from YouTube.
+2024-01-02 12:33:24,860 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:25,259 - root - INFO - Getting video id for FROM THE START LAUFEY from YouTube.
+2024-01-02 12:33:25,261 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:25,674 - root - INFO - Getting video id for CHEMICAL POST MALONE from YouTube.
+2024-01-02 12:33:25,677 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:26,095 - root - INFO - Getting video id for I AIN'T WORRIED ONEREPUBLIC from YouTube.
+2024-01-02 12:33:26,098 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:26,598 - root - INFO - Getting video id for ON THE RADAR FREESTYLE DRAKE & CENTRAL CEE from YouTube.
+2024-01-02 12:33:26,601 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:27,059 - root - INFO - Getting video id for BOY'S A LIAR PINKPANTHERESS from YouTube.
+2024-01-02 12:33:27,061 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:27,615 - root - INFO - Getting video id for I CAN SEE YOU (TAYLOR'S VERSION) TAYLOR SWIFT from YouTube.
+2024-01-02 12:33:27,617 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:28,270 - root - INFO - Getting video id for HONEY (ARE U COMING) MANESKIN from YouTube.
+2024-01-02 12:33:28,272 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:28,691 - root - INFO - Getting video id for HOW DOES IT FEEL TOM GRENNAN from YouTube.
+2024-01-02 12:33:28,693 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:29,254 - root - INFO - Getting video id for VERTIGO GRIFF from YouTube.
+2024-01-02 12:33:29,257 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:29,699 - root - INFO - Getting video id for BABY DON'T HURT ME D GUETTA/ANNE-MARIE/COI LERAY from YouTube.
+2024-01-02 12:33:29,701 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:30,344 - root - INFO - Getting video id for NOT GUILTY TUNDE from YouTube.
+2024-01-02 12:33:30,346 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:30,729 - root - INFO - Getting video id for LOVELY BASTARDS ZWE1HVNDXR & YATASHIGANG from YouTube.
+2024-01-02 12:33:30,732 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:31,179 - root - INFO - Getting video id for SUPER SHY NEWJEANS from YouTube.
+2024-01-02 12:33:31,183 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:31,768 - root - INFO - Getting video id for SEVENTEEN GOING UNDER SAM FENDER from YouTube.
+2024-01-02 12:33:31,771 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:32,198 - root - INFO - Getting video id for PAKISTAN D-BLOCK EUROPE & CLAVISH from YouTube.
+2024-01-02 12:33:32,201 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:32,636 - root - INFO - Getting video id for FEIN TRAVIS SCOTT FT PLAYBOI CARTI from YouTube.
+2024-01-02 12:33:32,638 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:33,116 - root - INFO - Getting video id for PARTY ALL THE TIME HANNAH LAING/HVRR from YouTube.
+2024-01-02 12:33:33,119 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:33,589 - root - INFO - Getting video id for FACADE DIGGA D & POTTER PAYPER from YouTube.
+2024-01-02 12:33:33,591 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:33,995 - root - INFO - Getting video id for LONELY AT THE TOP ASAKE from YouTube.
+2024-01-02 12:33:33,997 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:34,384 - root - INFO - Getting video id for HEAT WAVES GLASS ANIMALS from YouTube.
+2024-01-02 12:33:34,386 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:34,883 - root - INFO - Getting video id for SAVE YOUR TEARS WEEKND from YouTube.
+2024-01-02 12:33:34,885 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:35,363 - root - INFO - Getting video id for SHIVERS ED SHEERAN from YouTube.
+2024-01-02 12:33:35,365 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:35,785 - root - INFO - Getting video id for MOONLIGHT KALI UCHIS from YouTube.
+2024-01-02 12:33:35,787 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:36,202 - root - INFO - Getting video id for MESSY IN HEAVEN VENBEE & GODDARD from YouTube.
+2024-01-02 12:33:36,205 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:36,622 - root - INFO - Getting video id for LAST NIGHT MORGAN WALLEN from YouTube.
+2024-01-02 12:33:36,624 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:37,209 - root - INFO - Getting video id for GREEN GREEN GRASS GEORGE EZRA from YouTube.
+2024-01-02 12:33:37,211 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:37,656 - root - INFO - Getting video id for MRS LONELY BUGZY MALONE from YouTube.
+2024-01-02 12:33:37,658 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:38,044 - root - INFO - Getting video id for EYES CLOSED ED SHEERAN from YouTube.
+2024-01-02 12:33:38,046 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:38,465 - root - INFO - Getting video id for INCREDIBLE SAUCE GIGGS FT DAVE from YouTube.
+2024-01-02 12:33:38,468 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:38,880 - root - INFO - Getting video id for TATTOO LOREEN from YouTube.
+2024-01-02 12:33:38,882 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:39,286 - root - INFO - Getting video id for MAKEBA JAIN from YouTube.
+2024-01-02 12:33:39,288 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:39,726 - root - INFO - Getting video id for WISH YOU THE BEST LEWIS CAPALDI from YouTube.
+2024-01-02 12:33:39,728 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:40,220 - root - INFO - Getting video id for DAMAGE GETS DONE HOZIER/BRANDI CARLILE from YouTube.
+2024-01-02 12:33:40,222 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:40,644 - root - INFO - Getting video id for RADIO LANA DEL REY from YouTube.
+2024-01-02 12:33:40,646 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:41,103 - root - INFO - Getting video id for HURTS ME TORY LANEZ/TRIPPIE REDD from YouTube.
+2024-01-02 12:33:41,105 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:41,637 - root - INFO - Getting video id for CUPID FIFTY FIFTY from YouTube.
+2024-01-02 12:33:41,639 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:42,088 - root - INFO - Getting video id for TOXIC TRAIT STORMZY FT FREDO from YouTube.
+2024-01-02 12:33:42,090 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:42,478 - root - INFO - Getting video id for AFRAID TO FEEL LF SYSTEM from YouTube.
+2024-01-02 12:33:42,480 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:42,899 - root - INFO - Getting video id for BIG 7 BURNA BOY from YouTube.
+2024-01-02 12:33:42,901 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:43,265 - root - INFO - Getting video id for COLD HEART ELTON JOHN & DUA LIPA from YouTube.
+2024-01-02 12:33:43,267 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:43,717 - root - INFO - Getting video id for DELI ICE SPICE from YouTube.
+2024-01-02 12:33:43,719 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:44,240 - root - INFO - Getting video id for I ADORE U FRED AGAIN from YouTube.
+2024-01-02 12:33:44,242 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:44,679 - root - INFO - Getting video id for DIAL DRUNK NOAH KAHAN from YouTube.
+2024-01-02 12:33:44,683 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:45,070 - root - INFO - Getting video id for BARBIE GIRL AQUA from YouTube.
+2024-01-02 12:33:45,072 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:45,476 - root - INFO - Getting video id for QUARTER PAST THREE FREDO & ERIC IV from YouTube.
+2024-01-02 12:33:45,478 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:45,896 - root - INFO - Getting video id for WHAT IT IS DOECHII from YouTube.
+2024-01-02 12:33:45,898 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:46,329 - root - INFO - Getting video id for MY STORY FREDO from YouTube.
+2024-01-02 12:33:46,332 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:46,801 - root - INFO - Getting video id for NOTHING COMPARES 2 U SINEAD O'CONNOR from YouTube.
+2024-01-02 12:33:46,803 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:47,243 - root - INFO - Getting video id for SPRINTER DAVE/CENTRAL CEE from YouTube.
+2024-01-02 12:33:47,245 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:47,666 - root - INFO - Getting video id for BARBIE WORLD FROM BARBIE THE ALBUM NICKI MINAJ/ICE SPICE/AQUA from YouTube.
+2024-01-02 12:33:47,668 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:48,110 - root - INFO - Getting video id for SO MUCH IN LOVE DOD from YouTube.
+2024-01-02 12:33:48,112 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:48,546 - root - INFO - Getting video id for K-POP TRAVIS SCOTT/BAD BUNNY/WEEKND from YouTube.
+2024-01-02 12:33:48,549 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:49,090 - root - INFO - Getting video id for MIRACLE CALVIN HARRIS & ELLIE GOULDING from YouTube.
+2024-01-02 12:33:49,093 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:49,632 - root - INFO - Getting video id for LOVE LIKE THIS ZAYN from YouTube.
+2024-01-02 12:33:49,634 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-02 12:33:49,814 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-02 12:33:49,814 - root - INFO - All API keys have exceeded their quotas.
