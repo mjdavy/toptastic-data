@@ -78,12 +78,13 @@ def get_playlist_from_db(date):
     # Convert rows to list of dictionaries to match the JSON structure of scrape_songs
     playlist = [
         {
-            're_new': 'RE' if row['is_reentry'] else 'NEW' if row['is_new'] else '',
+            'is_new': bool(row['is_new']), 
+            'is_reentry': bool(row['is_reentry']),
             'song_name': row['song_name'],
             'artist': row['artist'],
-            'lw': 'RE' if row['is_reentry'] else 'NEW' if row['is_new'] else str(row['lw']),
-            'peak': str(row['peak']),
-            'weeks': str(row['weeks']),
+            'lw': int(row['lw']),
+            'peak': int(row['peak']),
+            'weeks': int(row['weeks']),
             'video_id': row['video_id']
         } 
         for row in rows
@@ -110,19 +111,11 @@ def add_playlist_to_db(date, songs):
         else:
             song_id = song_id[0]
 
-        # Determine if the song is new or a reentry
-        is_new = song['re_new'].lower() == 'new' or song['lw'].lower() == 'new'
-        is_reentry = song['re_new'].lower() == 're' or song['lw'].lower() == 're'
-
-        # If the song is new or a reentry, set lw to 0
-        if is_new or is_reentry:
-            song['lw'] = '0'
-
         # Add the song to the playlist
         cursor.execute('''
             INSERT INTO playlist_songs (playlist_id, song_id, position, lw, peak, weeks, is_new, is_reentry)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (playlist_id, song_id, position, song['lw'], song['peak'], song['weeks'], is_new, is_reentry))
+        ''', (playlist_id, song_id, position, song['lw'], song['peak'], song['weeks'], song['is_new'], song['is_reentry']))
     
     logging.info(f'Playlist for date {date} added to the db successfully.')
     conn.commit()
@@ -184,13 +177,22 @@ def scrape_songs(date):
 
         video_id = ''  # This will be populated by a separate process
 
+        # Determine if the song is new or a reentry
+        is_new = re_new.lower() == 'new' or lw.lower() == 'new'
+        is_reentry = re_new.lower() == 're' or 'lw'.lower() == 're'
+
+         # If the song is new or a reentry, set lw to 0
+        if is_new or is_reentry:
+            lw = 0
+
         song = {
-            're_new': re_new,
+            'is_new': bool(is_new), 
+            'is_reentry': bool(is_reentry),
             'song_name': song_name,
             'artist': artist,
-            'lw': lw,
-            'peak': peak,
-            'weeks': weeks,
+            'lw': int(lw),
+            'peak': int(peak),
+            'weeks': int(weeks),
             'video_id': video_id
         }
         
