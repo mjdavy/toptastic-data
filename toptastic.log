@@ -1,18 +1,14 @@
-2024-01-03 08:33:42,094 - werkzeug - WARNING -  * Debugger is active!
-2024-01-03 08:33:42,102 - werkzeug - INFO -  * Debugger PIN: 328-519-554
-2024-01-03 08:34:24,670 - root - INFO - Getting songs for date 20231229.
-2024-01-03 08:34:24,682 - root - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
-2024-01-03 08:34:24,682 - root - INFO - Playlist for date 20231229 fetched from the db.
-2024-01-03 08:34:24,684 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 08:34:24] "GET /api/songs/20231229 HTTP/1.1" 200 -
-2024-01-03 08:34:54,926 - root - INFO - Getting songs for date 20231201.
-2024-01-03 08:34:54,938 - root - INFO - Playlist for date 20231201 containing 100 records retrieved from the db.
-2024-01-03 08:34:54,938 - root - INFO - Playlist for date 20231201 fetched from the db.
-2024-01-03 08:34:54,940 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 08:34:54] "GET /api/songs/20231201 HTTP/1.1" 200 -
-2024-01-03 08:35:08,348 - root - INFO - Getting songs for date 20121130.
-2024-01-03 08:35:08,359 - root - INFO - Playlist for date 20121130 containing 100 records retrieved from the db.
-2024-01-03 08:35:08,359 - root - INFO - Playlist for date 20121130 fetched from the db.
-2024-01-03 08:35:08,362 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 08:35:08] "GET /api/songs/20121130 HTTP/1.1" 200 -
-2024-01-03 08:35:35,686 - root - INFO - Getting songs for date 20051104.
-2024-01-03 08:35:35,697 - root - INFO - Playlist for date 20051104 containing 100 records retrieved from the db.
-2024-01-03 08:35:35,697 - root - INFO - Playlist for date 20051104 fetched from the db.
-2024-01-03 08:35:35,699 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 08:35:35] "GET /api/songs/20051104 HTTP/1.1" 200 -
+2024-01-03 11:20:30,002 - root - INFO - Starting server...
+2024-01-03 11:20:30,004 - root - INFO - Access the status URL at http://localhost:8080/api/status
+2024-01-03 11:20:30,006 - werkzeug - WARNING -  * Debugger is active!
+2024-01-03 11:20:30,012 - werkzeug - INFO -  * Debugger PIN: 348-710-376
+2024-01-03 11:20:35,959 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 11:20:35] "GET /api/status HTTP/1.1" 200 -
+2024-01-03 11:20:36,003 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 11:20:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-03 11:29:01,990 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 11:29:01] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-03 11:29:09,743 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 11:29:09] "GET /api/status HTTP/1.1" 200 -
+2024-01-03 11:29:16,991 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 11:29:16] "GET /api/status HTTP/1.1" 200 -
+2024-01-03 11:30:08,965 - root - INFO - Getting songs for date 20231229.
+2024-01-03 11:30:08,991 - root - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-03 11:30:08,991 - root - INFO - Playlist for date 20231229 fetched from the db.
+2024-01-03 11:30:08,992 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 11:30:08] "GET /api/songs/20231229 HTTP/1.1" 200 -
+2024-01-03 14:24:52,058 - werkzeug - INFO - 127.0.0.1 - - [03/Jan/2024 14:24:52] "GET /api/status HTTP/1.1" 200 -

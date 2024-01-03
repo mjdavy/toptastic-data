@@ -235,7 +235,9 @@ def get_songs(date):
 
     return jsonify(songs)
 
-# main entry point
-if __name__ == '__main__':
-    create_tables_if_needed()
-    app.run(debug=True)
+# Route for the server status
+@app.route('/api/status', methods=['GET'])
+def get_server_status():
+    return jsonify({'status': 'Server is running'})
+
+    

@@ -1,5 +1,5 @@
 import logging
-from my_app.toptastic_api import app
+from my_app.toptastic_api import app, create_tables_if_needed
 
 logging.basicConfig(
     level=logging.INFO,
@@ -11,4 +11,8 @@ logging.basicConfig(
 )
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    logging.info('Starting server...')
+    create_tables_if_needed()
+    # Print the status URL to the console
+    logging.info("Access the status URL at http://localhost:8080/api/status")
+    app.run(debug=True,port=8080)

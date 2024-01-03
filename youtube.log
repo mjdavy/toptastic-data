@@ -1,50 +1,50 @@
-2024-01-03 09:16:44,284 - root - INFO - Updating video IDs for 17321 songs.
-2024-01-03 09:16:44,285 - root - INFO - Getting video id for I WISH IT COULD BE CHRISTMAS EVERYDAY CREATOR UNIVERSE from YouTube.
-2024-01-03 09:16:44,288 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:44,550 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:44,550 - root - INFO - Quota exceeded for API key AIzaSyBdzB6pqMGoJ8B3tAi0AEBAVdKN6US1wrk. Switching to API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA.
-2024-01-03 09:16:44,553 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:44,556 - root - INFO - Getting video id for FTCU NICKI MINAJ from YouTube.
-2024-01-03 09:16:44,558 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:44,806 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:44,807 - root - INFO - Quota exceeded for API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA. Switching to API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw.
-2024-01-03 09:16:44,808 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:44,811 - root - INFO - Getting video id for SANTA BABY KYLIE MINOGUE from YouTube.
-2024-01-03 09:16:44,814 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:44,966 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:44,967 - root - INFO - Quota exceeded for API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw. Switching to API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo.
-2024-01-03 09:16:44,969 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:44,973 - root - INFO - Getting video id for CAROL OF THE BELLS JOHN WILLIAMS from YouTube.
-2024-01-03 09:16:44,976 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,180 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:45,180 - root - INFO - Quota exceeded for API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo. Switching to API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o.
-2024-01-03 09:16:45,181 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,186 - root - INFO - Getting video id for LACE IT JUICE WRLD/EMINEM/BENNY BLANCO from YouTube.
-2024-01-03 09:16:45,188 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,368 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:45,369 - root - INFO - Quota exceeded for API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o. Switching to API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA.
-2024-01-03 09:16:45,371 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,374 - root - INFO - Getting video id for JINGLE BELL ROCK DARYL HALL & JOHN OATES from YouTube.
-2024-01-03 09:16:45,376 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,551 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:45,551 - root - INFO - Quota exceeded for API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA. Switching to API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E.
-2024-01-03 09:16:45,553 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,558 - root - INFO - Getting video id for MISTLETOE AND WINE CLIFF RICHARD from YouTube.
-2024-01-03 09:16:45,560 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,781 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:45,783 - root - INFO - Quota exceeded for API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E. Switching to API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q.
-2024-01-03 09:16:45,785 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,788 - root - INFO - Getting video id for LALALALA STRAY KIDS from YouTube.
-2024-01-03 09:16:45,790 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,961 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:45,963 - root - INFO - Quota exceeded for API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q. Switching to API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c.
-2024-01-03 09:16:45,965 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:45,970 - root - INFO - Getting video id for SAY YES TO HEAVEN LANA DEL REY from YouTube.
-2024-01-03 09:16:45,972 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:46,142 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:46,142 - root - INFO - Quota exceeded for API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c. Switching to API key AIzaSyANzdGkejzrulVUBv9LjhWgDWuiVztpWDY.
-2024-01-03 09:16:46,144 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:46,147 - root - INFO - Getting video id for NIGHTMARES CHRIS BROWN FT BYRON MESSIA from YouTube.
-2024-01-03 09:16:46,149 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
-2024-01-03 09:16:46,361 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
-2024-01-03 09:16:46,361 - root - INFO - All API keys have exceeded their quotas.
+2024-01-03 09:20:28,537 - root - INFO - Updating video IDs for 17321 songs.
+2024-01-03 09:20:28,538 - root - INFO - Getting video id for I WISH IT COULD BE CHRISTMAS EVERYDAY CREATOR UNIVERSE from YouTube.
+2024-01-03 09:20:28,539 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:28,818 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:28,818 - root - INFO - Quota exceeded for API key AIzaSyBdzB6pqMGoJ8B3tAi0AEBAVdKN6US1wrk. Switching to API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA.
+2024-01-03 09:20:28,820 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:28,824 - root - INFO - Getting video id for FTCU NICKI MINAJ from YouTube.
+2024-01-03 09:20:28,826 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,089 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:29,089 - root - INFO - Quota exceeded for API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA. Switching to API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw.
+2024-01-03 09:20:29,090 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,095 - root - INFO - Getting video id for SANTA BABY KYLIE MINOGUE from YouTube.
+2024-01-03 09:20:29,096 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,259 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:29,259 - root - INFO - Quota exceeded for API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw. Switching to API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo.
+2024-01-03 09:20:29,261 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,266 - root - INFO - Getting video id for CAROL OF THE BELLS JOHN WILLIAMS from YouTube.
+2024-01-03 09:20:29,267 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,489 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:29,490 - root - INFO - Quota exceeded for API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo. Switching to API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o.
+2024-01-03 09:20:29,492 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,496 - root - INFO - Getting video id for LACE IT JUICE WRLD/EMINEM/BENNY BLANCO from YouTube.
+2024-01-03 09:20:29,497 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,748 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:29,748 - root - INFO - Quota exceeded for API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o. Switching to API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA.
+2024-01-03 09:20:29,750 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,758 - root - INFO - Getting video id for JINGLE BELL ROCK DARYL HALL & JOHN OATES from YouTube.
+2024-01-03 09:20:29,759 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,988 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:29,988 - root - INFO - Quota exceeded for API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA. Switching to API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E.
+2024-01-03 09:20:29,990 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:29,995 - root - INFO - Getting video id for MISTLETOE AND WINE CLIFF RICHARD from YouTube.
+2024-01-03 09:20:29,996 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:30,361 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:30,362 - root - INFO - Quota exceeded for API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E. Switching to API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q.
+2024-01-03 09:20:30,364 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:30,368 - root - INFO - Getting video id for LALALALA STRAY KIDS from YouTube.
+2024-01-03 09:20:30,369 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:30,530 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:30,530 - root - INFO - Quota exceeded for API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q. Switching to API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c.
+2024-01-03 09:20:30,532 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:30,539 - root - INFO - Getting video id for SAY YES TO HEAVEN LANA DEL REY from YouTube.
+2024-01-03 09:20:30,540 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:30,756 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:30,756 - root - INFO - Quota exceeded for API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c. Switching to API key AIzaSyANzdGkejzrulVUBv9LjhWgDWuiVztpWDY.
+2024-01-03 09:20:30,757 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:30,762 - root - INFO - Getting video id for NIGHTMARES CHRIS BROWN FT BYRON MESSIA from YouTube.
+2024-01-03 09:20:30,763 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-01-03 09:20:31,016 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "quotaExceeded"
+2024-01-03 09:20:31,017 - root - INFO - All API keys have exceeded their quotas.
