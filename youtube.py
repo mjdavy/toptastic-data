@@ -18,7 +18,7 @@ logging.basicConfig(
 )
 
 # Read the API keys from the file
-api_keys_file = os.path.expanduser('~/secrets/youtube_api_keys.txt')
+api_keys_file = os.path.expanduser('~/OneDrive/secrets/toptastic/youtube_api_keys.txt')
 try:
     with open(api_keys_file) as f:
         api_keys = f.read().splitlines()
