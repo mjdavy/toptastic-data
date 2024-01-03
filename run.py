@@ -11,8 +11,9 @@ logging.basicConfig(
 )
 
 if __name__ == '__main__':
+    port = 5001
     logging.info('Starting server...')
     create_tables_if_needed()
     # Print the status URL to the console
-    logging.info("Access the status URL at http://localhost:8080/api/status")
-    app.run(debug=True,port=8080)
+    logging.info(f"Access the status URL at http://localhost:{port}/api/status")
+    app.run(debug=True,port=port)
