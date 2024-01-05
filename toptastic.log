@@ -1,4 +1,17 @@
-2024-01-04 13:17:28,142 - root - INFO - Starting server...
-2024-01-04 13:17:28,143 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-01-04 13:17:28,144 - werkzeug - WARNING -  * Debugger is active!
-2024-01-04 13:17:28,152 - werkzeug - INFO -  * Debugger PIN: 111-996-517
+2024-01-04 13:58:06,618 - root - INFO - Starting server...
+2024-01-04 13:58:06,619 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-04 13:58:06,620 - werkzeug - WARNING -  * Debugger is active!
+2024-01-04 13:58:06,627 - werkzeug - INFO -  * Debugger PIN: 111-996-517
+2024-01-04 13:59:52,215 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 13:59:52] "GET /api/status HTTP/1.1" 200 -
+2024-01-04 13:59:52,231 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 13:59:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-04 14:00:00,844 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 14:00:00] "GET /api/status HTTP/1.1" 200 -
+2024-01-04 14:00:03,346 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 14:00:03] "GET /api/status HTTP/1.1" 200 -
+2024-01-04 14:00:05,613 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 14:00:05] "GET /api/status HTTP/1.1" 200 -
+2024-01-04 14:00:16,637 - root - INFO - Getting songs for date 20231229.
+2024-01-04 14:00:16,668 - root - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-04 14:00:16,668 - root - INFO - Playlist for date 20231229 fetched from the db.
+2024-01-04 14:00:16,671 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 14:00:16] "GET /api/songs/20231229 HTTP/1.1" 200 -
+2024-01-04 15:11:28,365 - root - INFO - Getting songs for date 20231229.
+2024-01-04 15:11:28,391 - root - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-04 15:11:28,391 - root - INFO - Playlist for date 20231229 fetched from the db.
+2024-01-04 15:11:28,392 - werkzeug - INFO - 127.0.0.1 - - [04/Jan/2024 15:11:28] "GET /api/songs/20231229 HTTP/1.1" 200 -
