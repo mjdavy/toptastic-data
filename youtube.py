@@ -8,6 +8,9 @@ import sqlite3
 
 from my_app.toptastic_api import get_db_connection
 
+class QuotaExceededError(Exception):
+    pass
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -16,6 +19,9 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+logging.getLogger('googleapiclient.discovery_cache').setLevel(logging.ERROR)
+logging.getLogger('googleapiclient.http').setLevel(logging.ERROR)
 
 # Read the API keys from the file
 api_keys_file = os.path.expanduser('~/OneDrive/secrets/toptastic/youtube_api_keys.txt')
@@ -106,37 +112,42 @@ def get_youtube_video_id(query):
             if current_key_index >= len(api_keys):
                 # All quotas are used up, stop the program
                 logging.info("All API keys have exceeded their quotas.")
-                exit(1)
+                raise QuotaExceededError("All API keys have exceeded their quotas.")
             else:
                 # Retry with the next API key
                 logging.info(f"Quota exceeded for API key {api_keys[current_key_index - 1]}. Switching to API key {api_keys[current_key_index]}.")
                 youtube = get_youtube_service()
-    else:
-        # Other HTTP error, handle it as desired
-        logging.error(f"HTTP error occurred: {e}")
+        else:
+            # Other HTTP error, handle it as desired
+            logging.error(f"HTTP error occurred: {e}")
+
     return None
 
 # Update video IDs for songs that don't have them
 def update_video_ids():
-
     conn = get_db_connection()
     songs = conn.execute('SELECT * FROM songs WHERE video_id IS NULL OR video_id = ""').fetchall()
 
     logging.info(f'Updating video IDs for {len(songs)} songs.')
 
+    update_count = 0
     for row in songs:
         song = dict(row)
         try: 
             video_id = get_youtube_video_id(f"{song['song_name']} {song['artist']}")
             if video_id:
                 conn.execute('UPDATE songs SET video_id = ? WHERE id = ?', (video_id, song['id']))
+                conn.commit()  # commit after each update
                 song['video_id'] = video_id
+                update_count += 1
+        except QuotaExceededError:
+            break
         except Exception as e:
             logging.error(f'Error updating video ID for song {song["song_name"]} by {song["artist"]}: {e}')
             
-    conn.commit()
+    logging.info(f'{update_count} Video IDs updated successfully.')
+    remaining = conn.execute('SELECT count(*) FROM songs WHERE video_id IS NULL OR video_id = ""').fetchone()[0]
+    logging.info(f'{remaining} videos remaining.')
     conn.close()
-
-    logging.info('Video IDs updated successfully.')
 
 update_video_ids()
