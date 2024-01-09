@@ -16,4 +16,4 @@ if __name__ == '__main__':
     create_tables_if_needed()
     # Print the status URL to the console
     logging.info(f"Access the status URL at http://localhost:{port}/api/status")
-    app.run(debug=True,port=port)
+    app.run(host='0.0.0.0', debug=True, port=port)
