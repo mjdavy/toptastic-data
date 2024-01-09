@@ -29,7 +29,7 @@ try:
     with open(api_keys_file) as f:
         api_keys = f.read().splitlines()
 except Exception as e:
-    logging.error(f'Error reading secrets file: {e}')
+    logging.error(f'Error reading api keys: {e}')
     exit(1)
 
 
