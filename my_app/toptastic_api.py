@@ -249,7 +249,7 @@ def create_playlist():
     data = request.get_json()
     title = data.get('title')
     description = data.get('description')
-    songs = data.get('songs')
+    tracks = data.get('tracks')
 
     youtube_authenticated_service = youtube.get_authenticated_service()
 
@@ -258,11 +258,11 @@ def create_playlist():
         playlist_id = youtube.create_playlist(youtube_authenticated_service, title, description)
 
         # Add songs to the playlist
-        for song in songs:
-            video_id = song.get('videoId')
+        for track in tracks:
+            video_id = track.get('videoId')
             if not video_id:
                 # If the song does not have a video ID, retrieve it
-                video_id = youtube.get_youtube_video_id(f"{song['title']} {song['artist']}")
+                video_id = youtube.get_youtube_video_id(f"{track['title']} {track['artist']}")
             if video_id:
                 youtube.add_video_to_playlist(youtube_authenticated_service, playlist_id, video_id)
 

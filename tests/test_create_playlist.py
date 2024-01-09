@@ -13,8 +13,8 @@ def test_create_playlist(client):
     playlist = {
         'title': 'Toptastic Test Playlist',
         'description': 'This is a test playlist from toptastic-api',
-        'songs': [
-            {'title': 'Houdini', 'artist': 'Dua Lipa'},
+        'tracks': [
+            {'title': 'Houdini', 'artist': 'Dua Lipa', 'videoId': 'suAR1PYFNYA'},
             {'title': 'Run for the hills', 'artist': 'Tate McRae', 'videoId': 'NGAW-DGkXuM'}
         ]
     }
