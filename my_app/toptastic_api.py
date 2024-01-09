@@ -240,4 +240,34 @@ def get_songs(date):
 def get_server_status():
     return jsonify({'status': 'Server is running'})
 
+# Route for creating a youtube playlist
+from flask import request
+from . import youtube
+
+@app.route('/create_playlist', methods=['POST'])
+def create_playlist():
+    data = request.get_json()
+    title = data.get('title')
+    description = data.get('description')
+    songs = data.get('songs')
+
+    youtube_authenticated_service = youtube.get_authenticated_service()
+
+    try:
+        # Create a new playlist
+        playlist_id = youtube.create_playlist(youtube_authenticated_service, title, description)
+
+        # Add songs to the playlist
+        for song in songs:
+            video_id = song.get('videoId')
+            if not video_id:
+                # If the song does not have a video ID, retrieve it
+                video_id = youtube.get_youtube_video_id(f"{song['title']} {song['artist']}")
+            if video_id:
+                youtube.add_video_to_playlist(youtube_authenticated_service, playlist_id, video_id)
+
+        return {'status': 'success', 'playlist_id': playlist_id}, 200
+
+    except Exception as e:
+        return {'status': 'error', 'message': str(e)}, 500
     
