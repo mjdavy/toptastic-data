@@ -1,4 +1,16 @@
-2024-01-10 09:11:30,565 - root - INFO - Starting server...
-2024-01-10 09:11:30,565 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-01-10 09:11:30,567 - werkzeug - WARNING -  * Debugger is active!
-2024-01-10 09:11:30,571 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-01-10 10:22:33,435 - root - INFO - Starting server...
+2024-01-10 10:22:33,436 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-10 10:22:33,437 - werkzeug - WARNING -  * Debugger is active!
+2024-01-10 10:22:33,441 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-01-10 10:22:37,549 - my_app.toptastic_api - INFO - Creating playlist with title: UK Singles Chart - Friday, December 9, 2022, description: "Created by Toptastic on Wednesday, January 10, 2024", with 100 tracks.
+2024-01-10 10:22:37,821 - my_app.toptastic_api - ERROR - An error occurred: Youtube API quota exeeded. Try again tomorrow.
+2024-01-10 10:22:37,823 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2024 10:22:37] "[35m[1mPOST /api/create_playlist HTTP/1.1[0m" 500 -
+2024-01-10 10:23:48,089 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 10:23:48,117 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 10:23:48,119 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 10:23:48] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 10:23:55,877 - my_app.toptastic_api - INFO - Getting songs for date 20231229.
+2024-01-10 10:23:55,898 - my_app.toptastic_api - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-10 10:23:55,900 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 10:23:55] "GET /api/songs/20231229 HTTP/1.1" 200 -
+2024-01-10 10:24:06,909 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 10:24:06,930 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 10:24:06,932 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 10:24:06] "GET /api/songs/20240105 HTTP/1.1" 200 -

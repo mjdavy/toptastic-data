@@ -7,6 +7,7 @@ import sqlite3
 import sys
 import json
 from flask_executor import Executor
+logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 executor = Executor(app)
@@ -89,7 +90,7 @@ def get_playlist_from_db(date):
         } 
         for row in rows
     ]
-    logging.info(f'Playlist for date {date} containing {len(playlist)} records retrieved from the db.')
+    logger.info(f'Playlist for date {date} containing {len(playlist)} records retrieved from the db.')
     return playlist
 
 def add_playlist_to_db(date, songs):
@@ -117,7 +118,7 @@ def add_playlist_to_db(date, songs):
             VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         ''', (playlist_id, song_id, position, song['lw'], song['peak'], song['weeks'], song['is_new'], song['is_reentry']))
     
-    logging.info(f'Playlist for date {date} added to the db successfully.')
+    logger.info(f'Playlist for date {date} added to the db successfully.')
     conn.commit()
     conn.close()
 
@@ -140,12 +141,12 @@ def scrape_songs(date):
     for div in divs:
         song_name_tag = div.find('a', class_='chart-name font-bold inline-block')
         if song_name_tag is None:
-            logging.error(f'Unable to find song name tag for div: {div}')
+            logger.error(f'Unable to find song name tag for div: {div}')
             continue
 
         song_name_elements = song_name_tag.find_all('span')
         if len(song_name_elements) == 0:
-            logging.error(f'Unable to find song name elements for div: {div}')
+            logger.error(f'Unable to find song name elements for div: {div}')
             continue
 
         re_new = song_name_elements[0].get_text(strip=True).upper() if len(song_name_elements) > 1 else ''
@@ -153,25 +154,25 @@ def scrape_songs(date):
 
         artist_tag = div.find('a', class_='chart-artist text-lg inline-block')
         if artist_tag is None:
-            logging.error(f'Unable to find artist tag for div: {div}')
+            logger.error(f'Unable to find artist tag for div: {div}')
             continue
         artist = artist_tag.get_text(strip=True)
 
         lw_tag = div.find('li', class_='movement px-2 py-1 rounded-md inline-block mr-1 sm:mr-2')
         if lw_tag is None:
-            logging.error(f'Unable to find lw tag for div: {div}')
+            logger.error(f'Unable to find lw tag for div: {div}')
             continue
         lw = lw_tag.get_text(strip=True).split(':')[1].replace(',', '')
 
         peak_tag = div.find('li', class_='peak px-2 py-1 rounded-md inline-block mr-1 sm:mr-2')
         if peak_tag is None:
-            logging.error(f'Unable to find peak tag for div: {div}')
+            logger.error(f'Unable to find peak tag for div: {div}')
             continue
         peak = peak_tag.get_text(strip=True).split(':')[1].replace(',', '')
 
         weeks_tag = div.find('li', class_='weeks px-2 py-1 rounded-md inline-block mr-1 sm:mr-2')
         if weeks_tag is None:
-            logging.error(f'Unable to find weeks tag for div: {div}')
+            logger.error(f'Unable to find weeks tag for div: {div}')
             continue
         weeks = weeks_tag.get_text(strip=True).split(':')[1]
 
@@ -198,28 +199,27 @@ def scrape_songs(date):
         
         songs.append(song)
 
-    logging.info(f'Songs for date {date} scraped from web successfully.')
+    logger.info(f'Songs for date {date} scraped from web successfully.')
     return songs
 
 def debug_dump_songs(songs):
     songs_json = json.dumps(songs, indent=4)
-    logging.debug(songs_json)
+    logger.debug(songs_json)
 
 #
 # Get songs for a given date. If they don't exist in the database, scrape them from the web
 @app.route('/api/songs/<date>', methods=['GET'])
 def get_songs(date):
-    logging.info(f'Getting songs for date {date}.')
+    logger.info(f'Getting songs for date {date}.')
     executor = ThreadPoolExecutor(max_workers=5)
 
     # Check if the playlist is already in the database
     playlist = get_playlist_from_db(date)
     if playlist:
-        logging.info(f'Playlist for date {date} fetched from the db.')
         debug_dump_songs(playlist)
         return jsonify(playlist)
     
-    logging.info(f'Playlist for date {date} not found in the db. Performing web scrape.')
+    logger.info(f'Playlist for date {date} not found in the db. Performing web scrape.')
     songs = scrape_songs(date)
 
     # Convert the songs to a JSON string and print it to the console
@@ -231,7 +231,7 @@ def get_songs(date):
         try:
             future.result()  # This will raise an exception if the callable threw one.
         except Exception as e:
-            logging.error(f'An error occurred: {e}')
+            logger.error(f'An error occurred: {e}')
 
     return jsonify(songs)
 
@@ -244,13 +244,15 @@ def get_server_status():
 from flask import request
 from . import youtube
 
-@app.route('/create_playlist', methods=['POST'])
+@app.route('/api/create_playlist', methods=['POST'])
 def create_playlist():
     data = request.get_json()
     title = data.get('title')
     description = data.get('description')
     tracks = data.get('tracks')
 
+    logger.info(f'Creating playlist with title: {title}, description: "{description}", with {len(tracks)} tracks.')
+    logger.debug(f'Tracks: {tracks}')
     youtube_authenticated_service = youtube.get_authenticated_service()
 
     try:
@@ -269,5 +271,6 @@ def create_playlist():
         return {'status': 'success', 'playlist_id': playlist_id}, 200
 
     except Exception as e:
+        logger.error(f'An error occurred: {e}')
         return {'status': 'error', 'message': str(e)}, 500
     

@@ -17,6 +17,7 @@ class QuotaExceededError(Exception):
 
 logging.getLogger('googleapiclient.discovery_cache').setLevel(logging.ERROR)
 logging.getLogger('googleapiclient.http').setLevel(logging.ERROR)
+logger = logging.getLogger(__name__)
 
 # Read the API keys from the file
 api_keys_file = os.path.expanduser('~/OneDrive/secrets/toptastic/youtube_api_keys.txt')
@@ -67,25 +68,30 @@ def get_youtube_service():
     return youtube_service
 
 def create_playlist(youtube, title, description):
-    playlists_insert_response = youtube.playlists().insert(
-        part="snippet,status",
-        body=dict(
-            snippet=dict(
-                title=title,
-                description=description
-            ),
-            status=dict(
-                privacyStatus="private"
+    try:
+        playlists_insert_response = youtube.playlists().insert(
+            part="snippet,status",
+            body=dict(
+                snippet=dict(
+                    title=title,
+                    description=description
+                ),
+                status=dict(
+                    privacyStatus="private"
+                )
             )
-        )
-    ).execute()
-    print(playlists_insert_response)
+        ).execute()
+    except googleapiclient.errors.HttpError as e:
+        if e.resp.status == 403 :
+            raise QuotaExceededError("Youtube API quota exeeded. Try again tomorrow.")
+        
+    logger.info(playlists_insert_response)
 
     return playlists_insert_response["id"]
 
 def add_video_to_playlist(youtube, playlist_id, video_id):
-    print(playlist_id, video_id)
-    youtube.playlistItems().insert(
+    logger.info(f"Adding video with id: {video_id} to playist with id: {playlist_id}")
+    response = youtube.playlistItems().insert(
         part="snippet",
         body=dict(
             snippet=dict(
@@ -97,6 +103,7 @@ def add_video_to_playlist(youtube, playlist_id, video_id):
             )
         )
     ).execute()
+    logger.info(response)
 
 # Initialize the index of the current API key
 current_key_index = 0
@@ -104,7 +111,7 @@ current_key_index = 0
 def get_youtube_video_id(query):
     global current_key_index  # Add this line
     try:
-        logging.info(f'Getting video id for {query} from YouTube.')
+        logger.info(f'Getting video id for {query} from YouTube.')
         youtube = get_youtube_service() 
         request = youtube.search().list(
             q=query,
@@ -132,7 +139,7 @@ def get_youtube_video_id(query):
                 youtube = get_youtube_service()
         else:
             # Other HTTP error, handle it as desired
-            logging.error(f"HTTP error occurred: {e}")
+            logger.error(f"HTTP error occurred: {e}")
 
     return None
 
@@ -141,7 +148,7 @@ def update_video_ids():
     conn = get_db_connection()
     songs = conn.execute('SELECT * FROM songs WHERE video_id IS NULL OR video_id = ""').fetchall()
 
-    logging.info(f'Updating video IDs for {len(songs)} songs.')
+    logger.info(f'Updating video IDs for {len(songs)} songs.')
 
     update_count = 0
     for row in songs:
@@ -158,8 +165,8 @@ def update_video_ids():
         except Exception as e:
             logging.error(f'Error updating video ID for song {song["song_name"]} by {song["artist"]}: {e}')
             
-    logging.info(f'{update_count} Video IDs updated successfully.')
+    logger.info(f'{update_count} Video IDs updated successfully.')
     remaining = conn.execute('SELECT count(*) FROM songs WHERE video_id IS NULL OR video_id = ""').fetchone()[0]
-    logging.info(f'{remaining} videos remaining.')
+    logger.info(f'{remaining} videos remaining.')
     conn.close()
 
