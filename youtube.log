@@ -1,35 +1,1755 @@
-2024-01-09 13:18:42,778 - root - INFO - Updating video IDs for 15112 songs.
-2024-01-09 13:18:42,778 - root - INFO - Getting video id for DISTRACTION POLO G from YouTube.
-2024-01-09 13:18:42,987 - root - INFO - Quota exceeded for API key AIzaSyBdzB6pqMGoJ8B3tAi0AEBAVdKN6US1wrk. Switching to API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA.
-2024-01-09 13:18:43,002 - root - INFO - Getting video id for NAIL TECH JACK HARLOW from YouTube.
-2024-01-09 13:18:43,183 - root - INFO - Quota exceeded for API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA. Switching to API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw.
-2024-01-09 13:18:43,183 - root - INFO - Getting video id for MONEY CALLING BEATFREAKZ/RAYE/RUSS/WWW from YouTube.
-2024-01-09 13:18:43,329 - root - INFO - Quota exceeded for API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw. Switching to API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo.
-2024-01-09 13:18:43,335 - root - INFO - Getting video id for WASTED DIGGA D FT ARRDEE from YouTube.
-2024-01-09 13:18:43,486 - root - INFO - Quota exceeded for API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo. Switching to API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o.
-2024-01-09 13:18:43,486 - root - INFO - Getting video id for YOUR HEART JOYNER LUCAS & J COLE from YouTube.
-2024-01-09 13:18:43,715 - root - INFO - Quota exceeded for API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o. Switching to API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA.
-2024-01-09 13:18:43,729 - root - INFO - Getting video id for RAPSTAR POLO G from YouTube.
-2024-01-09 13:18:43,900 - root - INFO - Quota exceeded for API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA. Switching to API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E.
-2024-01-09 13:18:43,908 - root - INFO - Getting video id for SHUM GO A from YouTube.
-2024-01-09 13:18:44,068 - root - INFO - Quota exceeded for API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E. Switching to API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q.
-2024-01-09 13:18:44,091 - root - INFO - Getting video id for TULSA JESUS FREAK LANA DEL REY from YouTube.
-2024-01-09 13:18:44,269 - root - INFO - Quota exceeded for API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q. Switching to API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c.
-2024-01-09 13:18:44,285 - root - INFO - Getting video id for PINGING (6 FIGURES) CENTRAL CEE from YouTube.
-2024-01-09 13:18:44,597 - root - INFO - Quota exceeded for API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c. Switching to API key AIzaSyANzdGkejzrulVUBv9LjhWgDWuiVztpWDY.
-2024-01-09 13:18:44,597 - root - INFO - Getting video id for HEATHER CONAN GRAY from YouTube.
-2024-01-09 13:18:44,866 - root - INFO - Quota exceeded for API key AIzaSyANzdGkejzrulVUBv9LjhWgDWuiVztpWDY. Switching to API key AIzaSyDyuFyvv1b24q-XfWKMdeIRpX3h1kPNLPk.
-2024-01-09 13:18:44,866 - root - INFO - Getting video id for CONO DERULO/PURI/JHORRMOUNTAIN from YouTube.
-2024-01-09 13:18:45,145 - root - INFO - Quota exceeded for API key AIzaSyDyuFyvv1b24q-XfWKMdeIRpX3h1kPNLPk. Switching to API key AIzaSyC0EkMQ4z0usHcmkt7KPN49cq5my022pmU.
-2024-01-09 13:18:45,145 - root - INFO - Getting video id for WE PAID LIL BABY FT 42 DUGG from YouTube.
-2024-01-09 13:18:45,506 - root - INFO - Quota exceeded for API key AIzaSyC0EkMQ4z0usHcmkt7KPN49cq5my022pmU. Switching to API key AIzaSyD7h9xDQ_-z1QLFnHKLrrGKBddgygw0SBU.
-2024-01-09 13:18:45,506 - root - INFO - Getting video id for REACT PUSSYCAT DOLLS from YouTube.
-2024-01-09 13:18:45,702 - root - INFO - Quota exceeded for API key AIzaSyD7h9xDQ_-z1QLFnHKLrrGKBddgygw0SBU. Switching to API key AIzaSyC2Tj7VZ0l2U23scqTB9TGEpW0QFz7PsqM.
-2024-01-09 13:18:45,718 - root - INFO - Getting video id for SELF-OBSESSED DA BEATFREAKZ FT K&K/DBE/DENO from YouTube.
-2024-01-09 13:18:45,918 - root - INFO - Quota exceeded for API key AIzaSyC2Tj7VZ0l2U23scqTB9TGEpW0QFz7PsqM. Switching to API key AIzaSyCY1ryZVFL4odjX8KernjJ4AJfo8UmUrlw.
-2024-01-09 13:18:45,918 - root - INFO - Getting video id for NUMBERS A BOOGIE/RICCH/GUNNA/LONDON from YouTube.
-2024-01-09 13:18:46,118 - root - INFO - Quota exceeded for API key AIzaSyCY1ryZVFL4odjX8KernjJ4AJfo8UmUrlw. Switching to API key AIzaSyCcfJdAtvYnvNdJ7y9qHK5cBHm6p5U-HNA.
-2024-01-09 13:18:46,133 - root - INFO - Getting video id for ALL I WANT (FOR CHRISTMAS) LIAM PAYNE from YouTube.
-2024-01-09 13:18:46,320 - root - INFO - All API keys have exceeded their quotas.
-2024-01-09 13:18:46,333 - root - INFO - 0 Video IDs updated successfully.
-2024-01-09 13:18:46,333 - root - INFO - 15112 videos remaining.
+2024-01-10 07:00:01,520 - root - INFO - Updating video IDs for 15112 songs.
+2024-01-10 07:00:01,520 - root - INFO - Getting video id for DISTRACTION POLO G from YouTube.
+2024-01-10 07:00:02,142 - root - INFO - Getting video id for NAIL TECH JACK HARLOW from YouTube.
+2024-01-10 07:00:02,655 - root - INFO - Getting video id for MONEY CALLING BEATFREAKZ/RAYE/RUSS/WWW from YouTube.
+2024-01-10 07:00:03,169 - root - INFO - Getting video id for WASTED DIGGA D FT ARRDEE from YouTube.
+2024-01-10 07:00:03,570 - root - INFO - Getting video id for YOUR HEART JOYNER LUCAS & J COLE from YouTube.
+2024-01-10 07:00:04,194 - root - INFO - Getting video id for RAPSTAR POLO G from YouTube.
+2024-01-10 07:00:04,809 - root - INFO - Getting video id for SHUM GO A from YouTube.
+2024-01-10 07:00:05,197 - root - INFO - Getting video id for TULSA JESUS FREAK LANA DEL REY from YouTube.
+2024-01-10 07:00:05,699 - root - INFO - Getting video id for PINGING (6 FIGURES) CENTRAL CEE from YouTube.
+2024-01-10 07:00:06,167 - root - INFO - Getting video id for HEATHER CONAN GRAY from YouTube.
+2024-01-10 07:00:06,653 - root - INFO - Getting video id for CONO DERULO/PURI/JHORRMOUNTAIN from YouTube.
+2024-01-10 07:00:07,163 - root - INFO - Getting video id for WE PAID LIL BABY FT 42 DUGG from YouTube.
+2024-01-10 07:00:07,674 - root - INFO - Getting video id for REACT PUSSYCAT DOLLS from YouTube.
+2024-01-10 07:00:08,187 - root - INFO - Getting video id for SELF-OBSESSED DA BEATFREAKZ FT K&K/DBE/DENO from YouTube.
+2024-01-10 07:00:08,594 - root - INFO - Getting video id for NUMBERS A BOOGIE/RICCH/GUNNA/LONDON from YouTube.
+2024-01-10 07:00:09,209 - root - INFO - Getting video id for ALL I WANT (FOR CHRISTMAS) LIAM PAYNE from YouTube.
+2024-01-10 07:00:09,720 - root - INFO - Getting video id for KEISHA & BECKY RUSS & TION WAYNE from YouTube.
+2024-01-10 07:00:10,232 - root - INFO - Getting video id for 10/10 WRETCH 32 FT GIGGS from YouTube.
+2024-01-10 07:00:10,746 - root - INFO - Getting video id for STACK IT UP LIAM PAYNE/A BOOGIE WIT DA from YouTube.
+2024-01-10 07:00:11,358 - root - INFO - Getting video id for THERE FOR YOU GORGON CITY & MK from YouTube.
+2024-01-10 07:00:11,873 - root - INFO - Getting video id for SLIDE AWAY MILEY CYRUS from YouTube.
+2024-01-10 07:00:12,383 - root - INFO - Getting video id for WILL WE TALK SAM FENDER from YouTube.
+2024-01-10 07:00:12,860 - root - INFO - Getting video id for EASY CAMILA CABELLO from YouTube.
+2024-01-10 07:00:13,407 - root - INFO - Getting video id for RIGHT BACK KHALID/A BOOGIE WIT DA HOODIE from YouTube.
+2024-01-10 07:00:14,020 - root - INFO - Getting video id for HARDER JAX JONES & BEBE REXHA from YouTube.
+2024-01-10 07:00:14,533 - root - INFO - Getting video id for GIANT CALVIN HARRIS & RAG'N'BONE MAN from YouTube.
+2024-01-10 07:00:15,093 - root - INFO - Getting video id for BOYFRIEND ARIANA GRANDE & SOCIAL HOUSE from YouTube.
+2024-01-10 07:00:15,867 - root - INFO - Getting video id for STRETCH YOU OUT SUMMER WALKER/A BOOGIE WIT DA from YouTube.
+2024-01-10 07:00:16,368 - root - INFO - Getting video id for XTC SOLARDO & ELI BROWN from YouTube.
+2024-01-10 07:00:16,888 - root - INFO - Getting video id for HYPERSONIC MISSILES SAM FENDER from YouTube.
+2024-01-10 07:00:17,403 - root - INFO - Getting video id for CRY FOR ME CAMILA CABELLO from YouTube.
+2024-01-10 07:00:18,016 - root - INFO - Getting video id for SOMETHING ABOUT YOU ELDERBROOK & RUDIMENTAL from YouTube.
+2024-01-10 07:00:18,460 - root - INFO - Getting video id for ALL MY FRIENDS DERMOT KENNEDY from YouTube.
+2024-01-10 07:00:18,938 - root - INFO - Getting video id for RITUAL TIESTO/JONAS BLUE/RITA ORA from YouTube.
+2024-01-10 07:00:19,445 - root - INFO - Getting video id for HOT GIRL SUMMER MEGAN THEE STALLION/MINAJ from YouTube.
+2024-01-10 07:00:20,063 - root - INFO - Getting video id for FREDDY FREDO from YouTube.
+2024-01-10 07:00:20,509 - root - INFO - Getting video id for TAKEAWAY CHAINSMOKERS/ILLENIUM/STELLA from YouTube.
+2024-01-10 07:00:20,986 - root - INFO - Getting video id for GOODBYES POST MALONE FT YOUNG THUG from YouTube.
+2024-01-10 07:00:21,498 - root - INFO - Getting video id for SIMMER MAHALIA FT BURNA BOY from YouTube.
+2024-01-10 07:00:22,012 - root - INFO - Getting video id for ONE OF US LIAM GALLAGHER from YouTube.
+2024-01-10 07:00:22,522 - root - INFO - Getting video id for SKRR YXNG BANE FT OFB from YouTube.
+2024-01-10 07:00:23,041 - root - INFO - Getting video id for CHICKEN NOODLE SOUP J-HOPE FT BECKY G from YouTube.
+2024-01-10 07:00:23,647 - root - INFO - Getting video id for THE BORDERS SAM FENDER from YouTube.
+2024-01-10 07:00:24,056 - root - INFO - Getting video id for YOU NEED TO CALM DOWN TAYLOR SWIFT from YouTube.
+2024-01-10 07:00:24,776 - root - INFO - Getting video id for DOIN' TIME LANA DEL REY from YouTube.
+2024-01-10 07:00:25,287 - root - INFO - Getting video id for INTRO DABABY from YouTube.
+2024-01-10 07:00:25,798 - root - INFO - Getting video id for MONEY IN THE GRAVE DRAKE FT RICK ROSS from YouTube.
+2024-01-10 07:00:26,279 - root - INFO - Getting video id for THIAGO SILVA DAVE & AJ TRACEY from YouTube.
+2024-01-10 07:00:26,821 - root - INFO - Getting video id for I COULD GET USED TO THIS BECKY HILL & WEISS from YouTube.
+2024-01-10 07:00:27,439 - root - INFO - Getting video id for NOW THAT I'VE FOUND YOU LIAM GALLAGHER from YouTube.
+2024-01-10 07:00:27,951 - root - INFO - Getting video id for ELASTIC AJ TRACEY from YouTube.
+2024-01-10 07:00:28,461 - root - INFO - Getting video id for TEETH 5 SECONDS OF SUMMER from YouTube.
+2024-01-10 07:00:28,976 - root - INFO - Getting video id for SHAMELESS CAMILA CABELLO from YouTube.
+2024-01-10 07:00:29,485 - root - INFO - Getting video id for WON'T BE LATE SWAE LEE FT DRAKE from YouTube.
+2024-01-10 07:00:29,997 - root - INFO - Getting video id for GOT IT ALL PROFESSOR GREEN/ALICE CHATER from YouTube.
+2024-01-10 07:00:30,507 - root - INFO - Getting video id for MY ONE WILEY/TORY LANEZ/KRANIUM/DAPPY from YouTube.
+2024-01-10 07:00:31,019 - root - INFO - Getting video id for ME TAYLOR SWIFT FT BRENDON URIE from YouTube.
+2024-01-10 07:00:31,539 - root - INFO - Getting video id for ALREADY AITCH FT TYREEZY from YouTube.
+2024-01-10 07:00:31,942 - root - INFO - Getting video id for HARD TO BELIEVE HEADIE ONE from YouTube.
+2024-01-10 07:00:32,387 - root - INFO - Getting video id for 100 THOUGHTS SL from YouTube.
+2024-01-10 07:00:32,868 - root - INFO - Getting video id for ONE SUMMER M HUNCHO from YouTube.
+2024-01-10 07:00:33,482 - root - INFO - Getting video id for GOD'S EYE DAVE from YouTube.
+2024-01-10 07:00:33,993 - root - INFO - Getting video id for CHANGE DENO FT DIGDAT from YouTube.
+2024-01-10 07:00:34,601 - root - INFO - Getting video id for SMALL TALK KATY PERRY from YouTube.
+2024-01-10 07:00:35,083 - root - INFO - Getting video id for NEVER REALLY OVER KATY PERRY from YouTube.
+2024-01-10 07:00:35,568 - root - INFO - Getting video id for I LIKE KOJO FUNDS FT WIZKID from YouTube.
+2024-01-10 07:00:36,037 - root - INFO - Getting video id for I SPY KREPT/KONAN/HEADIE ONE/K-TRAP from YouTube.
+2024-01-10 07:00:36,552 - root - INFO - Getting video id for HOLLYWOOD'S BLEEDING POST MALONE from YouTube.
+2024-01-10 07:00:37,062 - root - INFO - Getting video id for NORMAN F**KING ROCKWELL LANA DEL REY from YouTube.
+2024-01-10 07:00:37,576 - root - INFO - Getting video id for FAITH'S SONG AMY WADGE from YouTube.
+2024-01-10 07:00:38,067 - root - INFO - Getting video id for CROWN STORMZY from YouTube.
+2024-01-10 07:00:38,603 - root - INFO - Getting video id for JACQUES JAX JONES & TOVE LO from YouTube.
+2024-01-10 07:00:39,112 - root - INFO - Getting video id for TORN AVA MAX from YouTube.
+2024-01-10 07:00:39,624 - root - INFO - Getting video id for SOS AVICII FT ALOE BLACC from YouTube.
+2024-01-10 07:00:40,136 - root - INFO - Getting video id for BE SOMEONE CAMELPHAT & JAKE BUGG from YouTube.
+2024-01-10 07:00:40,644 - root - INFO - Getting video id for LOVE OF MY LIFE REMEDEE FT NOT3S & YOUNG ADZ from YouTube.
+2024-01-10 07:00:41,160 - root - INFO - Getting video id for I FEEL IT LEFTWING & KODY from YouTube.
+2024-01-10 07:00:41,670 - root - INFO - Getting video id for DID IT AGAIN LIL TECCA from YouTube.
+2024-01-10 07:00:42,183 - root - INFO - Getting video id for IT'S YOU ALI GATIE from YouTube.
+2024-01-10 07:00:42,695 - root - INFO - Getting video id for F**K IT I LOVE YOU LANA DEL REY from YouTube.
+2024-01-10 07:00:43,274 - root - INFO - Getting video id for PAN-FRIED KANO FT KOJO FUNDS from YouTube.
+2024-01-10 07:00:43,815 - root - INFO - Getting video id for GRACE LEWIS CAPALDI from YouTube.
+2024-01-10 07:00:44,435 - root - INFO - Getting video id for GANG GANG CADET from YouTube.
+2024-01-10 07:00:44,843 - root - INFO - Getting video id for GRADUATION BENNY BLANCO & JUICE WRLD from YouTube.
+2024-01-10 07:00:45,356 - root - INFO - Getting video id for BABUSHKA BOI ASAP ROCKY from YouTube.
+2024-01-10 07:00:45,867 - root - INFO - Getting video id for ONE THING RIGHT MARSHMELLO FT KANE BROWN from YouTube.
+2024-01-10 07:00:46,384 - root - INFO - Getting video id for HATE ME ELLIE GOULDING & JUICE WRLD from YouTube.
+2024-01-10 07:00:46,895 - root - INFO - Getting video id for RICH PLUG/D BLOCK EUROPE/OFFSET from YouTube.
+2024-01-10 07:00:47,407 - root - INFO - Getting video id for TEARDROPS KANO from YouTube.
+2024-01-10 07:00:47,918 - root - INFO - Getting video id for CANTER GERRY CINNAMON from YouTube.
+2024-01-10 07:00:48,431 - root - INFO - Getting video id for SUCKER JONAS BROTHERS from YouTube.
+2024-01-10 07:00:48,923 - root - INFO - Getting video id for YOUR GIRLFRIEND BLOSSOMS from YouTube.
+2024-01-10 07:00:49,453 - root - INFO - Getting video id for PEOPLE 1975 from YouTube.
+2024-01-10 07:00:49,882 - root - INFO - Getting video id for NO HALO BROCKHAMPTON from YouTube.
+2024-01-10 07:00:50,308 - root - INFO - Getting video id for RUBBERY BANDZ HEADIE ONE from YouTube.
+2024-01-10 07:00:50,784 - root - INFO - Getting video id for LOCO CONTIGO DJ SNAKE/J BALVIN/TYGA from YouTube.
+2024-01-10 07:00:51,397 - root - INFO - Getting video id for BACK TO BASICS HEADIE ONE FT SKEPTA from YouTube.
+2024-01-10 07:00:51,913 - root - INFO - Getting video id for THING FOR YOU DAVID GUETTA & MARTIN SOLVEIG from YouTube.
+2024-01-10 07:00:52,422 - root - INFO - Getting video id for BROWN SKIN GIRL BEYONCE/SAINT JHN/WIZKID from YouTube.
+2024-01-10 07:00:53,038 - root - INFO - Getting video id for ALL THE TIME ZARA LARSSON from YouTube.
+2024-01-10 07:00:53,546 - root - INFO - Getting video id for I WAS LOVIN' YOU JAMES HYPE/DOTS PER INCH/AYAK from YouTube.
+2024-01-10 07:00:53,737 - root - INFO - Quota exceeded for API key AIzaSyBdzB6pqMGoJ8B3tAi0AEBAVdKN6US1wrk. Switching to API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA.
+2024-01-10 07:00:53,746 - root - INFO - Getting video id for WHAT I LIKE ABOUT YOU JONAS BLUE FT THERESA REX from YouTube.
+2024-01-10 07:00:54,367 - root - INFO - Getting video id for FIND U AGAIN MARK RONSON FT CAMILA CABELLO from YouTube.
+2024-01-10 07:00:54,864 - root - INFO - Getting video id for BOASTY WILEY/STEFFLON DON/SEAN PAUL from YouTube.
+2024-01-10 07:00:55,496 - root - INFO - Getting video id for ALL DAY AND NIGHT JAX JONES/MARTIN SOLVEIG/BEER from YouTube.
+2024-01-10 07:00:56,110 - root - INFO - Getting video id for IF I CAN'T HAVE YOU SHAWN MENDES from YouTube.
+2024-01-10 07:00:56,723 - root - INFO - Getting video id for DANCING WITH A STRANGER SAM SMITH & NORMANI from YouTube.
+2024-01-10 07:00:57,337 - root - INFO - Getting video id for MOCKING IT JAY1 from YouTube.
+2024-01-10 07:00:57,840 - root - INFO - Getting video id for JOINTS BLADE BROWN FT K TRAP from YouTube.
+2024-01-10 07:00:58,361 - root - INFO - Getting video id for BAD BAD BAD YOUNG THUG FT LIL BABY from YouTube.
+2024-01-10 07:00:58,871 - root - INFO - Getting video id for KILOS BUGZY MALONE FT AITCH from YouTube.
+2024-01-10 07:00:59,385 - root - INFO - Getting video id for THE LONDON YOUNG THUG/J COLE/TRAVIS SCOTT from YouTube.
+2024-01-10 07:01:00,003 - root - INFO - Getting video id for HIGH HOPES PANIC AT THE DISCO from YouTube.
+2024-01-10 07:01:00,512 - root - INFO - Getting video id for BOUNCE BACK LITTLE MIX from YouTube.
+2024-01-10 07:01:01,024 - root - INFO - Getting video id for SUMMER DAYS MARTIN GARRIX/MACKLEMORE/STUMP from YouTube.
+2024-01-10 07:01:01,511 - root - INFO - Getting video id for GOLD ROSES RICK ROSS FT DRAKE from YouTube.
+2024-01-10 07:01:02,149 - root - INFO - Getting video id for UNSAINTED SLIPKNOT from YouTube.
+2024-01-10 07:01:02,663 - root - INFO - Getting video id for ONE TOUCH JESS GLYNNE & JAX JONES from YouTube.
+2024-01-10 07:01:03,278 - root - INFO - Getting video id for NERO FORTE SLIPKNOT from YouTube.
+2024-01-10 07:01:03,786 - root - INFO - Getting video id for QUEEN OF MEAN SARAH JEFFERY from YouTube.
+2024-01-10 07:01:04,301 - root - INFO - Getting video id for THE ARCHER TAYLOR SWIFT from YouTube.
+2024-01-10 07:01:04,811 - root - INFO - Getting video id for YOU LITTLE BEAUTY FISHER from YouTube.
+2024-01-10 07:01:05,324 - root - INFO - Getting video id for TIME NF from YouTube.
+2024-01-10 07:01:05,940 - root - INFO - Getting video id for THE GIT UP BLANCO BROWN from YouTube.
+2024-01-10 07:01:06,449 - root - INFO - Getting video id for DAILY DUPPY AITCH from YouTube.
+2024-01-10 07:01:06,966 - root - INFO - Getting video id for NOW YOU'RE GONE TOM WALKER FT ZARA LARSSON from YouTube.
+2024-01-10 07:01:07,476 - root - INFO - Getting video id for HOW BOUT NOW DRAKE from YouTube.
+2024-01-10 07:01:08,018 - root - INFO - Getting video id for HEAVEN AVICII from YouTube.
+2024-01-10 07:01:08,500 - root - INFO - Getting video id for 4PM IN CALABASAS DRAKE from YouTube.
+2024-01-10 07:01:09,011 - root - INFO - Getting video id for DON'T CHECK ON ME CHRIS BROWN/JUSTIN BIEBER/INK from YouTube.
+2024-01-10 07:01:09,625 - root - INFO - Getting video id for WHEN YOU KNOW WHAT LOVE IS CRAIG DAVID from YouTube.
+2024-01-10 07:01:10,244 - root - INFO - Getting video id for NOT TODAY PLUG FT DAPPY & TORY LANEZ from YouTube.
+2024-01-10 07:01:10,753 - root - INFO - Getting video id for SPIRIT BEYONCE from YouTube.
+2024-01-10 07:01:11,212 - root - INFO - Getting video id for CROSS ME ED SHEERAN/CHANCE/PNB ROCK from YouTube.
+2024-01-10 07:01:11,880 - root - INFO - Getting video id for GOODBYES POST MALONE/YOUNG THUG from YouTube.
+2024-01-10 07:01:12,392 - root - INFO - Getting video id for MOTHER'S DAUGHTER MILEY CYRUS from YouTube.
+2024-01-10 07:01:13,003 - root - INFO - Getting video id for BAD & BOUJIE AJ/GEKO/ARD ADZ/KOOMZ from YouTube.
+2024-01-10 07:01:13,494 - root - INFO - Getting video id for CALL YOU MINE CHAINSMOKERS & BEBE REXHA from YouTube.
+2024-01-10 07:01:14,031 - root - INFO - Getting video id for GONE CHARLI XCX/CHRISTINE & QUEENS from YouTube.
+2024-01-10 07:01:14,541 - root - INFO - Getting video id for SHINE GIRL MOSTACK FT STORMZY from YouTube.
+2024-01-10 07:01:15,052 - root - INFO - Getting video id for MOOD 4 EVA BEYONCE/JAY-Z/CHILDISH GAMBINO from YouTube.
+2024-01-10 07:01:15,568 - root - INFO - Getting video id for BAD BEHAVIOUR MABEL from YouTube.
+2024-01-10 07:01:16,056 - root - INFO - Getting video id for CAN YOU FEEL THE LOVE TONIGHT BEYONCE/GLOVER/EICHNER/ROGEN from YouTube.
+2024-01-10 07:01:16,591 - root - INFO - Getting video id for TALK KHALID from YouTube.
+2024-01-10 07:01:17,099 - root - INFO - Getting video id for LATE NIGHT FEELINGS MARK RONSON FT LYKKE LI from YouTube.
+2024-01-10 07:01:17,547 - root - INFO - Getting video id for OT BOP NSG from YouTube.
+2024-01-10 07:01:18,023 - root - INFO - Getting video id for POP OUT POLO G FT LIL TJAY from YouTube.
+2024-01-10 07:01:18,534 - root - INFO - Getting video id for EASIER 5 SECONDS OF SUMMER from YouTube.
+2024-01-10 07:01:19,046 - root - INFO - Getting video id for FAKE LOVE NAFE SMALLZ FT YXNG BANE from YouTube.
+2024-01-10 07:01:19,556 - root - INFO - Getting video id for GUCCI DEMON B YOUNG from YouTube.
+2024-01-10 07:01:20,071 - root - INFO - Getting video id for PHONE DOWN STEFFLON DON FT LIL BABY from YouTube.
+2024-01-10 07:01:20,586 - root - INFO - Getting video id for MR SHEEEN DIGGA D & RUSS SPLASH from YouTube.
+2024-01-10 07:01:21,093 - root - INFO - Getting video id for WHAT DO YOU MEAN SKEPTA FT J HUS from YouTube.
+2024-01-10 07:01:21,609 - root - INFO - Getting video id for MEGATRON NICKI MINAJ from YouTube.
+2024-01-10 07:01:22,119 - root - INFO - Getting video id for ONLY HUMAN JONAS BROTHERS from YouTube.
+2024-01-10 07:01:22,630 - root - INFO - Getting video id for FRIDAY KENNY ALLSTAR FT DIGDAT from YouTube.
+2024-01-10 07:01:23,142 - root - INFO - Getting video id for LEAVE DAT TRAP UNKNOWN T FT AJ TRACEY from YouTube.
+2024-01-10 07:01:23,655 - root - INFO - Getting video id for GUTEN TAG HARDY CAPRIO & DIGDAT from YouTube.
+2024-01-10 07:01:24,168 - root - INFO - Getting video id for ON A ROLL ASHLEY O from YouTube.
+2024-01-10 07:01:24,638 - root - INFO - Getting video id for GREAZE MODE SKEPTA & NAFE SMALLZ from YouTube.
+2024-01-10 07:01:25,099 - root - INFO - Getting video id for NOTHING BREAKS LIKE A HEART MARK RONSON FT MILEY CYRUS from YouTube.
+2024-01-10 07:01:25,604 - root - INFO - Getting video id for FALLING LIKE THE STARS JAMES ARTHUR from YouTube.
+2024-01-10 07:01:26,111 - root - INFO - Getting video id for RODEO LIL NAS X & CARDI B from YouTube.
+2024-01-10 07:01:26,624 - root - INFO - Getting video id for STAY (DON'T GO AWAY) DAVID GUETTA FT RAYE from YouTube.
+2024-01-10 07:01:27,136 - root - INFO - Getting video id for I THINK I'M OKAY MACHINE GUN KELLY/YUNGBLUD from YouTube.
+2024-01-10 07:01:27,751 - root - INFO - Getting video id for SIXTEEN ELLIE GOULDING from YouTube.
+2024-01-10 07:01:28,264 - root - INFO - Getting video id for HERE WITH ME MARSHMELLO FT CHVRCHES from YouTube.
+2024-01-10 07:01:28,694 - root - INFO - Getting video id for GOOD LOVE NAFE SMALLZ FT TORY LANEZ from YouTube.
+2024-01-10 07:01:29,183 - root - INFO - Getting video id for MR SHEEEN RUSS SPLASH/DIGGA D from YouTube.
+2024-01-10 07:01:29,695 - root - INFO - Getting video id for BIG MOOD K-TRAP from YouTube.
+2024-01-10 07:01:30,208 - root - INFO - Getting video id for HOMICIDE LOGIC FT EMINEM from YouTube.
+2024-01-10 07:01:30,723 - root - INFO - Getting video id for MOTOROLA DA BEATFREAKZ/SWARMZ/DENO from YouTube.
+2024-01-10 07:01:31,233 - root - INFO - Getting video id for JOY BASTILLE from YouTube.
+2024-01-10 07:01:31,745 - root - INFO - Getting video id for WALK ME HOME PINK from YouTube.
+2024-01-10 07:01:32,257 - root - INFO - Getting video id for EARFQUAKE TYLER THE CREATOR from YouTube.
+2024-01-10 07:01:32,767 - root - INFO - Getting video id for WHEN I GROW UP NF from YouTube.
+2024-01-10 07:01:33,280 - root - INFO - Getting video id for BURY A FRIEND BILLIE EILISH from YouTube.
+2024-01-10 07:01:33,894 - root - INFO - Getting video id for FASHION WEEK STEEL BANGLEZ/TRACEY/MOSTACK from YouTube.
+2024-01-10 07:01:34,354 - root - INFO - Getting video id for CARRY ON KYGO & RITA ORA from YouTube.
+2024-01-10 07:01:35,022 - root - INFO - Getting video id for RESCUE ME ONEREPUBLIC from YouTube.
+2024-01-10 07:01:35,533 - root - INFO - Getting video id for DROPTOP T MULLA FT HARDY CAPRIO from YouTube.
+2024-01-10 07:01:36,044 - root - INFO - Getting video id for OMERTA DRAKE from YouTube.
+2024-01-10 07:01:36,555 - root - INFO - Getting video id for STINKING RICH MOSTACK FT DAVE & J HUS from YouTube.
+2024-01-10 07:01:37,071 - root - INFO - Getting video id for WANTING NOT3S from YouTube.
+2024-01-10 07:01:37,587 - root - INFO - Getting video id for DRIVE BY TION WAYNE FT SWARMZ from YouTube.
+2024-01-10 07:01:38,093 - root - INFO - Getting video id for WOW. POST MALONE from YouTube.
+2024-01-10 07:01:38,709 - root - INFO - Getting video id for CON CALMA DADDY YANKEE/KATY PERRY/SNOW from YouTube.
+2024-01-10 07:01:39,321 - root - INFO - Getting video id for SO AM I AVA MAX from YouTube.
+2024-01-10 07:01:39,937 - root - INFO - Getting video id for NO DIET DIGGA D from YouTube.
+2024-01-10 07:01:40,449 - root - INFO - Getting video id for SANCTUARY JOJI from YouTube.
+2024-01-10 07:01:40,961 - root - INFO - Getting video id for BAN DRILL KREPT & KONAN from YouTube.
+2024-01-10 07:01:41,473 - root - INFO - Getting video id for SHOCKWAVE LIAM GALLAGHER from YouTube.
+2024-01-10 07:01:41,985 - root - INFO - Getting video id for JUST US DJ KHALED FT SZA from YouTube.
+2024-01-10 07:01:42,495 - root - INFO - Getting video id for I'M THE ONE MOSTACK & FREDO from YouTube.
+2024-01-10 07:01:43,009 - root - INFO - Getting video id for EARTH LIL DICKY from YouTube.
+2024-01-10 07:01:43,521 - root - INFO - Getting video id for NIGHTMARE HALSEY from YouTube.
+2024-01-10 07:01:43,954 - root - INFO - Getting video id for MISS DIVA ONE ACEN FT YUNGEN from YouTube.
+2024-01-10 07:01:44,443 - root - INFO - Getting video id for HAPPIER MARSHMELLO FT BASTILLE from YouTube.
+2024-01-10 07:01:44,866 - root - INFO - Getting video id for BOY WITH LUV BTS & HALSEY from YouTube.
+2024-01-10 07:01:45,335 - root - INFO - Getting video id for BULLET FROM A GUN SKEPTA from YouTube.
+2024-01-10 07:01:45,848 - root - INFO - Getting video id for SPEECHLESS (FULL) NAOMI SCOTT from YouTube.
+2024-01-10 07:01:46,290 - root - INFO - Getting video id for DREAM GLOW BTS & CHARLI XCX from YouTube.
+2024-01-10 07:01:46,751 - root - INFO - Getting video id for HAUTE TYGA FT J BALVIN & CHRIS BROWN from YouTube.
+2024-01-10 07:01:47,309 - root - INFO - Getting video id for PRESS CARDI B from YouTube.
+2024-01-10 07:01:47,751 - root - INFO - Getting video id for YOU SHOULD SEE ME IN A CROWN BILLIE EILISH from YouTube.
+2024-01-10 07:01:47,979 - root - INFO - Quota exceeded for API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA. Switching to API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw.
+2024-01-10 07:01:47,988 - root - INFO - Getting video id for LEAVE A LIGHT ON TOM WALKER from YouTube.
+2024-01-10 07:01:48,513 - root - INFO - Getting video id for COOL JONAS BROTHERS from YouTube.
+2024-01-10 07:01:49,048 - root - INFO - Getting video id for EASTSIDE BENNY BLANCO/HALSEY/KHALID from YouTube.
+2024-01-10 07:01:49,667 - root - INFO - Getting video id for OPTIONS NSG FT TION WAYNE from YouTube.
+2024-01-10 07:01:50,178 - root - INFO - Getting video id for YOUR MRS JAY1 from YouTube.
+2024-01-10 07:01:50,574 - root - INFO - Getting video id for THIS IS ME SETTLE/GREATEST SHOWMAN ENS from YouTube.
+2024-01-10 07:01:51,096 - root - INFO - Getting video id for LET YOU CHERYL from YouTube.
+2024-01-10 07:01:51,609 - root - INFO - Getting video id for DON'T WORRY BOUT ME ZARA LARSSON from YouTube.
+2024-01-10 07:01:52,126 - root - INFO - Getting video id for WILD MOSTACK from YouTube.
+2024-01-10 07:01:52,635 - root - INFO - Getting video id for THE SHORES OF NORMANDY JIM RADFORD from YouTube.
+2024-01-10 07:01:53,150 - root - INFO - Getting video id for ISIS JOYNER LUCAS FT LOGIC from YouTube.
+2024-01-10 07:01:53,555 - root - INFO - Getting video id for A WHOLE NEW WORLD (END TITLE) ZAYN & ZHAVIA WARD from YouTube.
+2024-01-10 07:01:54,088 - root - INFO - Getting video id for BLAME IT ON YOUR LOVE CHARLI XCX FT LIZZO from YouTube.
+2024-01-10 07:01:54,594 - root - INFO - Getting video id for JEALOUS DJ KHALED/BROWN/LIL WAYNE from YouTube.
+2024-01-10 07:01:55,194 - root - INFO - Getting video id for THE SEARCH NF from YouTube.
+2024-01-10 07:01:55,675 - root - INFO - Getting video id for M.E.N. II BUGZY MALONE from YouTube.
+2024-01-10 07:01:56,146 - root - INFO - Getting video id for 7 RINGS ARIANA GRANDE from YouTube.
+2024-01-10 07:01:56,732 - root - INFO - Getting video id for FRIEND LIKE ME WILL SMITH from YouTube.
+2024-01-10 07:01:57,346 - root - INFO - Getting video id for NOBODY MARTIN JENSEN & JAMES ARTHUR from YouTube.
+2024-01-10 07:01:57,960 - root - INFO - Getting video id for PRETTY SHINING PEOPLE GEORGE EZRA from YouTube.
+2024-01-10 07:01:58,471 - root - INFO - Getting video id for I THINK TYLER THE CREATOR from YouTube.
+2024-01-10 07:01:58,984 - root - INFO - Getting video id for INGLORIOUS SLOWTHAI FT SKEPTA from YouTube.
+2024-01-10 07:01:59,408 - root - INFO - Getting video id for WISH WISH DJ KHALED FT CARDI B/21 SAVAGE from YouTube.
+2024-01-10 07:02:00,007 - root - INFO - Getting video id for DON'T FEEL LIKE CRYING SIGRID from YouTube.
+2024-01-10 07:02:00,519 - root - INFO - Getting video id for PARADISE BAZZI from YouTube.
+2024-01-10 07:02:01,031 - root - INFO - Getting video id for PROMISES CALVIN HARRIS & SAM SMITH from YouTube.
+2024-01-10 07:02:01,643 - root - INFO - Getting video id for BREAK UP WITH YOUR GIRLFRIEND I'M BORED ARIANA GRANDE from YouTube.
+2024-01-10 07:02:02,265 - root - INFO - Getting video id for I'M SO TIRED LAUV & TROYE SIVAN from YouTube.
+2024-01-10 07:02:02,875 - root - INFO - Getting video id for BODY LOUD LUXURY FT BRANDO from YouTube.
+2024-01-10 07:02:03,386 - root - INFO - Getting video id for WORTH IT YK OSIRIS from YouTube.
+2024-01-10 07:02:03,999 - root - INFO - Getting video id for IGOR'S THEME TYLER THE CREATOR from YouTube.
+2024-01-10 07:02:04,618 - root - INFO - Getting video id for HIGHER DJ KHALED/NIPSEY HUSSLE/LEGEND from YouTube.
+2024-01-10 07:02:05,231 - root - INFO - Getting video id for SWERVIN A BOOGIE WIT DA HOODIE/6IX9INE from YouTube.
+2024-01-10 07:02:05,741 - root - INFO - Getting video id for CELEBRATE DJ KHALED/SCOTT/POST MALONE from YouTube.
+2024-01-10 07:02:06,358 - root - INFO - Getting video id for P4DP DIGGA D from YouTube.
+2024-01-10 07:02:06,971 - root - INFO - Getting video id for SPIRIT IN THE SKY KEIINO from YouTube.
+2024-01-10 07:02:07,481 - root - INFO - Getting video id for SOLDI MAHMOOD from YouTube.
+2024-01-10 07:02:07,994 - root - INFO - Getting video id for TOUGH LOVE AVICII/AGNES/VARGAS & LAGOLA from YouTube.
+2024-01-10 07:02:08,611 - root - INFO - Getting video id for POWER IS POWER SZA/WEEKND/TRAVIS SCOTT from YouTube.
+2024-01-10 07:02:09,138 - root - INFO - Getting video id for DEAR SOCIETY MADISON BEER from YouTube.
+2024-01-10 07:02:09,736 - root - INFO - Getting video id for BET OCTAVIAN FT MICHAEL PHANTOM from YouTube.
+2024-01-10 07:02:10,247 - root - INFO - Getting video id for ON THE WAY HOME JAYKAE & AITCH FT BOWZER BOSS from YouTube.
+2024-01-10 07:02:10,756 - root - INFO - Getting video id for NEVERMIND DENNIS LLOYD from YouTube.
+2024-01-10 07:02:11,271 - root - INFO - Getting video id for WHO DO YOU LOVE CHAINSMOKERS FT 5 SECONDS OF from YouTube.
+2024-01-10 07:02:11,768 - root - INFO - Getting video id for MONOPOLY ARIANA GRANDE & VICTORIA MONET from YouTube.
+2024-01-10 07:02:12,295 - root - INFO - Getting video id for DAILY DUPPY J HUS FT GRM DAILY from YouTube.
+2024-01-10 07:02:12,745 - root - INFO - Getting video id for HURTS 2B HUMAN PINK FT KHALID from YouTube.
+2024-01-10 07:02:13,294 - root - INFO - Getting video id for LAST HURRAH BEBE REXHA from YouTube.
+2024-01-10 07:02:13,933 - root - INFO - Getting video id for THURSDAY JESS GLYNNE from YouTube.
+2024-01-10 07:02:14,445 - root - INFO - Getting video id for KILL THIS LOVE BLACKPINK from YouTube.
+2024-01-10 07:02:14,958 - root - INFO - Getting video id for PEER PRESSURE JAMES BAY FT JULIA MICHAELS from YouTube.
+2024-01-10 07:02:15,576 - root - INFO - Getting video id for CLOUT OFFSET FT CARDI B from YouTube.
+2024-01-10 07:02:16,082 - root - INFO - Getting video id for DISASTER DAVE FT J HUS from YouTube.
+2024-01-10 07:02:16,598 - root - INFO - Getting video id for LET ME DOWN SLOWLY ALEC BENJAMIN from YouTube.
+2024-01-10 07:02:17,131 - root - INFO - Getting video id for STREATHAM DAVE from YouTube.
+2024-01-10 07:02:17,616 - root - INFO - Getting video id for LET NATURE SING RSPB from YouTube.
+2024-01-10 07:02:18,138 - root - INFO - Getting video id for STARTED IGGY AZALEA from YouTube.
+2024-01-10 07:02:18,646 - root - INFO - Getting video id for 2ALL CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:02:19,130 - root - INFO - Getting video id for THINK ABOUT US LITTLE MIX FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:02:19,668 - root - INFO - Getting video id for LIGHT IT UP MARSHMELLO/TYGA/CHRIS BROWN from YouTube.
+2024-01-10 07:02:20,194 - root - INFO - Getting video id for THIS LIFE VAMPIRE WEEKEND from YouTube.
+2024-01-10 07:02:20,694 - root - INFO - Getting video id for WITHOUT ME HALSEY from YouTube.
+2024-01-10 07:02:21,204 - root - INFO - Getting video id for ONLY WANT YOU RITA ORA from YouTube.
+2024-01-10 07:02:21,820 - root - INFO - Getting video id for LOST WITHOUT YOU FREYA RIDINGS from YouTube.
+2024-01-10 07:02:22,331 - root - INFO - Getting video id for NEW MONEY GEKO/FRENCH MONTANA/AY EM from YouTube.
+2024-01-10 07:02:22,841 - root - INFO - Getting video id for WISH YOU WERE GAY BILLIE EILISH from YouTube.
+2024-01-10 07:02:23,459 - root - INFO - Getting video id for CONVERSATION CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:02:23,971 - root - INFO - Getting video id for DIFFERENT STROKES MIST FT LOTTO ASH from YouTube.
+2024-01-10 07:02:24,483 - root - INFO - Getting video id for ENCORE CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:02:24,995 - root - INFO - Getting video id for DOOM DAYS BASTILLE from YouTube.
+2024-01-10 07:02:25,506 - root - INFO - Getting video id for JENNY OF OLDSTONES (GAME OF THRONES) FLORENCE & THE MACHINE from YouTube.
+2024-01-10 07:02:25,996 - root - INFO - Getting video id for BEFORE I LET GO BEYONCE from YouTube.
+2024-01-10 07:02:26,632 - root - INFO - Getting video id for HOW IT IS RODDY RICCH/CHIP/YXNG BANE from YouTube.
+2024-01-10 07:02:27,143 - root - INFO - Getting video id for SLIDE FRENCH MONTANA/BLUEFACE/TJAY from YouTube.
+2024-01-10 07:02:27,654 - root - INFO - Getting video id for SORRY BEYONCE from YouTube.
+2024-01-10 07:02:28,167 - root - INFO - Getting video id for CAN WE PRETEND PINK FT CASH CASH from YouTube.
+2024-01-10 07:02:28,681 - root - INFO - Getting video id for HOMAGE SL from YouTube.
+2024-01-10 07:02:29,189 - root - INFO - Getting video id for MURDER ON MY MIND YNW MELLY from YouTube.
+2024-01-10 07:02:29,704 - root - INFO - Getting video id for GODDAMN TYGA from YouTube.
+2024-01-10 07:02:30,216 - root - INFO - Getting video id for OUTTA MY HEAD KHALID & JOHN MAYER from YouTube.
+2024-01-10 07:02:30,700 - root - INFO - Getting video id for LOOSE ENDS LOYLE CARNER & JORJA SMITH from YouTube.
+2024-01-10 07:02:31,138 - root - INFO - Getting video id for BABY GIGGS from YouTube.
+2024-01-10 07:02:31,626 - root - INFO - Getting video id for FREEDOM BEYONCE FT KENDRICK LAMAR from YouTube.
+2024-01-10 07:02:32,164 - root - INFO - Getting video id for PARADISE GEORGE EZRA from YouTube.
+2024-01-10 07:02:32,676 - root - INFO - Getting video id for MEDELLIN MADONNA FT MALUMA from YouTube.
+2024-01-10 07:02:33,126 - root - INFO - Getting video id for MY BAD KHALID from YouTube.
+2024-01-10 07:02:33,648 - root - INFO - Getting video id for GOING BAD MEEK MILL FT DRAKE from YouTube.
+2024-01-10 07:02:34,211 - root - INFO - Getting video id for I CAN'T GET ENOUGH BENNYBLANCO/GOMEZ/BALVIN/TAINY from YouTube.
+2024-01-10 07:02:34,680 - root - INFO - Getting video id for PLEASE ME CARDI B & BRUNO MARS from YouTube.
+2024-01-10 07:02:35,232 - root - INFO - Getting video id for THOTIANA BLUEFACE from YouTube.
+2024-01-10 07:02:35,742 - root - INFO - Getting video id for THESE DAYS RUDIMENTAL/GLYNNE/MACKLEMORE from YouTube.
+2024-01-10 07:02:36,257 - root - INFO - Getting video id for 2002 ANNE-MARIE from YouTube.
+2024-01-10 07:02:36,872 - root - INFO - Getting video id for GIRLS LIKE YOU MAROON 5 FT CARDI B from YouTube.
+2024-01-10 07:02:37,385 - root - INFO - Getting video id for KITCHEN KINGS D-BLOCK EUROPE from YouTube.
+2024-01-10 07:02:37,852 - root - INFO - Getting video id for OCHO CINCO M HUNCHO from YouTube.
+2024-01-10 07:02:38,339 - root - INFO - Getting video id for RACKS IN THE MIDDLE NIPSEY HUSSLE/RODDY RICCH from YouTube.
+2024-01-10 07:02:38,817 - root - INFO - Getting video id for MIKROKOSMOS BTS from YouTube.
+2024-01-10 07:02:39,329 - root - INFO - Getting video id for ROCK BOTTOM M HUNCHO FT YXNG BANE from YouTube.
+2024-01-10 07:02:39,842 - root - INFO - Getting video id for BACK TO LOVE CHRIS BROWN from YouTube.
+2024-01-10 07:02:40,403 - root - INFO - Getting video id for ADVICE CADET & DENO DRIZ from YouTube.
+2024-01-10 07:02:40,864 - root - INFO - Getting video id for BIRDS M HUNCHO from YouTube.
+2024-01-10 07:02:41,379 - root - INFO - Getting video id for I'M NOT ALONE 2019 CALVIN HARRIS from YouTube.
+2024-01-10 07:02:41,989 - root - INFO - Getting video id for PULL UP KSI & RANDOLPH FT JME from YouTube.
+2024-01-10 07:02:42,175 - root - INFO - Quota exceeded for API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw. Switching to API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo.
+2024-01-10 07:02:42,184 - root - INFO - Getting video id for ROBBERY JUICE WRLD from YouTube.
+2024-01-10 07:02:42,710 - root - INFO - Getting video id for CAN'T STOP CLOCKS MIST from YouTube.
+2024-01-10 07:02:43,222 - root - INFO - Getting video id for HERE WE GO AGAIN SIGMA FT LOUISA from YouTube.
+2024-01-10 07:02:43,734 - root - INFO - Getting video id for TASTE TYGA FT OFFSET from YouTube.
+2024-01-10 07:02:44,245 - root - INFO - Getting video id for RACING CARS RUTI from YouTube.
+2024-01-10 07:02:44,762 - root - INFO - Getting video id for PURE WATER MUSTARD & MIGOS from YouTube.
+2024-01-10 07:02:45,215 - root - INFO - Getting video id for I'LL NEVER LOVE AGAIN MOLLY HOCKING from YouTube.
+2024-01-10 07:02:45,781 - root - INFO - Getting video id for JUICE LIZZO from YouTube.
+2024-01-10 07:02:46,294 - root - INFO - Getting video id for BETTER MAN WESTLIFE from YouTube.
+2024-01-10 07:02:46,808 - root - INFO - Getting video id for 11 MINUTES YUNGBLUD/HALSEY/TRAVIS BARKER from YouTube.
+2024-01-10 07:02:47,317 - root - INFO - Getting video id for HOLD MY GIRL GEORGE EZRA from YouTube.
+2024-01-10 07:02:47,829 - root - INFO - Getting video id for RINGTONE DR VADES & BLANCO from YouTube.
+2024-01-10 07:02:48,347 - root - INFO - Getting video id for DIE YOUNG RODDY RICCH from YouTube.
+2024-01-10 07:02:48,853 - root - INFO - Getting video id for NIGHTS LIKE THIS KEHLANI FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:02:49,365 - root - INFO - Getting video id for YOU MEAN THE WORLD TO ME FREYA RIDINGS from YouTube.
+2024-01-10 07:02:49,983 - root - INFO - Getting video id for MIDDLE CHILD J COLE from YouTube.
+2024-01-10 07:02:50,595 - root - INFO - Getting video id for NO ONE JESS GLYNNE from YouTube.
+2024-01-10 07:02:51,209 - root - INFO - Getting video id for MIXED PERSONALITIES YNW MELLY FT KAYNE WEST from YouTube.
+2024-01-10 07:02:51,716 - root - INFO - Getting video id for 365 ZEDD FT KATY PERRY from YouTube.
+2024-01-10 07:02:52,231 - root - INFO - Getting video id for DEUTSCHLAND RAMMSTEIN from YouTube.
+2024-01-10 07:02:52,741 - root - INFO - Getting video id for LET YOU LOVE ME RITA ORA from YouTube.
+2024-01-10 07:02:53,255 - root - INFO - Getting video id for CON CALMA DADDY YANKEE FT SNOW from YouTube.
+2024-01-10 07:02:53,872 - root - INFO - Getting video id for BALLY SWARMZ FT TION WAYNE from YouTube.
+2024-01-10 07:02:54,279 - root - INFO - Getting video id for THANK U NEXT ARIANA GRANDE from YouTube.
+2024-01-10 07:02:54,895 - root - INFO - Getting video id for PATIENCE TAME IMPALA from YouTube.
+2024-01-10 07:02:55,512 - root - INFO - Getting video id for FWA BOSS SL from YouTube.
+2024-01-10 07:02:56,019 - root - INFO - Getting video id for LIFESTYLE DENO from YouTube.
+2024-01-10 07:02:56,427 - root - INFO - Getting video id for MATCH DAY RV & HEADIE ONE from YouTube.
+2024-01-10 07:02:57,045 - root - INFO - Getting video id for SPONSORED HARDY CAPRIO from YouTube.
+2024-01-10 07:02:57,559 - root - INFO - Getting video id for ALMOST (SWEET MUSIC) HOZIER from YouTube.
+2024-01-10 07:02:58,018 - root - INFO - Getting video id for PRICE ON MY HEAD NAV FT WEEKND from YouTube.
+2024-01-10 07:02:58,521 - root - INFO - Getting video id for PLAY GOD SAM FENDER from YouTube.
+2024-01-10 07:02:58,990 - root - INFO - Getting video id for PLAY JAX JONES/YEARS & YEARS from YouTube.
+2024-01-10 07:02:59,433 - root - INFO - Getting video id for BETTER NOW POST MALONE from YouTube.
+2024-01-10 07:03:00,016 - root - INFO - Getting video id for STAY AWAKE DEAN LEWIS from YouTube.
+2024-01-10 07:03:00,478 - root - INFO - Getting video id for BREATHE CAMELPHAT/CRISTOPH/JEM COOKE from YouTube.
+2024-01-10 07:03:00,922 - root - INFO - Getting video id for PSYCH OUT AJ TRACEY from YouTube.
+2024-01-10 07:03:01,444 - root - INFO - Getting video id for FAST JUICE WRLD from YouTube.
+2024-01-10 07:03:01,959 - root - INFO - Getting video id for TWO OF US LOUIS TOMLINSON from YouTube.
+2024-01-10 07:03:02,574 - root - INFO - Getting video id for HEAR ME CALLING JUICE WRLD from YouTube.
+2024-01-10 07:03:03,087 - root - INFO - Getting video id for SALLY WALKER IGGY AZALEA from YouTube.
+2024-01-10 07:03:03,598 - root - INFO - Getting video id for HELLO MY LOVE WESTLIFE from YouTube.
+2024-01-10 07:03:04,214 - root - INFO - Getting video id for SWAN SONG DUA LIPA from YouTube.
+2024-01-10 07:03:04,727 - root - INFO - Getting video id for FREAKY TORY LANEZ from YouTube.
+2024-01-10 07:03:05,157 - root - INFO - Getting video id for THE GREATEST SHOW JACKMAN/SETTLE/EFRON/ZENDAYA from YouTube.
+2024-01-10 07:03:05,651 - root - INFO - Getting video id for EXITS FOALS from YouTube.
+2024-01-10 07:03:06,158 - root - INFO - Getting video id for DESIRE SUB FOCUS & DIMENSION from YouTube.
+2024-01-10 07:03:06,775 - root - INFO - Getting video id for IN DEGREES FOALS from YouTube.
+2024-01-10 07:03:07,286 - root - INFO - Getting video id for LOST IN THE FIRE GESAFFELSTEIN FT WEEKND from YouTube.
+2024-01-10 07:03:07,798 - root - INFO - Getting video id for BELLYACHE BILLIE EILISH from YouTube.
+2024-01-10 07:03:08,411 - root - INFO - Getting video id for LONGSHOT CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:03:09,027 - root - INFO - Getting video id for MAMA CLEAN BANDIT FT ELLIE GOULDING from YouTube.
+2024-01-10 07:03:09,494 - root - INFO - Getting video id for UNDECIDED CHRIS BROWN from YouTube.
+2024-01-10 07:03:10,050 - root - INFO - Getting video id for A LOT 21 SAVAGE from YouTube.
+2024-01-10 07:03:10,509 - root - INFO - Getting video id for FIRESTARTER PRODIGY from YouTube.
+2024-01-10 07:03:10,974 - root - INFO - Getting video id for LOOK BACK AT IT A BOOGIE WIT DA HOODIE from YouTube.
+2024-01-10 07:03:11,688 - root - INFO - Getting video id for LIKE A FILM NAFE SMALLZ FT M HUNCHO from YouTube.
+2024-01-10 07:03:12,201 - root - INFO - Getting video id for 18HUNNA HEADIE ONE FT DAVE from YouTube.
+2024-01-10 07:03:12,712 - root - INFO - Getting video id for DON'T WATCH ME CRY JORJA SMITH from YouTube.
+2024-01-10 07:03:13,224 - root - INFO - Getting video id for NO CAP DIGDAT & LOSKI from YouTube.
+2024-01-10 07:03:13,740 - root - INFO - Getting video id for I LIL SKIES from YouTube.
+2024-01-10 07:03:14,351 - root - INFO - Getting video id for COMFORTABLE YUNGEN FT DAPPY from YouTube.
+2024-01-10 07:03:14,864 - root - INFO - Getting video id for FLUX ELLIE GOULDING from YouTube.
+2024-01-10 07:03:15,376 - root - INFO - Getting video id for THINK ABOUT YOU KYGO FT VALERIE BROUSSARD from YouTube.
+2024-01-10 07:03:15,804 - root - INFO - Getting video id for 187 GIGGS from YouTube.
+2024-01-10 07:03:16,358 - root - INFO - Getting video id for SINCERITY IS SCARY 1975 from YouTube.
+2024-01-10 07:03:16,917 - root - INFO - Getting video id for NEEDED TIME YXNG BANE from YouTube.
+2024-01-10 07:03:17,426 - root - INFO - Getting video id for WOMAN LIKE ME LITTLE MIX FT NICKI MINAJ from YouTube.
+2024-01-10 07:03:18,039 - root - INFO - Getting video id for ZEZE KODAK BLACK/SCOTT/OFFSET from YouTube.
+2024-01-10 07:03:18,548 - root - INFO - Getting video id for RUNNING MAN D-BLOCK EUROPE from YouTube.
+2024-01-10 07:03:18,994 - root - INFO - Getting video id for ALL I EVER WANTED FREDO FT DAVE from YouTube.
+2024-01-10 07:03:19,470 - root - INFO - Getting video id for A MILLION DREAMS ZIV ZAIFMAN/JACKMAN/WILLIAMS from YouTube.
+2024-01-10 07:03:19,983 - root - INFO - Getting video id for LOSING IT FISHER from YouTube.
+2024-01-10 07:03:20,496 - root - INFO - Getting video id for FUNKY FRIDAY DAVE FT FREDO from YouTube.
+2024-01-10 07:03:21,006 - root - INFO - Getting video id for THROWBACK UNKNOWN T/CRAZY COUSINZ from YouTube.
+2024-01-10 07:03:21,519 - root - INFO - Getting video id for RED ROOM OFFSET from YouTube.
+2024-01-10 07:03:22,038 - root - INFO - Getting video id for REWRITE THE STARS JAMES ARTHUR & ANNE-MARIE from YouTube.
+2024-01-10 07:03:22,752 - root - INFO - Getting video id for NEEDY ARIANA GRANDE from YouTube.
+2024-01-10 07:03:23,469 - root - INFO - Getting video id for GUN LEAN RUSS from YouTube.
+2024-01-10 07:03:23,977 - root - INFO - Getting video id for LEAVE ME ALONE FLIPP DINERO from YouTube.
+2024-01-10 07:03:24,489 - root - INFO - Getting video id for SATURDAY NIGHTS KHALID from YouTube.
+2024-01-10 07:03:25,102 - root - INFO - Getting video id for KETTLE POURING D-BLOCK EUROPE from YouTube.
+2024-01-10 07:03:25,620 - root - INFO - Getting video id for FIRST DAYS (CADET TRIBUTE) DENO from YouTube.
+2024-01-10 07:03:26,184 - root - INFO - Getting video id for ALONE MARSHMELLO from YouTube.
+2024-01-10 07:03:26,739 - root - INFO - Getting video id for FLUCTUATE CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:03:27,353 - root - INFO - Getting video id for ONE DRINK PICTURE THIS from YouTube.
+2024-01-10 07:03:27,866 - root - INFO - Getting video id for NOTHING BUT NET AJ TRACEY & GIGGS from YouTube.
+2024-01-10 07:03:28,338 - root - INFO - Getting video id for WIFEY RIDDIM 3 AJ TRACEY from YouTube.
+2024-01-10 07:03:28,802 - root - INFO - Getting video id for CANDLELIGHT JACK SAVORETTI from YouTube.
+2024-01-10 07:03:29,404 - root - INFO - Getting video id for CLOSE TO ME ELLIE GOULDING/DIPLO/SWAE LEE from YouTube.
+2024-01-10 07:03:29,914 - root - INFO - Getting video id for MEDICINE BRING ME THE HORIZON from YouTube.
+2024-01-10 07:03:30,630 - root - INFO - Getting video id for BABY CLEAN BANDIT/MARINA/LUIS FONSI from YouTube.
+2024-01-10 07:03:31,246 - root - INFO - Getting video id for BETTER KHALID from YouTube.
+2024-01-10 07:03:31,758 - root - INFO - Getting video id for RUIN MY LIFE ZARA LARSSON from YouTube.
+2024-01-10 07:03:32,270 - root - INFO - Getting video id for IN MY MIND DYNORO & GIGI D'AGOSTINO from YouTube.
+2024-01-10 07:03:32,883 - root - INFO - Getting video id for HOLD YOU DOWN RAMZ from YouTube.
+2024-01-10 07:03:33,398 - root - INFO - Getting video id for EMPTY SPACE JAMES ARTHUR from YouTube.
+2024-01-10 07:03:33,909 - root - INFO - Getting video id for SENSEI ZIEZIE from YouTube.
+2024-01-10 07:03:34,423 - root - INFO - Getting video id for MO BAMBA SHECK WES from YouTube.
+2024-01-10 07:03:34,930 - root - INFO - Getting video id for EVERYDAY LOGIC FT MARSHMELLO from YouTube.
+2024-01-10 07:03:35,363 - root - INFO - Getting video id for YOUNGBLOOD 5 SECONDS OF SUMMER from YouTube.
+2024-01-10 07:03:35,958 - root - INFO - Getting video id for SURVIVAL OF THE FITTEST FREDO from YouTube.
+2024-01-10 07:03:36,427 - root - INFO - Getting video id for MMHM FREDO from YouTube.
+2024-01-10 07:03:36,600 - root - INFO - Quota exceeded for API key AIzaSyDL4Z8jZ6QJUeTjRc-eR9xbQE5ygjKYJlo. Switching to API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o.
+2024-01-10 07:03:36,610 - root - INFO - Getting video id for I'LL BE THERE JESS GLYNNE from YouTube.
+2024-01-10 07:03:37,289 - root - INFO - Getting video id for MONEY CARDI B from YouTube.
+2024-01-10 07:03:37,803 - root - INFO - Getting video id for IMAGINE ARIANA GRANDE from YouTube.
+2024-01-10 07:03:38,313 - root - INFO - Getting video id for PERFECT TO ME ANNE-MARIE from YouTube.
+2024-01-10 07:03:38,866 - root - INFO - Getting video id for HOPE CHAINSMOKERS FT WINONA OAK from YouTube.
+2024-01-10 07:03:39,438 - root - INFO - Getting video id for ELECTRICITY SILK CITY FT DUA LIPA from YouTube.
+2024-01-10 07:03:39,951 - root - INFO - Getting video id for POLAROID JONAS BLUE/LIAM PAYNE/LENNON from YouTube.
+2024-01-10 07:03:40,567 - root - INFO - Getting video id for LIE TO ME 5 SECONDS OF SUMMER from YouTube.
+2024-01-10 07:03:41,115 - root - INFO - Getting video id for KIKA 6IX9INE FT TORY LANEZ from YouTube.
+2024-01-10 07:03:41,590 - root - INFO - Getting video id for I FOUND YOU BENNY BLANCO & CALVIN HARRIS from YouTube.
+2024-01-10 07:03:42,205 - root - INFO - Getting video id for MOTHER TONGUE BRING ME THE HORIZON from YouTube.
+2024-01-10 07:03:42,818 - root - INFO - Getting video id for NIHILIST BLUES BRING ME THE HORIZON FT GRIMES from YouTube.
+2024-01-10 07:03:43,319 - root - INFO - Getting video id for IT'S NOT LIVING (IF IT'S NOT WITH YOU) 1975 from YouTube.
+2024-01-10 07:03:43,945 - root - INFO - Getting video id for MILE HIGH JAMES BLAKE/TRAVIS SCOTT/METRO from YouTube.
+2024-01-10 07:03:44,557 - root - INFO - Getting video id for JUST GOT PAID SIGALA/EYRE/TRAINOR FT MONTANA from YouTube.
+2024-01-10 07:03:45,072 - root - INFO - Getting video id for STARTENDER A BOOGIE WIT DA HOODIE/OFFSET from YouTube.
+2024-01-10 07:03:45,687 - root - INFO - Getting video id for PUMPY DA BEATFREAKZ/AJ/DENO/CADET from YouTube.
+2024-01-10 07:03:46,096 - root - INFO - Getting video id for A MILLION DREAMS PINK from YouTube.
+2024-01-10 07:03:46,690 - root - INFO - Getting video id for NEW RULES DUA LIPA from YouTube.
+2024-01-10 07:03:47,221 - root - INFO - Getting video id for FIRST OFF FUTURE FT TRAVIS SCOTT from YouTube.
+2024-01-10 07:03:47,735 - root - INFO - Getting video id for CRUSHED UP FUTURE from YouTube.
+2024-01-10 07:03:48,245 - root - INFO - Getting video id for KEANU REEVES LOGIC from YouTube.
+2024-01-10 07:03:48,858 - root - INFO - Getting video id for FIRE ON FIRE SAM SMITH from YouTube.
+2024-01-10 07:03:49,378 - root - INFO - Getting video id for 1999 CHARLI XCX FT TROYE SIVAN from YouTube.
+2024-01-10 07:03:49,884 - root - INFO - Getting video id for BACK & FORTH MK/JONAS BLUE/BECKY HILL from YouTube.
+2024-01-10 07:03:50,501 - root - INFO - Getting video id for DRIP TOO HARD LIL BABY & GUNNA from YouTube.
+2024-01-10 07:03:51,113 - root - INFO - Getting video id for KISS AND MAKE UP DUA LIPA & BLACKPINK from YouTube.
+2024-01-10 07:03:51,626 - root - INFO - Getting video id for NO TEARS LEFT TO CRY ARIANA GRANDE from YouTube.
+2024-01-10 07:03:52,237 - root - INFO - Getting video id for IDONTWANNABEYOUANYMORE BILLIE EILISH from YouTube.
+2024-01-10 07:03:52,856 - root - INFO - Getting video id for TAKI TAKI DJ SNAKE/GOMEZ/CARDI B/OZUNA from YouTube.
+2024-01-10 07:03:53,365 - root - INFO - Getting video id for BE ALRIGHT DEAN LEWIS from YouTube.
+2024-01-10 07:03:53,875 - root - INFO - Getting video id for SOLO CLEAN BANDIT FT DEMI LOVATO from YouTube.
+2024-01-10 07:03:54,492 - root - INFO - Getting video id for ALL I AM JESS GLYNNE from YouTube.
+2024-01-10 07:03:55,003 - root - INFO - Getting video id for HOPE IS A DANGEROUS THING FOR A WOMAN LANA DEL REY from YouTube.
+2024-01-10 07:03:55,621 - root - INFO - Getting video id for FAVOURITE THING FLEUR EAST from YouTube.
+2024-01-10 07:03:56,078 - root - INFO - Getting video id for FOUND WHAT I'VE BEEN LOOKING FOR TOM GRENNAN from YouTube.
+2024-01-10 07:03:56,611 - root - INFO - Getting video id for THE POWER OF LOVE DALTON HARRIS FT JAMES ARTHUR from YouTube.
+2024-01-10 07:03:57,256 - root - INFO - Getting video id for ARMS AROUND YOU XXXTENTACION/PUMP/MALUMA/SWAE from YouTube.
+2024-01-10 07:03:57,763 - root - INFO - Getting video id for I LIKE IT CARDI B/BAD BUNNY/J BALVIN from YouTube.
+2024-01-10 07:03:58,385 - root - INFO - Getting video id for PROBLEM YXNG BANE FT FREDO from YouTube.
+2024-01-10 07:03:58,897 - root - INFO - Getting video id for IN MY FEELINGS DRAKE from YouTube.
+2024-01-10 07:03:59,509 - root - INFO - Getting video id for SAY MY NAME DAVID GUETTA/BEBE REXHA/BALVIN from YouTube.
+2024-01-10 07:04:00,124 - root - INFO - Getting video id for GOD'S PLAN DRAKE from YouTube.
+2024-01-10 07:04:00,635 - root - INFO - Getting video id for WE BUILT THIS CITY LADBABY from YouTube.
+2024-01-10 07:04:01,051 - root - INFO - Getting video id for DESPACITO (REMIX) LUIS FONSI/DADDY YANKEE/BIEBER from YouTube.
+2024-01-10 07:04:01,660 - root - INFO - Getting video id for THE GREATEST SHOW PANIC AT THE DISCO from YouTube.
+2024-01-10 07:04:02,171 - root - INFO - Getting video id for RISE JONAS BLUE FT JACK & JACK from YouTube.
+2024-01-10 07:04:02,683 - root - INFO - Getting video id for WHOA (MIND IN AWE) XXXTENTACION from YouTube.
+2024-01-10 07:04:03,198 - root - INFO - Getting video id for BAD XXXTENTACION from YouTube.
+2024-01-10 07:04:03,711 - root - INFO - Getting video id for NASSTY D-BLOCK EUROPE/ADZ/LIL PINO/LB from YouTube.
+2024-01-10 07:04:04,216 - root - INFO - Getting video id for WHITE CHRISTMAS GWEN STEFANI from YouTube.
+2024-01-10 07:04:04,731 - root - INFO - Getting video id for SOMEWHERE IN MY MEMORY (MAIN TITLE) JOHN WILLIAMS from YouTube.
+2024-01-10 07:04:05,346 - root - INFO - Getting video id for WHITE CHRISTMAS GLEE CAST from YouTube.
+2024-01-10 07:04:05,856 - root - INFO - Getting video id for LIGHT UP FLAKEFLEET PRIMARY SCHOOL from YouTube.
+2024-01-10 07:04:06,265 - root - INFO - Getting video id for AIRFORCE DIGDAT FT K TRAP/KREPT & KONAN from YouTube.
+2024-01-10 07:04:06,781 - root - INFO - Getting video id for ALWAYS REMEMBER US THIS WAY LADY GAGA from YouTube.
+2024-01-10 07:04:07,293 - root - INFO - Getting video id for TELL THE TRUTH PLUG/D-BLOCK/RICH THE KID from YouTube.
+2024-01-10 07:04:07,904 - root - INFO - Getting video id for MAMA 6IX9INE/NICKI MINAJ/KANYE WEST from YouTube.
+2024-01-10 07:04:08,419 - root - INFO - Getting video id for HOMERTON B UNKNOWN T from YouTube.
+2024-01-10 07:04:08,931 - root - INFO - Getting video id for GUARDIAN ANGEL XXXTENTACION from YouTube.
+2024-01-10 07:04:09,434 - root - INFO - Getting video id for MIA BAD BUNNY FT DRAKE from YouTube.
+2024-01-10 07:04:09,953 - root - INFO - Getting video id for NEVER ENOUGH LOREN ALLRED from YouTube.
+2024-01-10 07:04:10,467 - root - INFO - Getting video id for TIC TOC 6IX9INE FT LIL BABY from YouTube.
+2024-01-10 07:04:10,915 - root - INFO - Getting video id for TEACH YOU GANGSTA MOSTACK from YouTube.
+2024-01-10 07:04:11,343 - root - INFO - Getting video id for WHAT'S FREE MEEK MILL FT RICK ROSS & JAY Z from YouTube.
+2024-01-10 07:04:11,862 - root - INFO - Getting video id for 24/7 MEEK MILL FT ELLA MAI from YouTube.
+2024-01-10 07:04:12,294 - root - INFO - Getting video id for I ALWAYS WANNA DIE (SOMETIMES) 1975 from YouTube.
+2024-01-10 07:04:12,781 - root - INFO - Getting video id for GOODBYE DERULO/GUETTA/MINAJ/WILLIAM from YouTube.
+2024-01-10 07:04:13,230 - root - INFO - Getting video id for LOVE MADE ME DO IT CHERYL from YouTube.
+2024-01-10 07:04:13,740 - root - INFO - Getting video id for I'LL NEVER LOVE AGAIN LADY GAGA & BRADLEY COOPER from YouTube.
+2024-01-10 07:04:14,463 - root - INFO - Getting video id for BMT FREDO from YouTube.
+2024-01-10 07:04:14,973 - root - INFO - Getting video id for BROKEN HOMES PLUG/NAFE SMALLZ/M HUNCHO from YouTube.
+2024-01-10 07:04:15,402 - root - INFO - Getting video id for COME OUT AND PLAY BILLIE EILISH from YouTube.
+2024-01-10 07:04:15,996 - root - INFO - Getting video id for NO STYLIST FRENCH MONTANA FT DRAKE from YouTube.
+2024-01-10 07:04:16,455 - root - INFO - Getting video id for OCEAN EYES BILLIE EILISH from YouTube.
+2024-01-10 07:04:17,020 - root - INFO - Getting video id for SENSELESS STEFFLON DON from YouTube.
+2024-01-10 07:04:17,458 - root - INFO - Getting video id for AIRFORCE DIGDAT FT KREPT & KONAN/K-TRAP from YouTube.
+2024-01-10 07:04:17,867 - root - INFO - Getting video id for DOING IT AJ TRACEY from YouTube.
+2024-01-10 07:04:18,332 - root - INFO - Getting video id for STRIP LITTLE MIX FT SHARAYA J from YouTube.
+2024-01-10 07:04:18,864 - root - INFO - Getting video id for GUIDING LIGHT MUMFORD & SONS from YouTube.
+2024-01-10 07:04:19,374 - root - INFO - Getting video id for TRIP ELLA MAI from YouTube.
+2024-01-10 07:04:19,887 - root - INFO - Getting video id for MOVES OLLY MURS FT SNOOP DOGG from YouTube.
+2024-01-10 07:04:20,316 - root - INFO - Getting video id for NATURAL IMAGINE DRAGONS from YouTube.
+2024-01-10 07:04:20,912 - root - INFO - Getting video id for DIP TYGA from YouTube.
+2024-01-10 07:04:21,345 - root - INFO - Getting video id for I LOVE IT KANYE WEST & LIL PUMP from YouTube.
+2024-01-10 07:04:21,936 - root - INFO - Getting video id for BREATHIN ARIANA GRANDE from YouTube.
+2024-01-10 07:04:22,512 - root - INFO - Getting video id for BAD LIAR IMAGINE DRAGONS from YouTube.
+2024-01-10 07:04:23,062 - root - INFO - Getting video id for VENOM EMINEM from YouTube.
+2024-01-10 07:04:23,576 - root - INFO - Getting video id for FALLING DOWN LIL PEEP & XXXTENTACION from YouTube.
+2024-01-10 07:04:24,051 - root - INFO - Getting video id for STOOPID 6IX9INE FT BOBBY SHMURDA from YouTube.
+2024-01-10 07:04:24,603 - root - INFO - Getting video id for NEVER ENOUGH KELLY CLARKSON from YouTube.
+2024-01-10 07:04:25,094 - root - INFO - Getting video id for I WANT YOU TO FREAK RAK-SU from YouTube.
+2024-01-10 07:04:25,623 - root - INFO - Getting video id for MY YE IS DIFFERENT OSH from YouTube.
+2024-01-10 07:04:26,132 - root - INFO - Getting video id for THE CURE LITTLE MIX from YouTube.
+2024-01-10 07:04:26,646 - root - INFO - Getting video id for BELOVED MUMFORD & SONS from YouTube.
+2024-01-10 07:04:27,155 - root - INFO - Getting video id for LOST IN JAPAN SHAWN MENDES from YouTube.
+2024-01-10 07:04:27,673 - root - INFO - Getting video id for COME ALIVE YEARS & YEARS/JESS GLYNNE from YouTube.
+2024-01-10 07:04:28,097 - root - INFO - Getting video id for THE OTHER SIDE MAX & TY DOLLA SIGN from YouTube.
+2024-01-10 07:04:28,694 - root - INFO - Getting video id for SUNCITY KHALID FT EMPRESS OF from YouTube.
+2024-01-10 07:04:29,109 - root - INFO - Getting video id for 42 MUMFORD & SONS from YouTube.
+2024-01-10 07:04:29,595 - root - INFO - Getting video id for JUICE B YOUNG from YouTube.
+2024-01-10 07:04:30,126 - root - INFO - Getting video id for AY CARAMBA LIZZY/FREDO/YOUNG T & BUGSEY from YouTube.
+2024-01-10 07:04:30,637 - root - INFO - Getting video id for ARMED AND DANGEROUS JUICE WRLD from YouTube.
+2024-01-10 07:04:31,252 - root - INFO - Getting video id for 10 FREAKY GIRLS METRO BOOMIN FT 21 SAVAGE from YouTube.
+2024-01-10 07:04:31,431 - root - INFO - Quota exceeded for API key AIzaSyAJRLhL3zqCeLBiUhu6PPW_NjCzJmtRO6o. Switching to API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA.
+2024-01-10 07:04:31,441 - root - INFO - Getting video id for ONE SHOT MABEL from YouTube.
+2024-01-10 07:04:31,971 - root - INFO - Getting video id for TOLD YOU SO LITTLE MIX from YouTube.
+2024-01-10 07:04:32,484 - root - INFO - Getting video id for LIFE IS BEAUTIFUL LIL PEEP from YouTube.
+2024-01-10 07:04:33,100 - root - INFO - Getting video id for TOPANGA TRIPPIE REDD from YouTube.
+2024-01-10 07:04:33,612 - root - INFO - Getting video id for FROM NOW ON HUGH JACKMAN/GREATEST SHOWMAN from YouTube.
+2024-01-10 07:04:34,225 - root - INFO - Getting video id for THIS FEELING CHAINSMOKERS/KELSEA BALLERINI from YouTube.
+2024-01-10 07:04:34,737 - root - INFO - Getting video id for PRESSURE MUSE from YouTube.
+2024-01-10 07:04:35,247 - root - INFO - Getting video id for ALGORITHM MUSE from YouTube.
+2024-01-10 07:04:35,760 - root - INFO - Getting video id for CHEATIN' NATHAN DAWE from YouTube.
+2024-01-10 07:04:36,272 - root - INFO - Getting video id for JOAN OF ARC LITTLE MIX from YouTube.
+2024-01-10 07:04:36,887 - root - INFO - Getting video id for PHOTOGRAPHS PROFESSOR GREEN/RAG'N'BONE MAN from YouTube.
+2024-01-10 07:04:37,397 - root - INFO - Getting video id for DON'T COME OUT THE HOUSE METRO BOOMIN FT 21 SAVAGE from YouTube.
+2024-01-10 07:04:37,898 - root - INFO - Getting video id for KILLSHOT EMINEM from YouTube.
+2024-01-10 07:04:38,425 - root - INFO - Getting video id for OVERDUE METRO BOOMIN FT TRAVIS SCOTT from YouTube.
+2024-01-10 07:04:38,936 - root - INFO - Getting video id for ANOTHER ONE BITES THE DUST QUEEN from YouTube.
+2024-01-10 07:04:39,549 - root - INFO - Getting video id for WAKE UP IN THE SKY GUCCI MANE/BRUNO MARS/KODAK from YouTube.
+2024-01-10 07:04:40,123 - root - INFO - Getting video id for FINE CHINA FUTURE & JUICE WRLD from YouTube.
+2024-01-10 07:04:40,674 - root - INFO - Getting video id for POUR ME ANOTHER ONE KREPT & KONAN FT TABITHA from YouTube.
+2024-01-10 07:04:41,188 - root - INFO - Getting video id for ALL OUT LIFE SLIPKNOT from YouTube.
+2024-01-10 07:04:41,705 - root - INFO - Getting video id for WALK ALONE RUDIMENTAL FT TOM WALKER from YouTube.
+2024-01-10 07:04:42,208 - root - INFO - Getting video id for LUCKY YOU EMINEM FT JOYNER LUCAS from YouTube.
+2024-01-10 07:04:42,722 - root - INFO - Getting video id for WASTE IT ON ME STEVE AOKI FT BTS from YouTube.
+2024-01-10 07:04:43,336 - root - INFO - Getting video id for ALL FOR YOU YEARS & YEARS from YouTube.
+2024-01-10 07:04:43,851 - root - INFO - Getting video id for DRIP DRIP DRIP TORY LANEZ FT MEEK MILL from YouTube.
+2024-01-10 07:04:44,360 - root - INFO - Getting video id for CHOP MY MONEY ILL BLU/KREPT & KONAN/LOSKI from YouTube.
+2024-01-10 07:04:44,873 - root - INFO - Getting video id for MIAMI TORY LANEZ FT GUNNA from YouTube.
+2024-01-10 07:04:45,385 - root - INFO - Getting video id for BEST LIFE HARDY CAPRIO FT ONE ACEN from YouTube.
+2024-01-10 07:04:45,843 - root - INFO - Getting video id for CRB CHECK CHIP FT NOT3S from YouTube.
+2024-01-10 07:04:46,256 - root - INFO - Getting video id for SAD XXXTENTACION from YouTube.
+2024-01-10 07:04:46,817 - root - INFO - Getting video id for CHECKLIST NORMANI/CALVIN HARRIS/WIZKID from YouTube.
+2024-01-10 07:04:47,330 - root - INFO - Getting video id for WILL SMITH GEKO & NOT3S from YouTube.
+2024-01-10 07:04:47,842 - root - INFO - Getting video id for THUNDERCLOUDS LSD FT SIA/DIPLO/LABRINTH from YouTube.
+2024-01-10 07:04:48,355 - root - INFO - Getting video id for BEAUTIFUL BAZZI FT CAMILA CABELLO from YouTube.
+2024-01-10 07:04:48,968 - root - INFO - Getting video id for GOD IS A WOMAN ARIANA GRANDE from YouTube.
+2024-01-10 07:04:49,480 - root - INFO - Getting video id for NO BRAINER DJ KHALED/BIEBER/QUAVO/CHANCE from YouTube.
+2024-01-10 07:04:49,960 - root - INFO - Getting video id for MAN CAN'T AMBUSH BUZZWORL from YouTube.
+2024-01-10 07:04:50,402 - root - INFO - Getting video id for LO(V/S)ER AJ TRACEY from YouTube.
+2024-01-10 07:04:50,915 - root - INFO - Getting video id for MOONLIGHT XXXTENTACION from YouTube.
+2024-01-10 07:04:51,427 - root - INFO - Getting video id for ENERGY (STAY FAR AWAY) SKEPTA & WIZKID from YouTube.
+2024-01-10 07:04:51,856 - root - INFO - Getting video id for JACKIE CHAN TIESTO/DZEKO/PREME/POST MALONE from YouTube.
+2024-01-10 07:04:52,349 - root - INFO - Getting video id for NEVER RECOVER LIL BABY/GUNNA/DRAKE from YouTube.
+2024-01-10 07:04:52,963 - root - INFO - Getting video id for FLIP THE SWITCH QUAVO FT DRAKE from YouTube.
+2024-01-10 07:04:53,474 - root - INFO - Getting video id for TOOTIMETOOTIMETOOTIME 1975 from YouTube.
+2024-01-10 07:04:53,988 - root - INFO - Getting video id for OTTOLENGHI LOYLE CARNER & JORDAN RAKEI from YouTube.
+2024-01-10 07:04:54,499 - root - INFO - Getting video id for CLOSE FRIENDS LIL BABY from YouTube.
+2024-01-10 07:04:55,117 - root - INFO - Getting video id for WHATCHAMACALLIT ELLA MAI FT CHRIS BROWN from YouTube.
+2024-01-10 07:04:55,729 - root - INFO - Getting video id for ROUND HERE WSTRN FT SKRAPZ from YouTube.
+2024-01-10 07:04:56,149 - root - INFO - Getting video id for WONDERING M O/CHIP from YouTube.
+2024-01-10 07:04:56,592 - root - INFO - Getting video id for IF YOU'RE OVER ME YEARS & YEARS from YouTube.
+2024-01-10 07:04:57,161 - root - INFO - Getting video id for MONA LISA LIL WAYNE FT KENDRICK LAMAR from YouTube.
+2024-01-10 07:04:57,777 - root - INFO - Getting video id for PASS OUT QUAVO FT 21 SAVAGE from YouTube.
+2024-01-10 07:04:58,286 - root - INFO - Getting video id for ALL WE KNOW DAPPY from YouTube.
+2024-01-10 07:04:58,800 - root - INFO - Getting video id for PRAISE THE LORD (DA SHINE) ASAP ROCKY FT SKEPTA from YouTube.
+2024-01-10 07:04:59,308 - root - INFO - Getting video id for 079ME B YOUNG from YouTube.
+2024-01-10 07:04:59,823 - root - INFO - Getting video id for DON'T LEAVE ME ALONE DAVID GUETTA FT ANNE-MARIE from YouTube.
+2024-01-10 07:05:00,382 - root - INFO - Getting video id for MY BLOOD TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:05:00,950 - root - INFO - Getting video id for MORPH TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:05:01,463 - root - INFO - Getting video id for JUMPSUIT TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:05:02,076 - root - INFO - Getting video id for OCEAN MARTIN GARRIX FT KHALID from YouTube.
+2024-01-10 07:05:02,588 - root - INFO - Getting video id for TINTS ANDERSON PAAK/KENDRICK LAMAR from YouTube.
+2024-01-10 07:05:03,202 - root - INFO - Getting video id for RAP DEVIL MACHINE GUN KELLY from YouTube.
+2024-01-10 07:05:03,815 - root - INFO - Getting video id for DON'T CRY LIL WAYNE FT XXXTENTACION from YouTube.
+2024-01-10 07:05:04,330 - root - INFO - Getting video id for BUTTERFLIES AJ TRACEY & NOT3S from YouTube.
+2024-01-10 07:05:04,840 - root - INFO - Getting video id for ANYWHERE SIGMA from YouTube.
+2024-01-10 07:05:05,250 - root - INFO - Getting video id for UPROAR LIL WAYNE from YouTube.
+2024-01-10 07:05:05,728 - root - INFO - Getting video id for FALL EMINEM from YouTube.
+2024-01-10 07:05:06,164 - root - INFO - Getting video id for LET IT FLY LIL WAYNE FT TRAVIS SCOTT from YouTube.
+2024-01-10 07:05:06,751 - root - INFO - Getting video id for SWISH TYGA from YouTube.
+2024-01-10 07:05:07,193 - root - INFO - Getting video id for STARGAZING TRAVIS SCOTT from YouTube.
+2024-01-10 07:05:07,706 - root - INFO - Getting video id for FEFE 6IX9INE/MINAJ/MURDA BEATZ from YouTube.
+2024-01-10 07:05:08,220 - root - INFO - Getting video id for ONLY YOU CHEAT CODES & LITTLE MIX from YouTube.
+2024-01-10 07:05:08,732 - root - INFO - Getting video id for RUN BUGZY MALONE FT RAG'N'BONE MAN from YouTube.
+2024-01-10 07:05:09,245 - root - INFO - Getting video id for WHO AM I KOJO FUNDS FT BUGZY MALONE from YouTube.
+2024-01-10 07:05:09,757 - root - INFO - Getting video id for RING RING JAX JONES/MABEL/RICH THE KID from YouTube.
+2024-01-10 07:05:10,377 - root - INFO - Getting video id for BOASY AVELINO FT NOT3S from YouTube.
+2024-01-10 07:05:10,888 - root - INFO - Getting video id for PNG KOJO FUNDS FT GIGGS from YouTube.
+2024-01-10 07:05:11,395 - root - INFO - Getting video id for LOVE NO MORE LOUD LUXURY & ANDERS from YouTube.
+2024-01-10 07:05:11,908 - root - INFO - Getting video id for NICE FOR WHAT DRAKE from YouTube.
+2024-01-10 07:05:12,417 - root - INFO - Getting video id for FLAMES DAVID GUETTA FT SIA from YouTube.
+2024-01-10 07:05:12,935 - root - INFO - Getting video id for PANIC ROOM AU/RA & CAMELPHAT from YouTube.
+2024-01-10 07:05:13,386 - root - INFO - Getting video id for HAPPY NOW ZEDD & ELLEY DUHE from YouTube.
+2024-01-10 07:05:13,866 - root - INFO - Getting video id for 6 30 GEKO FT NSG from YouTube.
+2024-01-10 07:05:14,261 - root - INFO - Getting video id for NEW PATEK LIL UZI VERT from YouTube.
+2024-01-10 07:05:14,774 - root - INFO - Getting video id for HEAD ABOVE WATER AVRIL LAVIGNE from YouTube.
+2024-01-10 07:05:15,287 - root - INFO - Getting video id for NONSTOP DRAKE from YouTube.
+2024-01-10 07:05:15,762 - root - INFO - Getting video id for SIDE EFFECTS CHAINSMOKERS FT EMILY WARREN from YouTube.
+2024-01-10 07:05:16,310 - root - INFO - Getting video id for BARBIE DREAMS NICKI MINAJ from YouTube.
+2024-01-10 07:05:16,824 - root - INFO - Getting video id for I'M A MESS BEBE REXHA from YouTube.
+2024-01-10 07:05:17,332 - root - INFO - Getting video id for DON'T DELETE THE KISSES WOLF ALICE from YouTube.
+2024-01-10 07:05:17,847 - root - INFO - Getting video id for THE RINGER EMINEM from YouTube.
+2024-01-10 07:05:18,304 - root - INFO - Getting video id for MONEY RIGHT DIZZEE RASCAL FT SKEPTA from YouTube.
+2024-01-10 07:05:18,767 - root - INFO - Getting video id for MARINERS APARTMENT COMPLEX LANA DEL REY from YouTube.
+2024-01-10 07:05:19,283 - root - INFO - Getting video id for WHEN I KISSED THE TEACHER JAMES/KEENAN WYNN/DAVIES/IMRIE from YouTube.
+2024-01-10 07:05:19,897 - root - INFO - Getting video id for PRETTY LITTLE FEARS 6LACK FT J COLE from YouTube.
+2024-01-10 07:05:20,509 - root - INFO - Getting video id for FEELS LIKE SUMMER CHILDISH GAMBINO from YouTube.
+2024-01-10 07:05:21,021 - root - INFO - Getting video id for LITNESS MOSTACK from YouTube.
+2024-01-10 07:05:21,533 - root - INFO - Getting video id for WHY DID IT HAVE TO BE ME J DYLAN/L JAMES/H SKINNER from YouTube.
+2024-01-10 07:05:22,151 - root - INFO - Getting video id for FINE GIRL ZIEZIE from YouTube.
+2024-01-10 07:05:22,658 - root - INFO - Getting video id for FIRST TIME M-22 FT MEDINA from YouTube.
+2024-01-10 07:05:23,122 - root - INFO - Getting video id for SELF CARE MAC MILLER from YouTube.
+2024-01-10 07:05:23,314 - root - INFO - Quota exceeded for API key AIzaSyAEJ9Cd34SBhpbD9fZyL81bO7LS1_U3TcA. Switching to API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E.
+2024-01-10 07:05:23,323 - root - INFO - Getting video id for IDOL BTS from YouTube.
+2024-01-10 07:05:23,887 - root - INFO - Getting video id for NINA CRIED POWER HOZIER FT MAVIS STAPLES from YouTube.
+2024-01-10 07:05:24,382 - root - INFO - Getting video id for BEBE 6IX9INE FT ANUEL AA from YouTube.
+2024-01-10 07:05:24,912 - root - INFO - Getting video id for GUCCI MANE D-BLOCK EUROPE & YXNG BANE from YouTube.
+2024-01-10 07:05:25,425 - root - INFO - Getting video id for WHENEVER KRIS KROSS/BOY NEXT/MAYNARD from YouTube.
+2024-01-10 07:05:25,927 - root - INFO - Getting video id for HAVANA CAMILA CABELLO FT YOUNG THUG from YouTube.
+2024-01-10 07:05:26,450 - root - INFO - Getting video id for OH MY DAPPY FT AY EM from YouTube.
+2024-01-10 07:05:27,063 - root - INFO - Getting video id for HURT FEELINGS MAC MILLER from YouTube.
+2024-01-10 07:05:27,779 - root - INFO - Getting video id for BED NICKI MINAJ FT ARIANA GRANDE from YouTube.
+2024-01-10 07:05:28,395 - root - INFO - Getting video id for THE OTHER SIDE HUGH JACKMAN & ZAC EFRON from YouTube.
+2024-01-10 07:05:28,908 - root - INFO - Getting video id for COME ALIVE HUGH JACKMAN/GREATEST SHOWMAN from YouTube.
+2024-01-10 07:05:29,418 - root - INFO - Getting video id for YOU WANT MY SISTER 1 HOUR BAND from YouTube.
+2024-01-10 07:05:30,033 - root - INFO - Getting video id for MANTRA BRING ME THE HORIZON from YouTube.
+2024-01-10 07:05:30,546 - root - INFO - Getting video id for MAMMA MIA LILY JAMES/KEENAN WYNN/DAVIES from YouTube.
+2024-01-10 07:05:31,262 - root - INFO - Getting video id for MAN DOWN SHAKKA FT ALUNAGEORGE from YouTube.
+2024-01-10 07:05:31,979 - root - INFO - Getting video id for DANCE TO THIS TROYE SIVAN FT ARIANA GRANDE from YouTube.
+2024-01-10 07:05:32,593 - root - INFO - Getting video id for BADDEST AMELIA MONET FT EO from YouTube.
+2024-01-10 07:05:33,093 - root - INFO - Getting video id for PRETTY GIRL STEFFLON DON/TIGGS DA AUTHOR from YouTube.
+2024-01-10 07:05:33,820 - root - INFO - Getting video id for HAPPIER MARSHMELLO & BASTILLE from YouTube.
+2024-01-10 07:05:34,331 - root - INFO - Getting video id for DON'T MATTER TO ME DRAKE FT MICHAEL JACKSON from YouTube.
+2024-01-10 07:05:34,946 - root - INFO - Getting video id for YOUR LOVIN' STEEL BANGLEZ/MO/YXNG BANE from YouTube.
+2024-01-10 07:05:35,564 - root - INFO - Getting video id for LET ME LIVE RUDIMENTAL/MAJOR LAZER/ANNE from YouTube.
+2024-01-10 07:05:36,177 - root - INFO - Getting video id for BOO'D UP ELLA MAI from YouTube.
+2024-01-10 07:05:36,719 - root - INFO - Getting video id for BAD VIBE M O/LOTTO BOYZZ/MR EAZI from YouTube.
+2024-01-10 07:05:37,304 - root - INFO - Getting video id for MAJESTY NICKI MINAJ/EMINEM/LABRINTH from YouTube.
+2024-01-10 07:05:37,815 - root - INFO - Getting video id for LULLABY SIGALA & PALOMA FAITH from YouTube.
+2024-01-10 07:05:38,428 - root - INFO - Getting video id for ROCKSTAR POST MALONE FT 21 SAVAGE from YouTube.
+2024-01-10 07:05:39,145 - root - INFO - Getting video id for THE MIDDLE ZEDD/MAREN MORRIS/GREY from YouTube.
+2024-01-10 07:05:39,862 - root - INFO - Getting video id for BACK TO YOU SELENA GOMEZ from YouTube.
+2024-01-10 07:05:40,476 - root - INFO - Getting video id for FAMILIAR LIAM PAYNE & J BALVIN from YouTube.
+2024-01-10 07:05:41,162 - root - INFO - Getting video id for FEEL IT STILL PORTUGAL THE MAN from YouTube.
+2024-01-10 07:05:41,705 - root - INFO - Getting video id for SWEETENER ARIANA GRANDE from YouTube.
+2024-01-10 07:05:42,217 - root - INFO - Getting video id for I SAY A LITTLE PRAYER ARETHA FRANKLIN from YouTube.
+2024-01-10 07:05:42,832 - root - INFO - Getting video id for RESPECT ARETHA FRANKLIN from YouTube.
+2024-01-10 07:05:43,449 - root - INFO - Getting video id for BORN TO BE YOURS KYGO & IMAGINE DRAGONS from YouTube.
+2024-01-10 07:05:43,961 - root - INFO - Getting video id for (YOU MAKE ME FEEL LIKE) A NATURAL WOMAN ARETHA FRANKLIN from YouTube.
+2024-01-10 07:05:44,664 - root - INFO - Getting video id for ANSWERPHONE BANX & RANX/ELLA EYRE/BANE from YouTube.
+2024-01-10 07:05:45,256 - root - INFO - Getting video id for YOSEMITE TRAVIS SCOTT from YouTube.
+2024-01-10 07:05:45,763 - root - INFO - Getting video id for PRICEY YUNGEN FT ONE ACEN from YouTube.
+2024-01-10 07:05:46,211 - root - INFO - Getting video id for FRIENDS RAYE from YouTube.
+2024-01-10 07:05:46,700 - root - INFO - Getting video id for LOVE LIES KHALID & NORMANI from YouTube.
+2024-01-10 07:05:47,338 - root - INFO - Getting video id for TOO CATTY TRANELL from YouTube.
+2024-01-10 07:05:47,848 - root - INFO - Getting video id for STOP TRYING TO BE GOD TRAVIS SCOTT from YouTube.
+2024-01-10 07:05:48,465 - root - INFO - Getting video id for APES**T CARTERS from YouTube.
+2024-01-10 07:05:48,877 - root - INFO - Getting video id for TAKING A WALK TRIPPIE REDD from YouTube.
+2024-01-10 07:05:49,368 - root - INFO - Getting video id for GERMAN EO from YouTube.
+2024-01-10 07:05:49,898 - root - INFO - Getting video id for FRIENDS MARSHMELLO & ANNE-MARIE from YouTube.
+2024-01-10 07:05:50,396 - root - INFO - Getting video id for JUMPY AMBUSH BUZZWORL/SKEPTA/CHIP from YouTube.
+2024-01-10 07:05:50,922 - root - INFO - Getting video id for F**K LOVE XXXTENTACION FT TRIPPIE REDD from YouTube.
+2024-01-10 07:05:51,539 - root - INFO - Getting video id for CAROUSEL TRAVIS SCOTT from YouTube.
+2024-01-10 07:05:52,046 - root - INFO - Getting video id for LONDON AJ & DENO FT EO from YouTube.
+2024-01-10 07:05:52,558 - root - INFO - Getting video id for SUMMERTIME MAGIC CHILDISH GAMBINO from YouTube.
+2024-01-10 07:05:53,173 - root - INFO - Getting video id for TOO MUCH ZAYN FT TIMBALAND from YouTube.
+2024-01-10 07:05:53,689 - root - INFO - Getting video id for FEELS LIKE HOME SIGALA/SEAN PAUL/FUSE ODG from YouTube.
+2024-01-10 07:05:54,301 - root - INFO - Getting video id for MISSING U ROBYN from YouTube.
+2024-01-10 07:05:54,730 - root - INFO - Getting video id for GUATEMALA RAE SREMMURD from YouTube.
+2024-01-10 07:05:55,223 - root - INFO - Getting video id for SOBER DEMI LOVATO from YouTube.
+2024-01-10 07:05:55,736 - root - INFO - Getting video id for FREAKY FRIDAY LIL DICKY FT CHRIS BROWN from YouTube.
+2024-01-10 07:05:56,350 - root - INFO - Getting video id for BLUE LIGHTS JORJA SMITH from YouTube.
+2024-01-10 07:05:56,964 - root - INFO - Getting video id for MEANT TO BE BEBE REXHA FT FLORIDA GEORGIA from YouTube.
+2024-01-10 07:05:57,423 - root - INFO - Getting video id for ANDANTE ANDANTE LILY JAMES from YouTube.
+2024-01-10 07:05:57,968 - root - INFO - Getting video id for YOU DESERVE BETTER JAMES ARTHUR from YouTube.
+2024-01-10 07:05:58,501 - root - INFO - Getting video id for LOVE IT IF WE MADE IT 1975 from YouTube.
+2024-01-10 07:05:59,118 - root - INFO - Getting video id for PSYCHO POST MALONE FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:05:59,675 - root - INFO - Getting video id for DARK VADER J HUS from YouTube.
+2024-01-10 07:06:00,242 - root - INFO - Getting video id for LOOK AT ME XXXTENTACION from YouTube.
+2024-01-10 07:06:00,855 - root - INFO - Getting video id for I WANNA KNOW NOTD FT BEA MILLER from YouTube.
+2024-01-10 07:06:01,364 - root - INFO - Getting video id for ONE DAY LOGIC FT RYAN TEDDER from YouTube.
+2024-01-10 07:06:01,853 - root - INFO - Getting video id for CHANGES XXXTENTACION from YouTube.
+2024-01-10 07:06:02,393 - root - INFO - Getting video id for JUST FINE NOT3S from YouTube.
+2024-01-10 07:06:02,906 - root - INFO - Getting video id for FERNANDO CHER & ANDY GARCIA from YouTube.
+2024-01-10 07:06:03,414 - root - INFO - Getting video id for 17 MK from YouTube.
+2024-01-10 07:06:04,028 - root - INFO - Getting video id for I MIGHT NEED SECURITY CHANCE THE RAPPER from YouTube.
+2024-01-10 07:06:04,568 - root - INFO - Getting video id for COLORS JASON DERULO from YouTube.
+2024-01-10 07:06:05,158 - root - INFO - Getting video id for HUNGER FLORENCE & THE MACHINE from YouTube.
+2024-01-10 07:06:05,771 - root - INFO - Getting video id for GIRLS RITA ORA/CARDI B/REXHA/CHARLI from YouTube.
+2024-01-10 07:06:06,385 - root - INFO - Getting video id for LYCA SWARMZ from YouTube.
+2024-01-10 07:06:06,793 - root - INFO - Getting video id for NICO AND THE NINERS TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:06:07,409 - root - INFO - Getting video id for THE LIGHT IS COMING ARIANA GRANDE FT NICKI MINAJ from YouTube.
+2024-01-10 07:06:08,025 - root - INFO - Getting video id for IDGAF DUA LIPA from YouTube.
+2024-01-10 07:06:08,638 - root - INFO - Getting video id for ALL MINE KANYE WEST from YouTube.
+2024-01-10 07:06:09,253 - root - INFO - Getting video id for AMERICAN IDIOT GREEN DAY from YouTube.
+2024-01-10 07:06:09,718 - root - INFO - Getting video id for WITH A LITTLE HELP FROM MY FRIENDS NHS VOICES from YouTube.
+2024-01-10 07:06:10,276 - root - INFO - Getting video id for KARMA YEARS & YEARS from YouTube.
+2024-01-10 07:06:10,903 - root - INFO - Getting video id for COLOUR MNEK FT HAILEE STEINFELD from YouTube.
+2024-01-10 07:06:11,505 - root - INFO - Getting video id for X NICKY JAM & J BALVIN from YouTube.
+2024-01-10 07:06:12,016 - root - INFO - Getting video id for HIGH FIVE SIGRID from YouTube.
+2024-01-10 07:06:12,522 - root - INFO - Getting video id for THIS IS AMERICA CHILDISH GAMBINO from YouTube.
+2024-01-10 07:06:13,041 - root - INFO - Getting video id for MY LOVER NOT3S from YouTube.
+2024-01-10 07:06:13,659 - root - INFO - Getting video id for PLAYINWITME KYLE FT KEHLANI from YouTube.
+2024-01-10 07:06:14,279 - root - INFO - Getting video id for UNFORGETTABLE FRENCH MONTANA FT SWAE LEE from YouTube.
+2024-01-10 07:06:14,887 - root - INFO - Getting video id for EMOTIONLESS DRAKE from YouTube.
+2024-01-10 07:06:15,400 - root - INFO - Getting video id for FAMILY TREE RAMZ from YouTube.
+2024-01-10 07:06:15,876 - root - INFO - Getting video id for LOVELY BILLIE EILISH & KHALID from YouTube.
+2024-01-10 07:06:16,345 - root - INFO - Getting video id for GIVE YOURSELF A TRY 1975 from YouTube.
+2024-01-10 07:06:16,804 - root - INFO - Getting video id for YIKES KANYE WEST from YouTube.
+2024-01-10 07:06:17,260 - root - INFO - Getting video id for IN MY BLOOD SHAWN MENDES from YouTube.
+2024-01-10 07:06:17,830 - root - INFO - Getting video id for HUMILITY GORILLAZ FT GEORGE BENSON from YouTube.
+2024-01-10 07:06:18,364 - root - INFO - Getting video id for BIG GOD FLORENCE & THE MACHINE from YouTube.
+2024-01-10 07:06:18,981 - root - INFO - Getting video id for PATRICIA FLORENCE & THE MACHINE from YouTube.
+2024-01-10 07:06:19,553 - root - INFO - Getting video id for BALL FOR ME POST MALONE FT NICKI MINAJ from YouTube.
+2024-01-10 07:06:19,851 - root - INFO - Quota exceeded for API key AIzaSyArmxvonTXjcw_APTKIV_O_Z4SFYS_Oq_E. Switching to API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q.
+2024-01-10 07:06:19,861 - root - INFO - Getting video id for CHEQUE ASCO & LOSKI from YouTube.
+2024-01-10 07:06:20,338 - root - INFO - Getting video id for I'M UPSET DRAKE from YouTube.
+2024-01-10 07:06:20,925 - root - INFO - Getting video id for SAY AMEN (SATURDAY NIGHT) PANIC AT THE DISCO from YouTube.
+2024-01-10 07:06:21,435 - root - INFO - Getting video id for HEY LOOK MA I MADE IT PANIC AT THE DISCO from YouTube.
+2024-01-10 07:06:21,950 - root - INFO - Getting video id for DELICATE TAYLOR SWIFT from YouTube.
+2024-01-10 07:06:22,564 - root - INFO - Getting video id for FORREST GUMP LOSKI from YouTube.
+2024-01-10 07:06:22,981 - root - INFO - Getting video id for ALL THE STARS KENDRICK LAMAR & SZA from YouTube.
+2024-01-10 07:06:23,588 - root - INFO - Getting video id for MY WAY ONE BIT & NOAH CYRUS from YouTube.
+2024-01-10 07:06:24,206 - root - INFO - Getting video id for DDU-DU DDU DU BLACKPINK from YouTube.
+2024-01-10 07:06:24,714 - root - INFO - Getting video id for REBORN KIDS SEE GHOSTS from YouTube.
+2024-01-10 07:06:25,226 - root - INFO - Getting video id for BOSS CARTERS from YouTube.
+2024-01-10 07:06:25,737 - root - INFO - Getting video id for NERVOUS SHAWN MENDES from YouTube.
+2024-01-10 07:06:26,226 - root - INFO - Getting video id for YOUTH SHAWN MENDES FT KHALID from YouTube.
+2024-01-10 07:06:26,763 - root - INFO - Getting video id for YES INDEED LIL BABY & DRAKE from YouTube.
+2024-01-10 07:06:27,274 - root - INFO - Getting video id for VROOM YXNG BANE from YouTube.
+2024-01-10 07:06:27,889 - root - INFO - Getting video id for OTW KHALID/TY DOLLA SIGN/6LACK from YouTube.
+2024-01-10 07:06:28,368 - root - INFO - Getting video id for SUMMER CARTERS from YouTube.
+2024-01-10 07:06:28,924 - root - INFO - Getting video id for COP SHOT THE KID NAS from YouTube.
+2024-01-10 07:06:29,418 - root - INFO - Getting video id for GHOST TOWN KANYE WEST from YouTube.
+2024-01-10 07:06:30,038 - root - INFO - Getting video id for JUMANJI B YOUNG from YouTube.
+2024-01-10 07:06:30,512 - root - INFO - Getting video id for 4TH DIMENSION KIDS SEE GHOSTS FT LOUIS PRIMA from YouTube.
+2024-01-10 07:06:31,062 - root - INFO - Getting video id for FEEL THE LOVE KIDS SEE GHOSTS from YouTube.
+2024-01-10 07:06:31,680 - root - INFO - Getting video id for FEBRUARY 3RD JORJA SMITH from YouTube.
+2024-01-10 07:06:32,396 - root - INFO - Getting video id for TEENAGE FANTASY JORJA SMITH from YouTube.
+2024-01-10 07:06:33,010 - root - INFO - Getting video id for CHUN-LI NICKI MINAJ from YouTube.
+2024-01-10 07:06:33,521 - root - INFO - Getting video id for GIRLFRIEND CHRISTINE & QUEENS FT DAM-FUNK from YouTube.
+2024-01-10 07:06:34,032 - root - INFO - Getting video id for LIKE I DO GUETTA/GARRIX/BROOKS from YouTube.
+2024-01-10 07:06:34,504 - root - INFO - Getting video id for CIGARETTE RAYE/MABEL/STEFFLON DON from YouTube.
+2024-01-10 07:06:35,058 - root - INFO - Getting video id for MAKE YOUR OWN KIND OF MUSIC PALOMA FAITH from YouTube.
+2024-01-10 07:06:35,608 - root - INFO - Getting video id for E I O ONE ACEN & HARDY CAPRIO from YouTube.
+2024-01-10 07:06:36,087 - root - INFO - Getting video id for LOOK ALIVE BLOCBOY JB FT DRAKE from YouTube.
+2024-01-10 07:06:36,571 - root - INFO - Getting video id for WARNING BUGZY MALONE from YouTube.
+2024-01-10 07:06:38,008 - root - INFO - Getting video id for BREATHE JAX JONES FT INA WROLDSEN from YouTube.
+2024-01-10 07:06:38,454 - root - INFO - Getting video id for FOUR OUT OF FIVE ARCTIC MONKEYS from YouTube.
+2024-01-10 07:06:38,949 - root - INFO - Getting video id for MISSING BELLY SQUAD FT HEADIE ONE from YouTube.
+2024-01-10 07:06:39,426 - root - INFO - Getting video id for PARANOID POST MALONE from YouTube.
+2024-01-10 07:06:39,910 - root - INFO - Getting video id for SIT BACK DOWN NOT3S FT MALEEK BERRY from YouTube.
+2024-01-10 07:06:40,591 - root - INFO - Getting video id for NO ROOTS ALICE MERTON from YouTube.
+2024-01-10 07:06:41,058 - root - INFO - Getting video id for FAKE LOVE BTS from YouTube.
+2024-01-10 07:06:41,611 - root - INFO - Getting video id for TIP TOE JASON DERULO FT FRENCH MONTANA from YouTube.
+2024-01-10 07:06:42,124 - root - INFO - Getting video id for SCENE J HUS from YouTube.
+2024-01-10 07:06:42,735 - root - INFO - Getting video id for DANCING MAN J HUS from YouTube.
+2024-01-10 07:06:43,248 - root - INFO - Getting video id for DONE FOR ME CHARLIE PUTH FT KEHLANI from YouTube.
+2024-01-10 07:06:43,759 - root - INFO - Getting video id for SAY SOMETHING JUSTIN TIMBERLAKE FT STAPLETON from YouTube.
+2024-01-10 07:06:44,272 - root - INFO - Getting video id for I SEE YOU SHINING NINES from YouTube.
+2024-01-10 07:06:44,785 - root - INFO - Getting video id for HAPPIER ED SHEERAN from YouTube.
+2024-01-10 07:06:45,400 - root - INFO - Getting video id for MAD LOVE SEAN PAUL/GUETTA/BECKY G from YouTube.
+2024-01-10 07:06:45,930 - root - INFO - Getting video id for TATI 6IX9INE FT DJ SPINKING from YouTube.
+2024-01-10 07:06:46,421 - root - INFO - Getting video id for CALL OUT MY NAME WEEKND from YouTube.
+2024-01-10 07:06:46,972 - root - INFO - Getting video id for ASAP FOREVER ASAP ROCKY FT MOBY from YouTube.
+2024-01-10 07:06:47,443 - root - INFO - Getting video id for BE CAREFUL CARDI B from YouTube.
+2024-01-10 07:06:47,962 - root - INFO - Getting video id for SHE TAUGHT ME HOW TO FLY NOEL GALLAGHER'S HIGH FLYING from YouTube.
+2024-01-10 07:06:48,502 - root - INFO - Getting video id for ANYWHERE RITA ORA from YouTube.
+2024-01-10 07:06:48,985 - root - INFO - Getting video id for LET ME ZAYN from YouTube.
+2024-01-10 07:06:49,600 - root - INFO - Getting video id for IF YOU KNOW YOU KNOW PUSHA T from YouTube.
+2024-01-10 07:06:50,065 - root - INFO - Getting video id for REMIND ME TO FORGET KYGO & MIGUEL from YouTube.
+2024-01-10 07:06:50,623 - root - INFO - Getting video id for ENTERTAINER ZAYN from YouTube.
+2024-01-10 07:06:51,134 - root - INFO - Getting video id for F**K SLEEP ASAP ROCKY FT FKA TWIGS from YouTube.
+2024-01-10 07:06:51,541 - root - INFO - Getting video id for WHAT WOULD MEEK DO PUSHA T FT KANYE WEST from YouTube.
+2024-01-10 07:06:52,056 - root - INFO - Getting video id for MAN DON'T DANCE BIG SHAQ from YouTube.
+2024-01-10 07:06:52,570 - root - INFO - Getting video id for SANGRIA WINE PHARRELL & CAMILA CABELLO from YouTube.
+2024-01-10 07:06:53,182 - root - INFO - Getting video id for ASHES CELINE DION from YouTube.
+2024-01-10 07:06:53,618 - root - INFO - Getting video id for STAR TREATMENT ARCTIC MONKEYS from YouTube.
+2024-01-10 07:06:54,104 - root - INFO - Getting video id for WHERE WERE YOU IN THE MORNING SHAWN MENDES from YouTube.
+2024-01-10 07:06:54,617 - root - INFO - Getting video id for STAND BY ME KINGDOM CHOIR/KAREN GIBSON from YouTube.
+2024-01-10 07:06:55,128 - root - INFO - Getting video id for ONE POINT PERSPECTIVE ARCTIC MONKEYS from YouTube.
+2024-01-10 07:06:55,638 - root - INFO - Getting video id for BARKING RAMZ from YouTube.
+2024-01-10 07:06:56,038 - root - INFO - Getting video id for FALL IN LINE CHRISTINA AGUILERA/DEMI LOVATO from YouTube.
+2024-01-10 07:06:56,560 - root - INFO - Getting video id for I MISS YOU CLEAN BANDIT FT JULIA MICHAELS from YouTube.
+2024-01-10 07:06:57,085 - root - INFO - Getting video id for TOY NETTA from YouTube.
+2024-01-10 07:06:57,688 - root - INFO - Getting video id for STORM SURIE from YouTube.
+2024-01-10 07:06:58,110 - root - INFO - Getting video id for FUEGO ELENI FOUREIRA from YouTube.
+2024-01-10 07:06:58,609 - root - INFO - Getting video id for QUARTER PAST MIDNIGHT BASTILLE from YouTube.
+2024-01-10 07:06:59,121 - root - INFO - Getting video id for WAKE ME UP AVICII from YouTube.
+2024-01-10 07:06:59,633 - root - INFO - Getting video id for PURE WATER SKEPTA from YouTube.
+2024-01-10 07:07:00,147 - root - INFO - Getting video id for KOD J COLE from YouTube.
+2024-01-10 07:07:00,768 - root - INFO - Getting video id for REMIND ME TO FORGET KYGO FT MIGUEL from YouTube.
+2024-01-10 07:07:01,281 - root - INFO - Getting video id for PLUG WALK RICH THE KID from YouTube.
+2024-01-10 07:07:01,886 - root - INFO - Getting video id for OH MY NINES/SL/YUNG FUME/TIGGS DA from YouTube.
+2024-01-10 07:07:02,401 - root - INFO - Getting video id for LONDON'S CALLING GRM DAILY/SKRAPZ/AVELINO/ASCO from YouTube.
+2024-01-10 07:07:03,012 - root - INFO - Getting video id for CREPES AND CONES (YA DUN KNOW) KREPT & KONAN FT MOSTACK from YouTube.
+2024-01-10 07:07:03,441 - root - INFO - Getting video id for FINESSE BRUNO MARS & CARDI B from YouTube.
+2024-01-10 07:07:03,934 - root - INFO - Getting video id for GENIUS LSD FT SIA/DIPLO/LABRINTH from YouTube.
+2024-01-10 07:07:04,445 - root - INFO - Getting video id for WATCH SCOTT/KANYE/LIL UZI VERT from YouTube.
+2024-01-10 07:07:04,958 - root - INFO - Getting video id for WHAT I WANNA MOSTACK from YouTube.
+2024-01-10 07:07:05,469 - root - INFO - Getting video id for SANCTIFY YEARS & YEARS from YouTube.
+2024-01-10 07:07:05,982 - root - INFO - Getting video id for WALK IT TALK IT MIGOS FT DRAKE from YouTube.
+2024-01-10 07:07:06,597 - root - INFO - Getting video id for NEVER BE THE SAME CAMILA CABELLO from YouTube.
+2024-01-10 07:07:07,212 - root - INFO - Getting video id for FINE LINE MABEL FT NOT3S from YouTube.
+2024-01-10 07:07:07,721 - root - INFO - Getting video id for YOU CAN CRY MARSHMELLO/JUICY J/ARTHUR from YouTube.
+2024-01-10 07:07:08,339 - root - INFO - Getting video id for MIND ON IT YUNGEN FT JESS GLYNNE from YouTube.
+2024-01-10 07:07:08,850 - root - INFO - Getting video id for YOU ARE THE REASON CALUM SCOTT from YouTube.
+2024-01-10 07:07:09,357 - root - INFO - Getting video id for RAPPER HARDY CAPRIO from YouTube.
+2024-01-10 07:07:09,874 - root - INFO - Getting video id for RIVER EMINEM FT ED SHEERAN from YouTube.
+2024-01-10 07:07:10,386 - root - INFO - Getting video id for STRANGERS SIGRID from YouTube.
+2024-01-10 07:07:10,903 - root - INFO - Getting video id for KEVIN'S HEART J COLE from YouTube.
+2024-01-10 07:07:11,512 - root - INFO - Getting video id for ATM J COLE from YouTube.
+2024-01-10 07:07:12,024 - root - INFO - Getting video id for HEY BROTHER AVICII from YouTube.
+2024-01-10 07:07:12,538 - root - INFO - Getting video id for HASTA LUEGO HRVY & MALU TREVEJO from YouTube.
+2024-01-10 07:07:13,048 - root - INFO - Getting video id for I CAN'T STAND IT BLOSSOMS from YouTube.
+2024-01-10 07:07:13,561 - root - INFO - Getting video id for FOR YOU (FIFTY SHADES FREED) LIAM PAYNE/RITA ORA from YouTube.
+2024-01-10 07:07:14,180 - root - INFO - Getting video id for WASTED TIMES WEEKND from YouTube.
+2024-01-10 07:07:14,685 - root - INFO - Getting video id for MIMI AJ TRACEY from YouTube.
+2024-01-10 07:07:14,905 - root - INFO - Quota exceeded for API key AIzaSyDWbhhSsAgbtK6M3COnv-QBJTgtfBNQy2Q. Switching to API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c.
+2024-01-10 07:07:14,914 - root - INFO - Getting video id for THERE'S A REASON WHY I NEVER RETURNED BLOSSOMS from YouTube.
+2024-01-10 07:07:15,402 - root - INFO - Getting video id for GENES SL FT CHIP from YouTube.
+2024-01-10 07:07:15,918 - root - INFO - Getting video id for DRIP CARDI B FT MIGOS from YouTube.
+2024-01-10 07:07:16,377 - root - INFO - Getting video id for GUATEMALA SWAE LEE/SLIM JXMMI from YouTube.
+2024-01-10 07:07:17,041 - root - INFO - Getting video id for STOP ME FROM FALLING KYLIE MINOGUE from YouTube.
+2024-01-10 07:07:17,657 - root - INFO - Getting video id for FAMOUS MASON RAMSEY from YouTube.
+2024-01-10 07:07:18,135 - root - INFO - Getting video id for PHOTOGRAPH J COLE from YouTube.
+2024-01-10 07:07:18,681 - root - INFO - Getting video id for RUBBER BANDS NINES FT RAY BLK & SKRAPZ from YouTube.
+2024-01-10 07:07:19,192 - root - INFO - Getting video id for SOMEBODY CHAINSMOKERS & DREW LOVE from YouTube.
+2024-01-10 07:07:19,706 - root - INFO - Getting video id for ESSKEETIT LIL PUMP from YouTube.
+2024-01-10 07:07:20,214 - root - INFO - Getting video id for BARBIE TINGZ NICKI MINAJ from YouTube.
+2024-01-10 07:07:20,689 - root - INFO - Getting video id for GOTTI 6IX9INE from YouTube.
+2024-01-10 07:07:21,240 - root - INFO - Getting video id for RIC FLAIR DRIP OFFSET & METRO BOOMIN from YouTube.
+2024-01-10 07:07:21,755 - root - INFO - Getting video id for LET ME GO HAILEE STEINFELD/ALESSO/WATT from YouTube.
+2024-01-10 07:07:22,341 - root - INFO - Getting video id for BLINDED BY YOUR GRACE - PT 2 STORMZY FT MNEK from YouTube.
+2024-01-10 07:07:22,882 - root - INFO - Getting video id for TRY ME WEEKND from YouTube.
+2024-01-10 07:07:23,311 - root - INFO - Getting video id for DANCING KYLIE MINOGUE from YouTube.
+2024-01-10 07:07:23,794 - root - INFO - Getting video id for MINE BAZZI from YouTube.
+2024-01-10 07:07:24,269 - root - INFO - Getting video id for CAME HERE FOR LOVE SIGALA & ELLA EYRE from YouTube.
+2024-01-10 07:07:24,826 - root - INFO - Getting video id for CHECK KOJO FUNDS FT RAYE from YouTube.
+2024-01-10 07:07:25,440 - root - INFO - Getting video id for SKY FULL OF SONG FLORENCE & THE MACHINE from YouTube.
+2024-01-10 07:07:25,950 - root - INFO - Getting video id for I FALL APART POST MALONE from YouTube.
+2024-01-10 07:07:26,564 - root - INFO - Getting video id for LOCATION KHALID from YouTube.
+2024-01-10 07:07:27,077 - root - INFO - Getting video id for WANT YOU BACK 5 SECONDS OF SUMMER from YouTube.
+2024-01-10 07:07:27,579 - root - INFO - Getting video id for LET YOU DOWN NF from YouTube.
+2024-01-10 07:07:28,201 - root - INFO - Getting video id for WILD LOVE JAMES BAY from YouTube.
+2024-01-10 07:07:28,715 - root - INFO - Getting video id for YES LOUISA FT 2 CHAINZ from YouTube.
+2024-01-10 07:07:29,229 - root - INFO - Getting video id for DREAMS RUTI from YouTube.
+2024-01-10 07:07:29,636 - root - INFO - Getting video id for PRAY FOR ME WEEKND/KENDRICK LAMAR from YouTube.
+2024-01-10 07:07:30,148 - root - INFO - Getting video id for NO EXCUSES MEGHAN TRAINOR from YouTube.
+2024-01-10 07:07:30,615 - root - INFO - Getting video id for I KNOW YOU CRAIG DAVID FT BASTILLE from YouTube.
+2024-01-10 07:07:31,172 - root - INFO - Getting video id for SUPERMARKET FLOWERS ED SHEERAN from YouTube.
+2024-01-10 07:07:31,688 - root - INFO - Getting video id for SILENCE MARSHMELLO FT KHALID from YouTube.
+2024-01-10 07:07:32,196 - root - INFO - Getting video id for PERSONAL HRVY from YouTube.
+2024-01-10 07:07:32,709 - root - INFO - Getting video id for WAVEY CLIQ FT ALIKA from YouTube.
+2024-01-10 07:07:33,221 - root - INFO - Getting video id for HANGMAN DAVE from YouTube.
+2024-01-10 07:07:33,733 - root - INFO - Getting video id for CAPITAL LETTERS HAILEE STEINFELD & BLOODPOP from YouTube.
+2024-01-10 07:07:34,244 - root - INFO - Getting video id for SYMPHONY CLEAN BANDIT FT ZARA LARSSON from YouTube.
+2024-01-10 07:07:34,757 - root - INFO - Getting video id for KING'S DEAD JAY ROCK/LAMAR/FUTURE/BLAKE from YouTube.
+2024-01-10 07:07:35,323 - root - INFO - Getting video id for TOO GOOD AT GOODBYES SAM SMITH from YouTube.
+2024-01-10 07:07:35,847 - root - INFO - Getting video id for STIR FRY MIGOS from YouTube.
+2024-01-10 07:07:36,293 - root - INFO - Getting video id for NUH READY NUH READY CALVIN HARRIS FT PARTYNEXTDOOR from YouTube.
+2024-01-10 07:07:36,753 - root - INFO - Getting video id for NO WORDS DAVE FT MOSTACK from YouTube.
+2024-01-10 07:07:37,214 - root - INFO - Getting video id for HIM & I G-EAZY & HALSEY from YouTube.
+2024-01-10 07:07:37,728 - root - INFO - Getting video id for HEAVEN JULIA MICHAELS from YouTube.
+2024-01-10 07:07:38,262 - root - INFO - Getting video id for SHE LOVES CONTROL CAMILA CABELLO from YouTube.
+2024-01-10 07:07:38,751 - root - INFO - Getting video id for EVERYBODY HATES ME CHAINSMOKERS from YouTube.
+2024-01-10 07:07:39,365 - root - INFO - Getting video id for THE REMEDY FOR A BROKEN HEART (WHY AM I XXXTENTACION from YouTube.
+2024-01-10 07:07:39,880 - root - INFO - Getting video id for SICK BOY CHAINSMOKERS from YouTube.
+2024-01-10 07:07:40,389 - root - INFO - Getting video id for LET ME DOWN JORJA SMITH FT STORMZY from YouTube.
+2024-01-10 07:07:41,003 - root - INFO - Getting video id for TELL ME YOU LOVE ME DEMI LOVATO from YouTube.
+2024-01-10 07:07:41,618 - root - INFO - Getting video id for WHAT ABOUT US PINK from YouTube.
+2024-01-10 07:07:42,130 - root - INFO - Getting video id for DECLINE RAYE FT MR EAZI from YouTube.
+2024-01-10 07:07:42,541 - root - INFO - Getting video id for COLA CAMELPHAT & ELDERBROOK from YouTube.
+2024-01-10 07:07:43,051 - root - INFO - Getting video id for BOUFF DADDY J HUS from YouTube.
+2024-01-10 07:07:43,561 - root - INFO - Getting video id for BAD STEEL BANGLEZ/YUNGEN/MOSTACK from YouTube.
+2024-01-10 07:07:44,019 - root - INFO - Getting video id for TOP OFF DJ KHALED/JAY Z/FUTURE/BEYONCE from YouTube.
+2024-01-10 07:07:44,584 - root - INFO - Getting video id for 44 MORE LOGIC from YouTube.
+2024-01-10 07:07:45,100 - root - INFO - Getting video id for IT'S A BEAUTIFUL WORLD NOEL GALLAGHER'S HIGH FLYING from YouTube.
+2024-01-10 07:07:45,613 - root - INFO - Getting video id for GAME CHANGER MIST from YouTube.
+2024-01-10 07:07:46,123 - root - INFO - Getting video id for CONTRA LOGIC from YouTube.
+2024-01-10 07:07:46,636 - root - INFO - Getting video id for SOMEBODY SPECIAL NINA NESBITT from YouTube.
+2024-01-10 07:07:47,119 - root - INFO - Getting video id for FINDERS KEEPERS MABEL FT KOJO FUNDS from YouTube.
+2024-01-10 07:07:47,557 - root - INFO - Getting video id for WOLVES SELENA GOMEZ & MARSHMELLO from YouTube.
+2024-01-10 07:07:48,066 - root - INFO - Getting video id for YRF GRM DAILY from YouTube.
+2024-01-10 07:07:48,581 - root - INFO - Getting video id for MAN'S NOT HOT BIG SHAQ from YouTube.
+2024-01-10 07:07:49,092 - root - INFO - Getting video id for REWRITE THE STARS ZAC EFRON & ZENDAYA from YouTube.
+2024-01-10 07:07:49,606 - root - INFO - Getting video id for B.I.D TORY LANEZ from YouTube.
+2024-01-10 07:07:50,117 - root - INFO - Getting video id for X SCHOOLBOY Q/2 CHAINZ/SAUDI from YouTube.
+2024-01-10 07:07:50,630 - root - INFO - Getting video id for THUNDER IMAGINE DRAGONS from YouTube.
+2024-01-10 07:07:51,143 - root - INFO - Getting video id for MAKE ME FEEL JANELLE MONAE from YouTube.
+2024-01-10 07:07:51,654 - root - INFO - Getting video id for SIGN OF THE TIMES HARRY STYLES from YouTube.
+2024-01-10 07:07:52,183 - root - INFO - Getting video id for MY MY MY TROYE SIVAN from YouTube.
+2024-01-10 07:07:52,778 - root - INFO - Getting video id for THE WEEKEND SZA from YouTube.
+2024-01-10 07:07:53,292 - root - INFO - Getting video id for HUMAN RAG'N'BONE MAN from YouTube.
+2024-01-10 07:07:53,803 - root - INFO - Getting video id for SKIN RAG'N'BONE MAN from YouTube.
+2024-01-10 07:07:54,314 - root - INFO - Getting video id for THE WAYS KHALID & SWAE LEE from YouTube.
+2024-01-10 07:07:54,824 - root - INFO - Getting video id for I AM JORJA SMITH from YouTube.
+2024-01-10 07:07:55,341 - root - INFO - Getting video id for BIG SHOT KENDRICK LAMAR & TRAVIS SCOTT from YouTube.
+2024-01-10 07:07:55,851 - root - INFO - Getting video id for NAKED JAMES ARTHUR from YouTube.
+2024-01-10 07:07:56,363 - root - INFO - Getting video id for FILTHY JUSTIN TIMBERLAKE from YouTube.
+2024-01-10 07:07:56,804 - root - INFO - Getting video id for NEXT TO ME IMAGINE DRAGONS from YouTube.
+2024-01-10 07:07:57,388 - root - INFO - Getting video id for PLEASE SAMANTHA HARVEY from YouTube.
+2024-01-10 07:07:57,897 - root - INFO - Getting video id for THOUGHT CONTAGION MUSE from YouTube.
+2024-01-10 07:07:58,354 - root - INFO - Getting video id for BEAUTIFUL TRAUMA PINK from YouTube.
+2024-01-10 07:07:58,866 - root - INFO - Getting video id for DUSK TILL DAWN ZAYN FT SIA from YouTube.
+2024-01-10 07:07:59,436 - root - INFO - Getting video id for MOTOR SPORT MIGOS/NICKI MINAJ/CARDI B from YouTube.
+2024-01-10 07:08:00,050 - root - INFO - Getting video id for BLACK PANTHER KENDRICK LAMAR from YouTube.
+2024-01-10 07:08:00,561 - root - INFO - Getting video id for BARTIER CARDI CARDI B FT 21 SAVAGE from YouTube.
+2024-01-10 07:08:01,075 - root - INFO - Getting video id for OPPS VINCE STAPLES/YUGEN BLAKROK from YouTube.
+2024-01-10 07:08:01,588 - root - INFO - Getting video id for TROPICAL SL from YouTube.
+2024-01-10 07:08:02,098 - root - INFO - Getting video id for RAPPIN' & TRAPPIN' FREDO from YouTube.
+2024-01-10 07:08:02,610 - root - INFO - Getting video id for REGGAETON LENTO (REMIX) CNCO & LITTLE MIX from YouTube.
+2024-01-10 07:08:03,124 - root - INFO - Getting video id for YOU OWE ME CHAINSMOKERS from YouTube.
+2024-01-10 07:08:03,634 - root - INFO - Getting video id for YOUNG DUMB & BROKE KHALID from YouTube.
+2024-01-10 07:08:04,150 - root - INFO - Getting video id for DIPLOMATIC IMMUNITY DRAKE from YouTube.
+2024-01-10 07:08:04,657 - root - INFO - Getting video id for ON IT MIST FT NINES from YouTube.
+2024-01-10 07:08:05,174 - root - INFO - Getting video id for WISH ME WELL MIST FT JESSIE WARE from YouTube.
+2024-01-10 07:08:05,655 - root - INFO - Getting video id for PLAYIN' FOR KEEPS FREDO FT ASCO from YouTube.
+2024-01-10 07:08:06,195 - root - INFO - Getting video id for PARAMEDIC SOB X RBE from YouTube.
+2024-01-10 07:08:06,706 - root - INFO - Getting video id for HATERS FREDO FT NOT3S from YouTube.
+2024-01-10 07:08:07,218 - root - INFO - Getting video id for HURTIN' ME STEFFLON DON & FRENCH MONTANA from YouTube.
+2024-01-10 07:08:07,417 - root - INFO - Quota exceeded for API key AIzaSyAKzfJG6sdqKTfRnyS9AC-r8GKP2ug1_5c. Switching to API key AIzaSyANzdGkejzrulVUBv9LjhWgDWuiVztpWDY.
+2024-01-10 07:08:07,427 - root - INFO - Getting video id for END GAME TAYLOR SWIFT/ED SHEERAN/FUTURE from YouTube.
+2024-01-10 07:08:08,036 - root - INFO - Getting video id for BLOODY WATERS AB-SOUL/ANDERSON PAAK/BLAKE from YouTube.
+2024-01-10 07:08:08,651 - root - INFO - Getting video id for HOW LONG CHARLIE PUTH from YouTube.
+2024-01-10 07:08:09,266 - root - INFO - Getting video id for DIMELO RAK-SU FT WYCLEF/NAUGHTY BOY from YouTube.
+2024-01-10 07:08:09,783 - root - INFO - Getting video id for GET OUT CHVRCHES from YouTube.
+2024-01-10 07:08:10,270 - root - INFO - Getting video id for PLAIN JANE ASAP FERG from YouTube.
+2024-01-10 07:08:10,907 - root - INFO - Getting video id for CASTLE ON THE HILL ED SHEERAN from YouTube.
+2024-01-10 07:08:11,414 - root - INFO - Getting video id for SOMETHING JUST LIKE THIS CHAINSMOKERS & COLDPLAY from YouTube.
+2024-01-10 07:08:12,032 - root - INFO - Getting video id for UNCONTROLLABLE KSI FT BIG ZUU from YouTube.
+2024-01-10 07:08:12,545 - root - INFO - Getting video id for MAN OF THE WOODS JUSTIN TIMBERLAKE from YouTube.
+2024-01-10 07:08:13,054 - root - INFO - Getting video id for LONELY TOGETHER AVICII FT RITA ORA from YouTube.
+2024-01-10 07:08:13,568 - root - INFO - Getting video id for IS YOUR LOVE ENOUGH LITTLE MIX from YouTube.
+2024-01-10 07:08:14,182 - root - INFO - Getting video id for LOVE. KENDRICK LAMAR from YouTube.
+2024-01-10 07:08:14,690 - root - INFO - Getting video id for ALL FALLS DOWN ALAN WALKER/N CYRUS/DIGITAL FA from YouTube.
+2024-01-10 07:08:15,204 - root - INFO - Getting video id for GO FLEX POST MALONE from YouTube.
+2024-01-10 07:08:15,819 - root - INFO - Getting video id for NO LIMIT G-EAZY FT ASAP ROCKY & CARDI B from YouTube.
+2024-01-10 07:08:16,350 - root - INFO - Getting video id for ISSUES JULIA MICHAELS from YouTube.
+2024-01-10 07:08:16,886 - root - INFO - Getting video id for CANDY PAINT POST MALONE from YouTube.
+2024-01-10 07:08:17,355 - root - INFO - Getting video id for BESTIE YUNGEN FT YXNG BANE from YouTube.
+2024-01-10 07:08:17,868 - root - INFO - Getting video id for HOME MACHINE GUN KELLY/X/REXHA from YouTube.
+2024-01-10 07:08:18,379 - root - INFO - Getting video id for BODAK YELLOW CARDI B from YouTube.
+2024-01-10 07:08:18,893 - root - INFO - Getting video id for 'TIL I'M DONE PALOMA FAITH from YouTube.
+2024-01-10 07:08:19,404 - root - INFO - Getting video id for SORRY NOT SORRY DEMI LOVATO from YouTube.
+2024-01-10 07:08:20,018 - root - INFO - Getting video id for XO TOUR LLIF3 LIL UZI VERT from YouTube.
+2024-01-10 07:08:20,589 - root - INFO - Getting video id for DIRTY SEXY MONEY GUETTA/AFROJACK/XCX/MONTANA from YouTube.
+2024-01-10 07:08:21,151 - root - INFO - Getting video id for LINGER CRANBERRIES from YouTube.
+2024-01-10 07:08:21,658 - root - INFO - Getting video id for ALL NIGHT BIG BOI FT LUNCHMONEY LEWIS from YouTube.
+2024-01-10 07:08:22,170 - root - INFO - Getting video id for SUPPLIES JUSTIN TIMBERLAKE from YouTube.
+2024-01-10 07:08:22,783 - root - INFO - Getting video id for DREAMS CRANBERRIES from YouTube.
+2024-01-10 07:08:23,234 - root - INFO - Getting video id for THE LAST OF THE REAL ONES FALL OUT BOY from YouTube.
+2024-01-10 07:08:23,812 - root - INFO - Getting video id for GORGEOUS TAYLOR SWIFT from YouTube.
+2024-01-10 07:08:24,423 - root - INFO - Getting video id for STAY FROSTY ROYAL MILK TEA FALL OUT BOY from YouTube.
+2024-01-10 07:08:25,038 - root - INFO - Getting video id for GUCCI GANG LIL PUMP from YouTube.
+2024-01-10 07:08:25,549 - root - INFO - Getting video id for KEKE 6IX9INE/FETTY WAP/A BOOGIE WIT from YouTube.
+2024-01-10 07:08:26,164 - root - INFO - Getting video id for HOLD ME TIGHT OR DON'T FALL OUT BOY from YouTube.
+2024-01-10 07:08:26,777 - root - INFO - Getting video id for SPOTLIGHT MARSHMELLO & LIL PEEP from YouTube.
+2024-01-10 07:08:27,293 - root - INFO - Getting video id for WHAT LOVERS DO MAROON 5 FT SZA from YouTube.
+2024-01-10 07:08:27,798 - root - INFO - Getting video id for BOA ME FUSE ODG/ED SHEERAN/MUGEEZ from YouTube.
+2024-01-10 07:08:28,313 - root - INFO - Getting video id for MI GENTE J BALVIN/WILLY WILLIAM from YouTube.
+2024-01-10 07:08:28,917 - root - INFO - Getting video id for LEMON NERD & RIHANNA from YouTube.
+2024-01-10 07:08:29,438 - root - INFO - Getting video id for ONE LAST SONG SAM SMITH from YouTube.
+2024-01-10 07:08:30,056 - root - INFO - Getting video id for POWER LITTLE MIX from YouTube.
+2024-01-10 07:08:30,668 - root - INFO - Getting video id for BEDROOM FLOOR LIAM PAYNE from YouTube.
+2024-01-10 07:08:31,181 - root - INFO - Getting video id for 1-800-273-8255 LOGIC/ALESSIA CARA/KHALID from YouTube.
+2024-01-10 07:08:31,796 - root - INFO - Getting video id for THEN ANNE-MARIE from YouTube.
+2024-01-10 07:08:32,307 - root - INFO - Getting video id for WALK ON WATER EMINEM FT BEYONCE from YouTube.
+2024-01-10 07:08:32,819 - root - INFO - Getting video id for ONE LAST TIME ARIANA GRANDE from YouTube.
+2024-01-10 07:08:33,393 - root - INFO - Getting video id for MORE THAN FRIENDS JAMES HYPE FT KELLI-LEIGH from YouTube.
+2024-01-10 07:08:33,944 - root - INFO - Getting video id for SO FAR AWAY GARRIX/GUETTA/SCOTT/ROMY from YouTube.
+2024-01-10 07:08:34,565 - root - INFO - Getting video id for MAMA JONAS BLUE FT WILLIAM SINGE from YouTube.
+2024-01-10 07:08:35,174 - root - INFO - Getting video id for YOUR SONG RITA ORA from YouTube.
+2024-01-10 07:08:35,791 - root - INFO - Getting video id for LIKE HOME EMINEM FT ALICIA KEYS from YouTube.
+2024-01-10 07:08:36,301 - root - INFO - Getting video id for GRACE (WE ALL TRY) RAG'N'BONE MAN from YouTube.
+2024-01-10 07:08:36,761 - root - INFO - Getting video id for QUESTIONS CHRIS BROWN from YouTube.
+2024-01-10 07:08:37,324 - root - INFO - Getting video id for FEELS HARRIS/PHARRELL/PERRY/BIG SEAN from YouTube.
+2024-01-10 07:08:37,940 - root - INFO - Getting video id for ECHAME LA CULPA LUIS FONSI FT DEMI LOVATO from YouTube.
+2024-01-10 07:08:38,369 - root - INFO - Getting video id for WILD THOUGHTS DJ KHALED FT RIHANNA/TILLER from YouTube.
+2024-01-10 07:08:38,859 - root - INFO - Getting video id for THERE'S NOTHING HOLDIN' ME BACK SHAWN MENDES from YouTube.
+2024-01-10 07:08:39,371 - root - INFO - Getting video id for LOOK WHAT YOU MADE ME DO TAYLOR SWIFT from YouTube.
+2024-01-10 07:08:39,884 - root - INFO - Getting video id for PRETTY GIRL MAGGIE LINDEMANN from YouTube.
+2024-01-10 07:08:40,395 - root - INFO - Getting video id for ATTENTION CHARLIE PUTH from YouTube.
+2024-01-10 07:08:40,958 - root - INFO - Getting video id for DID YOU SEE J HUS from YouTube.
+2024-01-10 07:08:41,521 - root - INFO - Getting video id for STRIP THAT DOWN LIAM PAYNE FT QUAVO from YouTube.
+2024-01-10 07:08:42,139 - root - INFO - Getting video id for TOUCH LITTLE MIX from YouTube.
+2024-01-10 07:08:42,651 - root - INFO - Getting video id for CAN'T STOP THE FEELING JUSTIN TIMBERLAKE from YouTube.
+2024-01-10 07:08:43,162 - root - INFO - Getting video id for FRIENDS JUSTIN BIEBER & BLOODPOP from YouTube.
+2024-01-10 07:08:43,673 - root - INFO - Getting video id for SEPTEMBER EARTH WIND & FIRE from YouTube.
+2024-01-10 07:08:44,293 - root - INFO - Getting video id for GALWAY GIRL ED SHEERAN from YouTube.
+2024-01-10 07:08:44,904 - root - INFO - Getting video id for IN YOUR HEAD EMINEM from YouTube.
+2024-01-10 07:08:45,414 - root - INFO - Getting video id for WHEN CHRISTMAS COMES AROUND MATT TERRY from YouTube.
+2024-01-10 07:08:46,028 - root - INFO - Getting video id for GOLDEN SLUMBERS ELBOW from YouTube.
+2024-01-10 07:08:46,541 - root - INFO - Getting video id for BANK ACCOUNT 21 SAVAGE from YouTube.
+2024-01-10 07:08:47,051 - root - INFO - Getting video id for READY FOR IT TAYLOR SWIFT from YouTube.
+2024-01-10 07:08:47,667 - root - INFO - Getting video id for SUCKER FOR YOU MATT TERRY from YouTube.
+2024-01-10 07:08:48,128 - root - INFO - Getting video id for HOLY MOUNTAIN NOEL GALLAGHER'S HIGH FLYING from YouTube.
+2024-01-10 07:08:48,566 - root - INFO - Getting video id for FOR THOSE ABOUT TO ROCK (WE SALUTE YOU) AC/DC from YouTube.
+2024-01-10 07:08:49,221 - root - INFO - Getting video id for STREETS OF LONDON RALPH MCTELL/CRISIS CHR/LENNOX from YouTube.
+2024-01-10 07:08:49,706 - root - INFO - Getting video id for UNTOUCHABLE EMINEM from YouTube.
+2024-01-10 07:08:50,227 - root - INFO - Getting video id for MISS YOU LOUIS TOMLINSON from YouTube.
+2024-01-10 07:08:50,737 - root - INFO - Getting video id for CRYBABY PALOMA FAITH from YouTube.
+2024-01-10 07:08:51,251 - root - INFO - Getting video id for LINGUO GIGGS FT DONAEO from YouTube.
+2024-01-10 07:08:51,660 - root - INFO - Getting video id for NO MORE PRETTYMUCH FT FRENCH MONTANA from YouTube.
+2024-01-10 07:08:52,102 - root - INFO - Getting video id for BUTTERFLY EFFECT TRAVIS SCOTT from YouTube.
+2024-01-10 07:08:52,684 - root - INFO - Getting video id for PRAY SAM SMITH from YouTube.
+2024-01-10 07:08:53,298 - root - INFO - Getting video id for MIC DROP BTS from YouTube.
+2024-01-10 07:08:53,809 - root - INFO - Getting video id for STARGAZING KYGO FT JUSTIN JESSO from YouTube.
+2024-01-10 07:08:54,731 - root - INFO - Getting video id for THE THING ABOUT LOVE MATT TERRY from YouTube.
+2024-01-10 07:08:55,347 - root - INFO - Getting video id for HEARTLINE CRAIG DAVID from YouTube.
+2024-01-10 07:08:55,962 - root - INFO - Getting video id for ASK FLIPZ KREPT & KONAN FT STORMZY from YouTube.
+2024-01-10 07:08:56,470 - root - INFO - Getting video id for HEAVY ANNE-MARIE from YouTube.
+2024-01-10 07:08:57,088 - root - INFO - Getting video id for TELL ME WRETCH 32/KOJO FUNDS/JAHLANI from YouTube.
+2024-01-10 07:08:57,599 - root - INFO - Getting video id for WO WO WO KREPT & KONAN from YouTube.
+2024-01-10 07:08:58,109 - root - INFO - Getting video id for A DIFFERENT WAY DJ SNAKE FT LAUV from YouTube.
+2024-01-10 07:08:58,605 - root - INFO - Getting video id for RIHANNA YXNG BANE from YouTube.
+2024-01-10 07:08:59,134 - root - INFO - Getting video id for SUN COMES UP RUDIMENTAL FT JAMES ARTHUR from YouTube.
+2024-01-10 07:08:59,651 - root - INFO - Getting video id for FIELDS OF GOLD KATIE MELUA from YouTube.
+2024-01-10 07:09:00,263 - root - INFO - Getting video id for IF I'M LUCKY JASON DERULO from YouTube.
+2024-01-10 07:09:00,750 - root - INFO - Getting video id for CONGRATULATIONS POST MALONE & QUAVO from YouTube.
+2024-01-10 07:09:01,257 - root - INFO - Getting video id for DING-A-LING STEFFLON DON & SKEPTA from YouTube.
+2024-01-10 07:09:01,798 - root - INFO - Getting video id for TOO MUCH TO ASK NIALL HORAN from YouTube.
+2024-01-10 07:09:02,356 - root - INFO - Getting video id for 99 + 1 NOT3S & MOSTACK from YouTube.
+2024-01-10 07:09:02,580 - root - INFO - Quota exceeded for API key AIzaSyANzdGkejzrulVUBv9LjhWgDWuiVztpWDY. Switching to API key AIzaSyDyuFyvv1b24q-XfWKMdeIRpX3h1kPNLPk.
+2024-01-10 07:09:02,589 - root - INFO - Getting video id for GOOD OLD DAYS MACKLEMORE FT KESHA from YouTube.
+2024-01-10 07:09:03,129 - root - INFO - Getting video id for REVENGE PINK FT EMINEM from YouTube.
+2024-01-10 07:09:03,639 - root - INFO - Getting video id for SLOW HANDS NIALL HORAN from YouTube.
+2024-01-10 07:09:04,154 - root - INFO - Getting video id for HOW I MET MY EX DAVE from YouTube.
+2024-01-10 07:09:04,772 - root - INFO - Getting video id for RAIN SCRIPT from YouTube.
+2024-01-10 07:09:05,385 - root - INFO - Getting video id for THE WAY LIFE GOES LIL UZI VERT FT NICKI MINAJ from YouTube.
+2024-01-10 07:09:05,998 - root - INFO - Getting video id for CALL IT WHAT YOU WANT TAYLOR SWIFT from YouTube.
+2024-01-10 07:09:06,611 - root - INFO - Getting video id for WORLD GONE MAD BASTILLE from YouTube.
+2024-01-10 07:09:07,120 - root - INFO - Getting video id for GHOSTFACE KILLERS 21 SAVAGE/OFFSET/METRO BOOMIN from YouTube.
+2024-01-10 07:09:07,583 - root - INFO - Getting video id for CHANGE FREDO from YouTube.
+2024-01-10 07:09:08,039 - root - INFO - Getting video id for GLORIOUS MACKLEMORE FT SKYLAR GREY from YouTube.
+2024-01-10 07:09:08,479 - root - INFO - Getting video id for PHASES ALMA FT FRENCH MONTANA from YouTube.
+2024-01-10 07:09:09,069 - root - INFO - Getting video id for FAKING IT CALVIN HARRIS/KEHLANI/YACHTY from YouTube.
+2024-01-10 07:09:09,580 - root - INFO - Getting video id for WE COULD GO BACK JONAS BLUE FT MOELOGO from YouTube.
+2024-01-10 07:09:10,098 - root - INFO - Getting video id for NO DON LOTTO BOYZZ from YouTube.
+2024-01-10 07:09:10,603 - root - INFO - Getting video id for MY 19TH BIRTHDAY DAVE from YouTube.
+2024-01-10 07:09:11,117 - root - INFO - Getting video id for ON MY MIND JORJA SMITH & PREDITAH from YouTube.
+2024-01-10 07:09:11,627 - root - INFO - Getting video id for ANGEL TOKIO MYERS from YouTube.
+2024-01-10 07:09:12,242 - root - INFO - Getting video id for WAIT MAROON 5 from YouTube.
+2024-01-10 07:09:12,754 - root - INFO - Getting video id for WALL OF GLASS LIAM GALLAGHER from YouTube.
+2024-01-10 07:09:13,264 - root - INFO - Getting video id for FOR WHAT IT'S WORTH LIAM GALLAGHER from YouTube.
+2024-01-10 07:09:13,787 - root - INFO - Getting video id for UNSIGNED HARDY CAPRIO FT ONE ACEN from YouTube.
+2024-01-10 07:09:14,297 - root - INFO - Getting video id for BURNING SAM SMITH from YouTube.
+2024-01-10 07:09:14,769 - root - INFO - Getting video id for SPENT THE DAY IN BED MORRISSEY from YouTube.
+2024-01-10 07:09:15,316 - root - INFO - Getting video id for JOCELYN FLORES XXXTENTACION from YouTube.
+2024-01-10 07:09:15,828 - root - INFO - Getting video id for ALONE JESSIE WARE from YouTube.
+2024-01-10 07:09:16,341 - root - INFO - Getting video id for FOR ME KREPT & KONAN from YouTube.
+2024-01-10 07:09:16,952 - root - INFO - Getting video id for MEMORY LANE BUGZY MALONE FT TOM GRENNAN from YouTube.
+2024-01-10 07:09:17,566 - root - INFO - Getting video id for LITTLE BIT LEAVE IT CHRIS & KEM from YouTube.
+2024-01-10 07:09:18,170 - root - INFO - Getting video id for ALL NIGHT YUNGEN FT MR EAZI from YouTube.
+2024-01-10 07:09:18,694 - root - INFO - Getting video id for HEARTBEAT PLAN B from YouTube.
+2024-01-10 07:09:19,205 - root - INFO - Getting video id for FREEDOM GEORGE MICHAEL from YouTube.
+2024-01-10 07:09:19,819 - root - INFO - Getting video id for ALADDIN NOT3S from YouTube.
+2024-01-10 07:09:20,333 - root - INFO - Getting video id for SWISH SWISH KATY PERRY FT NICKI MINAJ from YouTube.
+2024-01-10 07:09:20,805 - root - INFO - Getting video id for SUBEME LA RADIO IGLESIAS/PAUL/TERRY from YouTube.
+2024-01-10 07:09:21,357 - root - INFO - Getting video id for PATEK WATER FUTURE & YOUNG THUG FT OFFSET from YouTube.
+2024-01-10 07:09:21,866 - root - INFO - Getting video id for WITHOUT YOU AVICII FT SANDRO CAVAZZA from YouTube.
+2024-01-10 07:09:22,483 - root - INFO - Getting video id for BACK TO YOU TOMLINSON/REXHA/DIGITAL FARM from YouTube.
+2024-01-10 07:09:22,995 - root - INFO - Getting video id for PRAYING FOR TIME GEORGE MICHAEL from YouTube.
+2024-01-10 07:09:23,610 - root - INFO - Getting video id for ON THE LOOSE NIALL HORAN from YouTube.
+2024-01-10 07:09:24,060 - root - INFO - Getting video id for KIDS IN LOVE KYGO from YouTube.
+2024-01-10 07:09:24,636 - root - INFO - Getting video id for PERSONAL VAMPS FT MAGGIE LINDEMANN from YouTube.
+2024-01-10 07:09:25,146 - root - INFO - Getting video id for SPOTLIGHT DAPPY from YouTube.
+2024-01-10 07:09:25,662 - root - INFO - Getting video id for HIGH END CHRIS BROWN/FUTURE/YOUNG THUG from YouTube.
+2024-01-10 07:09:26,237 - root - INFO - Getting video id for PELIGRO GIGGS FT DAVE from YouTube.
+2024-01-10 07:09:26,686 - root - INFO - Getting video id for INSTRUCTION JAX JONES/DEMI LOVATO/STEFFLON from YouTube.
+2024-01-10 07:09:27,296 - root - INFO - Getting video id for SPIRIT J HUS from YouTube.
+2024-01-10 07:09:27,807 - root - INFO - Getting video id for HOMEMADE DYNAMITE LORDE from YouTube.
+2024-01-10 07:09:28,320 - root - INFO - Getting video id for RUNNIN' (LOSE IT ALL) NAUGHTY BOY/BEYONCE/A BENJAMIN from YouTube.
+2024-01-10 07:09:28,838 - root - INFO - Getting video id for JUST LIKE YOU LOUIS TOMLINSON from YouTube.
+2024-01-10 07:09:29,343 - root - INFO - Getting video id for HIS & HERS (PERSPECTIVES) WRETCH 32 from YouTube.
+2024-01-10 07:09:29,858 - root - INFO - Getting video id for ULTIMATE GANGSTA GIGGS FT 2 CHAINZ from YouTube.
+2024-01-10 07:09:30,368 - root - INFO - Getting video id for GREEDY SOUL LIAM GALLAGHER from YouTube.
+2024-01-10 07:09:30,817 - root - INFO - Getting video id for BOLD LIAM GALLAGHER from YouTube.
+2024-01-10 07:09:31,274 - root - INFO - Getting video id for QUARTERBACK (SECURE THE BAG) AJ TRACEY from YouTube.
+2024-01-10 07:09:31,735 - root - INFO - Getting video id for WOULD YOU EVER SKRILLEX & POO BEAR from YouTube.
+2024-01-10 07:09:32,226 - root - INFO - Getting video id for FREE FALLIN' TOM PETTY from YouTube.
+2024-01-10 07:09:32,665 - root - INFO - Getting video id for I LIKE ME BETTER LAUV from YouTube.
+2024-01-10 07:09:33,133 - root - INFO - Getting video id for SHE'S ON MY MIND JP COOPER from YouTube.
+2024-01-10 07:09:33,595 - root - INFO - Getting video id for CHASING HIGHS ALMA from YouTube.
+2024-01-10 07:09:34,043 - root - INFO - Getting video id for ACTIVE SNEAKBO FT GIGGS from YouTube.
+2024-01-10 07:09:34,461 - root - INFO - Getting video id for HUMBLE. KENDRICK LAMAR from YouTube.
+2024-01-10 07:09:34,915 - root - INFO - Getting video id for YOUNGER NOW MILEY CYRUS from YouTube.
+2024-01-10 07:09:35,392 - root - INFO - Getting video id for LITTLE BOY KSI from YouTube.
+2024-01-10 07:09:35,901 - root - INFO - Getting video id for I'M THE ONE DJ KHALED/BIEBER/QUAVO/CHANCE from YouTube.
+2024-01-10 07:09:36,408 - root - INFO - Getting video id for THE SKY IS A NEIGHBORHOOD FOO FIGHTERS from YouTube.
+2024-01-10 07:09:36,871 - root - INFO - Getting video id for MALIBU MILEY CYRUS from YouTube.
+2024-01-10 07:09:37,433 - root - INFO - Getting video id for ADAM'S APPLE KSI from YouTube.
+2024-01-10 07:09:37,947 - root - INFO - Getting video id for DO RE MI BLACKBEAR FT GUCCI MANE from YouTube.
+2024-01-10 07:09:38,401 - root - INFO - Getting video id for THE MAN KILLERS from YouTube.
+2024-01-10 07:09:38,970 - root - INFO - Getting video id for TWO BIRDS ONE STONE KSI from YouTube.
+2024-01-10 07:09:39,484 - root - INFO - Getting video id for SIGNS DRAKE from YouTube.
+2024-01-10 07:09:39,998 - root - INFO - Getting video id for EVERYBODY DIES IN THEIR NIGHTMARES XXXTENTACION from YouTube.
+2024-01-10 07:09:40,607 - root - INFO - Getting video id for I WON'T BACK DOWN TOM PETTY from YouTube.
+2024-01-10 07:09:41,119 - root - INFO - Getting video id for BOYS CHARLI XCX from YouTube.
+2024-01-10 07:09:41,632 - root - INFO - Getting video id for MORE THAN YOU KNOW AXWELL & INGROSSO from YouTube.
+2024-01-10 07:09:42,144 - root - INFO - Getting video id for EITHER WAY SNAKEHIPS/ANNE-MARIE/BADASS from YouTube.
+2024-01-10 07:09:42,658 - root - INFO - Getting video id for 2U DAVID GUETTA FT JUSTIN BIEBER from YouTube.
+2024-01-10 07:09:43,112 - root - INFO - Getting video id for HEROES DAVID BOWIE from YouTube.
+2024-01-10 07:09:43,681 - root - INFO - Getting video id for CRYING IN THE CLUB CAMILA CABELLO from YouTube.
+2024-01-10 07:09:44,191 - root - INFO - Getting video id for RICH LOVE ONEREPUBLIC FT SEEB from YouTube.
+2024-01-10 07:09:44,705 - root - INFO - Getting video id for DNA BTS from YouTube.
+2024-01-10 07:09:45,192 - root - INFO - Getting video id for SORRY NOTHING BUT THIEVES from YouTube.
+2024-01-10 07:09:45,728 - root - INFO - Getting video id for SWALLA JASON DERULO/NICKI MINAJ/TY from YouTube.
+2024-01-10 07:09:46,241 - root - INFO - Getting video id for RUN FOR COVER KILLERS from YouTube.
+2024-01-10 07:09:46,753 - root - INFO - Getting video id for NO DON LOTTOBOYZZ from YouTube.
+2024-01-10 07:09:47,270 - root - INFO - Getting video id for RUN FOO FIGHTERS from YouTube.
+2024-01-10 07:09:47,777 - root - INFO - Getting video id for CURVE GUCCI MANE FT WEEKND from YouTube.
+2024-01-10 07:09:48,286 - root - INFO - Getting video id for PIECE BY PIECE KELLY CLARKSON from YouTube.
+2024-01-10 07:09:48,798 - root - INFO - Getting video id for KNOW NO BETTER MAJOR LAZER FT SCOTT/CABELLO from YouTube.
+2024-01-10 07:09:49,415 - root - INFO - Getting video id for T-SHIRT FOO FIGHTERS from YouTube.
+2024-01-10 07:09:49,927 - root - INFO - Getting video id for STAY WITH ME SAM SMITH from YouTube.
+2024-01-10 07:09:50,436 - root - INFO - Getting video id for (NO ONE KNOWS ME) LIKE THE PIANO SAMPHA from YouTube.
+2024-01-10 07:09:50,950 - root - INFO - Getting video id for HIGH HEELED SHOES MEGAN MCKENNA from YouTube.
+2024-01-10 07:09:51,464 - root - INFO - Getting video id for FAR CRY FROM LOVE MEGAN MCKENNA from YouTube.
+2024-01-10 07:09:52,077 - root - INFO - Getting video id for LOVE SO SOFT KELLY CLARKSON from YouTube.
+2024-01-10 07:09:52,693 - root - INFO - Getting video id for ALL STARS MARTIN SOLVEIG FT ALMA from YouTube.
+2024-01-10 07:09:53,203 - root - INFO - Getting video id for HOW FAR I'LL GO AULI'I CRAVALHO from YouTube.
+2024-01-10 07:09:53,715 - root - INFO - Getting video id for FANTASY GEORGE MICHAEL FT NILE RODGERS from YouTube.
+2024-01-10 07:09:54,244 - root - INFO - Getting video id for YOU'RE THE BEST THING ABOUT ME U2 from YouTube.
+2024-01-10 07:09:54,846 - root - INFO - Getting video id for GET LOW ZEDD FT LIAM PAYNE from YouTube.
+2024-01-10 07:09:55,040 - root - INFO - Quota exceeded for API key AIzaSyDyuFyvv1b24q-XfWKMdeIRpX3h1kPNLPk. Switching to API key AIzaSyC0EkMQ4z0usHcmkt7KPN49cq5my022pmU.
+2024-01-10 07:09:55,050 - root - INFO - Getting video id for LOYALTY. KENDRICK LAMAR & RIHANNA from YouTube.
+2024-01-10 07:09:55,558 - root - INFO - Getting video id for PRAYING KESHA from YouTube.
+2024-01-10 07:09:56,027 - root - INFO - Getting video id for REAL LIFE DUKE DUMONT/GORGON CITY from YouTube.
+2024-01-10 07:09:56,583 - root - INFO - Getting video id for STAYING UP MATOMA & THE VAMPS from YouTube.
+2024-01-10 07:09:57,092 - root - INFO - Getting video id for MY IMMORTAL EVANESCENCE from YouTube.
+2024-01-10 07:09:57,718 - root - INFO - Getting video id for SHAKE IT OFF TAYLOR SWIFT from YouTube.
+2024-01-10 07:09:58,250 - root - INFO - Getting video id for FETISH SELENA GOMEZ FT GUCCI MANE from YouTube.
+2024-01-10 07:09:58,736 - root - INFO - Getting video id for PLACES MARTIN SOLVEIG & INA WROLDSEN from YouTube.
+2024-01-10 07:09:59,250 - root - INFO - Getting video id for SOLO DANCE MARTIN JENSEN from YouTube.
+2024-01-10 07:09:59,860 - root - INFO - Getting video id for VERSACE ON THE FLOOR BRUNO MARS from YouTube.
+2024-01-10 07:10:00,477 - root - INFO - Getting video id for MASK OFF FUTURE from YouTube.
+2024-01-10 07:10:01,089 - root - INFO - Getting video id for THERE FOR YOU MARTIN GARRIX & TROYE SIVAN from YouTube.
+2024-01-10 07:10:01,703 - root - INFO - Getting video id for THERE'S ONLY ONE CONOR MCGREGOR MICK KONSTANTIN from YouTube.
+2024-01-10 07:10:02,318 - root - INFO - Getting video id for QUEEN & A DOUBLE JOE WELLER & ELLIOT CRAWFORD from YouTube.
+2024-01-10 07:10:02,933 - root - INFO - Getting video id for MIRACLES (SOMEONE SPECIAL) COLDPLAY & BIG SEAN from YouTube.
+2024-01-10 07:10:03,445 - root - INFO - Getting video id for WALK ON WATER 30 SECONDS TO MARS from YouTube.
+2024-01-10 07:10:04,065 - root - INFO - Getting video id for NO PROMISES CHEAT CODES FT DEMI LOVATO from YouTube.
+2024-01-10 07:10:04,572 - root - INFO - Getting video id for ON MY MIND DISCIPLES from YouTube.
+2024-01-10 07:10:05,084 - root - INFO - Getting video id for YOU ALREADY KNOW FERGIE FT NICKI MINAJ from YouTube.
+2024-01-10 07:10:05,598 - root - INFO - Getting video id for NAUGHTY SESH MAJESTIC & TIGERMONKEY from YouTube.
+2024-01-10 07:10:06,004 - root - INFO - Getting video id for EVERYTHING NOW ARCADE FIRE from YouTube.
+2024-01-10 07:10:06,624 - root - INFO - Getting video id for LOVE YOURSELF JUSTIN BIEBER from YouTube.
+2024-01-10 07:10:07,233 - root - INFO - Getting video id for FISHERMAN J HUS FT MOSTACK & MIST from YouTube.
+2024-01-10 07:10:07,745 - root - INFO - Getting video id for MORE & MORE TOM ZANETTI from YouTube.
+2024-01-10 07:10:08,259 - root - INFO - Getting video id for CALL ME NEIKED FT MIMI from YouTube.
+2024-01-10 07:10:08,769 - root - INFO - Getting video id for NO MORE SAD SONGS LITTLE MIX from YouTube.
+2024-01-10 07:10:09,386 - root - INFO - Getting video id for UNPREDICTABLE OLLY MURS/LOUISA JOHNSON from YouTube.
+2024-01-10 07:10:09,898 - root - INFO - Getting video id for EGO ELLA EYRE FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:10:10,408 - root - INFO - Getting video id for SLIDE CALVIN HARRIS/OCEAN/MIGOS from YouTube.
+2024-01-10 07:10:10,919 - root - INFO - Getting video id for BAD LIAR SELENA GOMEZ from YouTube.
+2024-01-10 07:10:11,356 - root - INFO - Getting video id for MOST GIRLS HAILEE STEINFELD from YouTube.
+2024-01-10 07:10:11,838 - root - INFO - Getting video id for IN THE END LINKIN PARK from YouTube.
+2024-01-10 07:10:12,456 - root - INFO - Getting video id for REDBONE CHILDISH GAMBINO from YouTube.
+2024-01-10 07:10:13,043 - root - INFO - Getting video id for THAT'S WHAT I LIKE BRUNO MARS from YouTube.
+2024-01-10 07:10:13,581 - root - INFO - Getting video id for REMINDER WEEKND from YouTube.
+2024-01-10 07:10:14,100 - root - INFO - Getting video id for OMG CAMILA CABELLO FT QUAVO from YouTube.
+2024-01-10 07:10:14,589 - root - INFO - Getting video id for P Y T (PRETTY YOUNG THING) JOHN GIBBONS from YouTube.
+2024-01-10 07:10:15,116 - root - INFO - Getting video id for NUMB LINKIN PARK from YouTube.
+2024-01-10 07:10:15,631 - root - INFO - Getting video id for DOWN FIFTH HARMONY FT GUCCI MANE from YouTube.
+2024-01-10 07:10:16,091 - root - INFO - Getting video id for ADDISON LEE NOT3S from YouTube.
+2024-01-10 07:10:16,550 - root - INFO - Getting video id for RUN ME DRY BRYSON TILLER from YouTube.
+2024-01-10 07:10:16,988 - root - INFO - Getting video id for WICHITA LINEMAN GLEN CAMPBELL from YouTube.
+2024-01-10 07:10:17,472 - root - INFO - Getting video id for NUMB/ENCORE JAY-Z & LINKIN PARK from YouTube.
+2024-01-10 07:10:17,976 - root - INFO - Getting video id for MIDNIGHT JESSIE WARE from YouTube.
+2024-01-10 07:10:18,419 - root - INFO - Getting video id for A LIE FRENCH MONTANA FT WEEKND/MAX B from YouTube.
+2024-01-10 07:10:19,011 - root - INFO - Getting video id for IT AIN'T ME KYGO & SELENA GOMEZ from YouTube.
+2024-01-10 07:10:19,520 - root - INFO - Getting video id for ROCKABYE CLEAN BANDIT from YouTube.
+2024-01-10 07:10:20,001 - root - INFO - Getting video id for HEAVY LINKIN PARK FT KIIARA from YouTube.
+2024-01-10 07:10:20,479 - root - INFO - Getting video id for DON'T MATTER NOW GEORGE EZRA from YouTube.
+2024-01-10 07:10:21,056 - root - INFO - Getting video id for LUST FOR LIFE LANA DEL REY FT THE WEEKND from YouTube.
+2024-01-10 07:10:21,568 - root - INFO - Getting video id for SUMMER BUMMER LANA DEL REY/ASAP ROCKY/CARTI from YouTube.
+2024-01-10 07:10:22,081 - root - INFO - Getting video id for LOVE LANA DEL REY from YouTube.
+2024-01-10 07:10:22,698 - root - INFO - Getting video id for ROLLIN CALVIN HARRIS/FUTURE/KHALID from YouTube.
+2024-01-10 07:10:23,310 - root - INFO - Getting video id for PASSIONFRUIT DRAKE from YouTube.
+2024-01-10 07:10:23,824 - root - INFO - Getting video id for YOU DON'T KNOW ME JAX JONES FT RAYE from YouTube.
+2024-01-10 07:10:24,436 - root - INFO - Getting video id for BRIDGE OVER TROUBLED WATER ARTISTS FOR GRENFELL from YouTube.
+2024-01-10 07:10:24,947 - root - INFO - Getting video id for THROUGH THE NIGHT BUGZY MALONE/DJ LUCK/MC NEAT from YouTube.
+2024-01-10 07:10:25,460 - root - INFO - Getting video id for WHO DAT BOY TYLER THE CREATOR from YouTube.
+2024-01-10 07:10:25,972 - root - INFO - Getting video id for WOULD YOU MIND PRETTYMUCH from YouTube.
+2024-01-10 07:10:26,488 - root - INFO - Getting video id for WANT YOU BACK HAIM from YouTube.
+2024-01-10 07:10:27,002 - root - INFO - Getting video id for OUT OF LOVE INDIIA FT WHITNEY PHILLIPS from YouTube.
+2024-01-10 07:10:27,509 - root - INFO - Getting video id for TEQUILA DAVE from YouTube.
+2024-01-10 07:10:28,018 - root - INFO - Getting video id for STAY ZEDD & ALESSIA CARA from YouTube.
+2024-01-10 07:10:28,531 - root - INFO - Getting video id for MIDDLE OF THE NIGHT VAMPS & MARTIN JENSEN from YouTube.
+2024-01-10 07:10:29,042 - root - INFO - Getting video id for UP IN HERE 5 AFTER MIDNIGHT from YouTube.
+2024-01-10 07:10:29,556 - root - INFO - Getting video id for CIAO ADIOS ANNE-MARIE from YouTube.
+2024-01-10 07:10:30,173 - root - INFO - Getting video id for FIRST TIME KYGO FT ELLIE GOULDING from YouTube.
+2024-01-10 07:10:30,680 - root - INFO - Getting video id for 4:44 JAY-Z from YouTube.
+2024-01-10 07:10:31,195 - root - INFO - Getting video id for THE STORY OF O.J. JAY-Z from YouTube.
+2024-01-10 07:10:31,711 - root - INFO - Getting video id for BAM JAY-Z FT DAMIAN MARLEY from YouTube.
+2024-01-10 07:10:32,321 - root - INFO - Getting video id for ISPY KYLE FT LIL YACHTY from YouTube.
+2024-01-10 07:10:32,833 - root - INFO - Getting video id for THE LINE RAYE from YouTube.
+2024-01-10 07:10:33,347 - root - INFO - Getting video id for DON'T LOOK BACK IN ANGER OASIS from YouTube.
+2024-01-10 07:10:33,960 - root - INFO - Getting video id for FORGIVE FORGET SAMANTHA HARVEY from YouTube.
+2024-01-10 07:10:34,470 - root - INFO - Getting video id for CHINATOWN LIAM GALLAGHER from YouTube.
+2024-01-10 07:10:34,982 - root - INFO - Getting video id for NOW OR NEVER HALSEY from YouTube.
+2024-01-10 07:10:35,495 - root - INFO - Getting video id for BON APPETIT KATY PERRY FT MIGOS from YouTube.
+2024-01-10 07:10:36,007 - root - INFO - Getting video id for GREEN LIGHT LORDE from YouTube.
+2024-01-10 07:10:36,518 - root - INFO - Getting video id for OH WOMAN OH MAN LONDON GRAMMAR from YouTube.
+2024-01-10 07:10:37,029 - root - INFO - Getting video id for PIE FUTURE FT CHRIS BROWN from YouTube.
+2024-01-10 07:10:37,544 - root - INFO - Getting video id for BIG FOR YOUR BOOTS STORMZY from YouTube.
+2024-01-10 07:10:38,054 - root - INFO - Getting video id for CHAINED TO THE RHYTHM KATY PERRY FT SKIP MARLEY from YouTube.
+2024-01-10 07:10:38,567 - root - INFO - Getting video id for BE THE ONE DUA LIPA from YouTube.
+2024-01-10 07:10:39,078 - root - INFO - Getting video id for BRUCE WAYNE BUGZY MALONE from YouTube.
+2024-01-10 07:10:39,591 - root - INFO - Getting video id for CREATURE KSI from YouTube.
+2024-01-10 07:10:40,102 - root - INFO - Getting video id for CAME HERE FOR LOVE SIGALA FT ELLA EYRE from YouTube.
+2024-01-10 07:10:40,616 - root - INFO - Getting video id for SMILE FOR BRADLEY LIV'N'G from YouTube.
+2024-01-10 07:10:41,126 - root - INFO - Getting video id for WHAT DO I KNOW ED SHEERAN from YouTube.
+2024-01-10 07:10:41,740 - root - INFO - Getting video id for DON'T QUIT DJ KHALED/HARRIS/SCOTT/JEREMIH from YouTube.
+2024-01-10 07:10:42,253 - root - INFO - Getting video id for SCARED TO BE LONELY MARTIN GARRIX & DUA LIPA from YouTube.
+2024-01-10 07:10:42,767 - root - INFO - Getting video id for THE CURE LADY GAGA from YouTube.
+2024-01-10 07:10:43,279 - root - INFO - Getting video id for ONE DANCE DRAKE FT WIZKID & KYLA from YouTube.
+2024-01-10 07:10:43,747 - root - INFO - Getting video id for CALL ON ME STARLEY from YouTube.
+2024-01-10 07:10:44,223 - root - INFO - Getting video id for SHOUT OUT TO MY EX LITTLE MIX from YouTube.
+2024-01-10 07:10:44,767 - root - INFO - Getting video id for CAN I BE HIM JAMES ARTHUR from YouTube.
+2024-01-10 07:10:45,264 - root - INFO - Getting video id for CLOSER CHAINSMOKERS FT HALSEY from YouTube.
+2024-01-10 07:10:45,715 - root - INFO - Getting video id for WHATEVER IT TAKES IMAGINE DRAGONS from YouTube.
+2024-01-10 07:10:46,179 - root - INFO - Getting video id for SEPTEMBER SONG JP COOPER from YouTube.
+2024-01-10 07:10:46,658 - root - INFO - Getting video id for PARIS CHAINSMOKERS from YouTube.
+2024-01-10 07:10:47,103 - root - INFO - Getting video id for LIGHTS OUT ROYAL BLOOD from YouTube.
+2024-01-10 07:10:47,565 - root - INFO - Getting video id for BLEM DRAKE from YouTube.
+2024-01-10 07:10:48,040 - root - INFO - Getting video id for NEW MAN ED SHEERAN from YouTube.
+2024-01-10 07:10:48,240 - root - INFO - Quota exceeded for API key AIzaSyC0EkMQ4z0usHcmkt7KPN49cq5my022pmU. Switching to API key AIzaSyD7h9xDQ_-z1QLFnHKLrrGKBddgygw0SBU.
+2024-01-10 07:10:48,249 - root - INFO - Getting video id for DON'T KILL MY VIBE SIGRID from YouTube.
+2024-01-10 07:10:48,908 - root - INFO - Getting video id for STILL GOT TIME ZAYN FT PARTYNEXTDOOR from YouTube.
+2024-01-10 07:10:49,524 - root - INFO - Getting video id for THE QUEEN IS DEAD SMITHS from YouTube.
+2024-01-10 07:10:50,139 - root - INFO - Getting video id for SIDE TO SIDE ARIANA GRANDE FT NICKI MINAJ from YouTube.
+2024-01-10 07:10:50,753 - root - INFO - Getting video id for CHEAP THRILLS SIA from YouTube.
+2024-01-10 07:10:51,266 - root - INFO - Getting video id for NO LIE SEAN PAUL FT DUA LIPA from YouTube.
+2024-01-10 07:10:51,980 - root - INFO - Getting video id for LIABILITY LORDE from YouTube.
+2024-01-10 07:10:52,596 - root - INFO - Getting video id for SEXUAL NEIKED from YouTube.
+2024-01-10 07:10:53,061 - root - INFO - Getting video id for TO THE MAX DJ KHALED FT DRAKE from YouTube.
+2024-01-10 07:10:53,618 - root - INFO - Getting video id for SOMEWHERE OVER THE RAINBOW ARIANA GRANDE from YouTube.
+2024-01-10 07:10:54,237 - root - INFO - Getting video id for HARD TIMES PARAMORE from YouTube.
+2024-01-10 07:10:54,851 - root - INFO - Getting video id for WHERE IS THE LOVE BLACK EYED PEAS from YouTube.
+2024-01-10 07:10:55,464 - root - INFO - Getting video id for LIVE FOREVER OASIS from YouTube.
+2024-01-10 07:10:55,967 - root - INFO - Getting video id for COME CLOSER WIZKID FT DRAKE from YouTube.
+2024-01-10 07:10:56,489 - root - INFO - Getting video id for DNA. KENDRICK LAMAR from YouTube.
+2024-01-10 07:10:57,000 - root - INFO - Getting video id for I FEEL IT COMING WEEKND FT DAFT PUNK from YouTube.
+2024-01-10 07:10:57,616 - root - INFO - Getting video id for FIX YOU COLDPLAY from YouTube.
+2024-01-10 07:10:58,124 - root - INFO - Getting video id for THIS TOWN NIALL HORAN from YouTube.
+2024-01-10 07:10:58,637 - root - INFO - Getting video id for BREAK FREE ARIANA GRANDE FT ZEDD from YouTube.
+2024-01-10 07:10:59,149 - root - INFO - Getting video id for SCREW & BREW MOSTACK from YouTube.
+2024-01-10 07:10:59,662 - root - INFO - Getting video id for INTO YOU ARIANA GRANDE from YouTube.
+2024-01-10 07:11:00,178 - root - INFO - Getting video id for THE WAY ARIANA GRANDE FT MAC MILLER from YouTube.
+2024-01-10 07:11:00,745 - root - INFO - Getting video id for LIAR LIAR CAPTAIN SKA from YouTube.
+2024-01-10 07:11:01,199 - root - INFO - Getting video id for PERFECT PLACES LORDE from YouTube.
+2024-01-10 07:11:01,710 - root - INFO - Getting video id for LOST IN YOUR LIGHT DUA LIPA FT MIGUEL from YouTube.
+2024-01-10 07:11:02,325 - root - INFO - Getting video id for BE ALRIGHT ARIANA GRANDE from YouTube.
+2024-01-10 07:11:02,838 - root - INFO - Getting video id for GOOD LIFE G-EAZY & KEHLANI from YouTube.
+2024-01-10 07:11:03,454 - root - INFO - Getting video id for BEST BEHAVIOUR LOUISA JOHNSON from YouTube.
+2024-01-10 07:11:03,965 - root - INFO - Getting video id for 24K MAGIC BRUNO MARS from YouTube.
+2024-01-10 07:11:04,577 - root - INFO - Getting video id for DIVE ED SHEERAN from YouTube.
+2024-01-10 07:11:05,043 - root - INFO - Getting video id for REMEMBER I TOLD YOU NICK JONAS/ANNE-MARIE/POSNER from YouTube.
+2024-01-10 07:11:05,701 - root - INFO - Getting video id for KMT DRAKE FT GIGGS from YouTube.
+2024-01-10 07:11:06,215 - root - INFO - Getting video id for BARCELONA ED SHEERAN from YouTube.
+2024-01-10 07:11:06,831 - root - INFO - Getting video id for SWEET CREATURE HARRY STYLES from YouTube.
+2024-01-10 07:11:07,342 - root - INFO - Getting video id for KIWI HARRY STYLES from YouTube.
+2024-01-10 07:11:07,954 - root - INFO - Getting video id for COMMON SENSE J HUS from YouTube.
+2024-01-10 07:11:08,469 - root - INFO - Getting video id for YOU'RE IN LOVE WITH A PSYCHO KASABIAN from YouTube.
+2024-01-10 07:11:09,085 - root - INFO - Getting video id for NAIVE KOOKS from YouTube.
+2024-01-10 07:11:09,593 - root - INFO - Getting video id for CAROLINA HARRY STYLES from YouTube.
+2024-01-10 07:11:10,074 - root - INFO - Getting video id for I WOULD LIKE ZARA LARSSON from YouTube.
+2024-01-10 07:11:10,622 - root - INFO - Getting video id for TWO GHOSTS HARRY STYLES from YouTube.
+2024-01-10 07:11:11,131 - root - INFO - Getting video id for MEET ME IN THE HALLWAY HARRY STYLES from YouTube.
+2024-01-10 07:11:11,745 - root - INFO - Getting video id for HEATSTROKE HARRIS/THUG/PHARRELL/GRANDE from YouTube.
+2024-01-10 07:11:12,360 - root - INFO - Getting video id for NEVER GIVE UP ON YOU LUCIE JONES from YouTube.
+2024-01-10 07:11:12,973 - root - INFO - Getting video id for ONLY ANGEL HARRY STYLES from YouTube.
+2024-01-10 07:11:13,587 - root - INFO - Getting video id for PLOTTIN J HUS from YouTube.
+2024-01-10 07:11:14,099 - root - INFO - Getting video id for EVER SINCE NEW YORK HARRY STYLES from YouTube.
+2024-01-10 07:11:14,629 - root - INFO - Getting video id for GOOD TIME J HUS FT BURNA BOY from YouTube.
+2024-01-10 07:11:15,229 - root - INFO - Getting video id for RUN UP MAJORLAZER/PARTYNEXTDOOR/MINAJ from YouTube.
+2024-01-10 07:11:15,844 - root - INFO - Getting video id for LIKE YOUR STYLE J HUS from YouTube.
+2024-01-10 07:11:16,352 - root - INFO - Getting video id for COLD MAROON 5 FT FUTURE from YouTube.
+2024-01-10 07:11:17,170 - root - INFO - Getting video id for SWEET CHEEKS J HUS from YouTube.
+2024-01-10 07:11:17,684 - root - INFO - Getting video id for AMAR PELOS DOIS SALVADOR SOBRAL from YouTube.
+2024-01-10 07:11:18,195 - root - INFO - Getting video id for WOMAN HARRY STYLES from YouTube.
+2024-01-10 07:11:18,716 - root - INFO - Getting video id for F WITH U KID INK FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:11:19,325 - root - INFO - Getting video id for NANCY MULLIGAN ED SHEERAN from YouTube.
+2024-01-10 07:11:19,868 - root - INFO - Getting video id for HOW WOULD YOU FEEL (PAEAN) ED SHEERAN from YouTube.
+2024-01-10 07:11:20,448 - root - INFO - Getting video id for THE CHAIN FLEETWOOD MAC from YouTube.
+2024-01-10 07:11:21,165 - root - INFO - Getting video id for MR BLUE SKY ELO from YouTube.
+2024-01-10 07:11:21,782 - root - INFO - Getting video id for FAKE LOVE DRAKE from YouTube.
+2024-01-10 07:11:22,331 - root - INFO - Getting video id for PORTLAND DRAKE FT QUAVO & TRAVIS SCOTT from YouTube.
+2024-01-10 07:11:22,853 - root - INFO - Getting video id for I DON'T WANNA LIVE FOREVER (FIFTY SHADES ZAYN/TAYLOR SWIFT from YouTube.
+2024-01-10 07:11:23,419 - root - INFO - Getting video id for PRIVACY CHRIS BROWN from YouTube.
+2024-01-10 07:11:23,930 - root - INFO - Getting video id for SAMANTHA DAVE & J HUS from YouTube.
+2024-01-10 07:11:24,443 - root - INFO - Getting video id for DESPACITO LUIS FONSI & DADDY YANKEE from YouTube.
+2024-01-10 07:11:25,058 - root - INFO - Getting video id for YOUNG AND MENACE FALL OUT BOY from YouTube.
+2024-01-10 07:11:25,529 - root - INFO - Getting video id for BODY SEAN PAUL FT MIGOS from YouTube.
+2024-01-10 07:11:26,185 - root - INFO - Getting video id for ELEMENT. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:26,800 - root - INFO - Getting video id for ALL NIGHT VAMPS FT MATOMA from YouTube.
+2024-01-10 07:11:27,209 - root - INFO - Getting video id for PLAY THAT SONG TRAIN from YouTube.
+2024-01-10 07:11:27,822 - root - INFO - Getting video id for STARVING HAILEE STEINFELD/GREY/ZEDD from YouTube.
+2024-01-10 07:11:28,262 - root - INFO - Getting video id for GET IT TOGETHER DRAKE/BLACK COFFEE/JORJA SMITH from YouTube.
+2024-01-10 07:11:28,851 - root - INFO - Getting video id for YOU WANT ME TOM ZANETTI FT SADIE AMA from YouTube.
+2024-01-10 07:11:29,462 - root - INFO - Getting video id for SCARED OF THE DARK STEPS from YouTube.
+2024-01-10 07:11:29,972 - root - INFO - Getting video id for YAH. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:30,487 - root - INFO - Getting video id for XXX. KENDRICK LAMAR & U2 from YouTube.
+2024-01-10 07:11:31,015 - root - INFO - Getting video id for FEEL. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:31,508 - root - INFO - Getting video id for PRIDE. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:32,018 - root - INFO - Getting video id for NO PLAN DAVID BOWIE from YouTube.
+2024-01-10 07:11:32,524 - root - INFO - Getting video id for HEARTS DON'T BREAK AROUND HERE ED SHEERAN from YouTube.
+2024-01-10 07:11:33,029 - root - INFO - Getting video id for ERASER ED SHEERAN from YouTube.
+2024-01-10 07:11:33,455 - root - INFO - Getting video id for LUST. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:33,929 - root - INFO - Getting video id for GYALCHESTER DRAKE from YouTube.
+2024-01-10 07:11:34,478 - root - INFO - Getting video id for BIBIA BE YE YE ED SHEERAN from YouTube.
+2024-01-10 07:11:34,936 - root - INFO - Getting video id for THE ONE CHAINSMOKERS from YouTube.
+2024-01-10 07:11:35,416 - root - INFO - Getting video id for BLOOD. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:35,934 - root - INFO - Getting video id for FEAR. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:36,527 - root - INFO - Getting video id for DUCKWORTH. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:37,141 - root - INFO - Getting video id for GOD. KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:37,652 - root - INFO - Getting video id for BABY ANTON POWERS & PIXIE LOTT from YouTube.
+2024-01-10 07:11:38,174 - root - INFO - Getting video id for MADIBA RIDDIM DRAKE from YouTube.
+2024-01-10 07:11:38,675 - root - INFO - Getting video id for NO LONG TALK DRAKE FT GIGGS from YouTube.
+2024-01-10 07:11:39,189 - root - INFO - Getting video id for HUMBLE KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:39,614 - root - INFO - Getting video id for DIE WITH YOU BEYONCE from YouTube.
+2024-01-10 07:11:40,520 - root - INFO - Getting video id for WATERFALL STARGATE FT PINK & SIA from YouTube.
+2024-01-10 07:11:40,928 - root - INFO - Getting video id for TEENAGE FEVER DRAKE from YouTube.
+2024-01-10 07:11:41,543 - root - INFO - Getting video id for SKEPTA INTERLUDE DRAKE from YouTube.
+2024-01-10 07:11:42,057 - root - INFO - Getting video id for SAVE MYSELF ED SHEERAN from YouTube.
+2024-01-10 07:11:42,569 - root - INFO - Getting video id for PASSPORT HOME JP COOPER from YouTube.
+2024-01-10 07:11:43,080 - root - INFO - Getting video id for 4422 DRAKE FT SAMPHA from YouTube.
+2024-01-10 07:11:43,597 - root - INFO - Getting video id for HOW FAR I'LL GO ALESSIA CARA from YouTube.
+2024-01-10 07:11:44,207 - root - INFO - Getting video id for FREE SMOKE DRAKE from YouTube.
+2024-01-10 07:11:44,445 - root - INFO - Quota exceeded for API key AIzaSyD7h9xDQ_-z1QLFnHKLrrGKBddgygw0SBU. Switching to API key AIzaSyC2Tj7VZ0l2U23scqTB9TGEpW0QFz7PsqM.
+2024-01-10 07:11:44,454 - root - INFO - Getting video id for JORJA INTERLUDE DRAKE from YouTube.
+2024-01-10 07:11:45,026 - root - INFO - Getting video id for DON'T LET ME DOWN CHAINSMOKERS FT DAYA from YouTube.
+2024-01-10 07:11:45,563 - root - INFO - Getting video id for BAD AND BOUJEE MIGOS from YouTube.
+2024-01-10 07:11:46,152 - root - INFO - Getting video id for LET ME LOVE YOU DJ SNAKE FT JUSTIN BIEBER from YouTube.
+2024-01-10 07:11:46,768 - root - INFO - Getting video id for BY YOUR SIDE JONAS BLUE FT RAYE from YouTube.
+2024-01-10 07:11:47,279 - root - INFO - Getting video id for UNSTEADY M O from YouTube.
+2024-01-10 07:11:47,791 - root - INFO - Getting video id for LIGHT MY BODY UP DAVID GUETTA/N MINAJ/LIL WAYNE from YouTube.
+2024-01-10 07:11:48,511 - root - INFO - Getting video id for SACRIFICES DRAKE FT 2 CHAINZ & YOUNG THUG from YouTube.
+2024-01-10 07:11:49,120 - root - INFO - Getting video id for DO NOT DISTURB DRAKE from YouTube.
+2024-01-10 07:11:50,658 - root - INFO - Getting video id for SAFE INSIDE JAMES ARTHUR from YouTube.
+2024-01-10 07:11:51,273 - root - INFO - Getting video id for LOSE YOU DRAKE from YouTube.
+2024-01-10 07:11:51,784 - root - INFO - Getting video id for THE HEART - PT 4 KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:52,399 - root - INFO - Getting video id for GLOW DRAKE FT KANYE WEST from YouTube.
+2024-01-10 07:11:52,916 - root - INFO - Getting video id for CAN'T HAVE EVERYTHING DRAKE from YouTube.
+2024-01-10 07:11:53,532 - root - INFO - Getting video id for ICE MELTS DRAKE FT YOUNG THUG from YouTube.
+2024-01-10 07:11:54,039 - root - INFO - Getting video id for NOTHINGS INTO SOMETHINGS DRAKE from YouTube.
+2024-01-10 07:11:54,530 - root - INFO - Getting video id for SATURNZ BARZ GORILLAZ FT POPCAAN from YouTube.
+2024-01-10 07:11:55,062 - root - INFO - Getting video id for GIANTS TAKE THAT from YouTube.
+2024-01-10 07:11:55,574 - root - INFO - Getting video id for SINCE WAY BACK DRAKE FT PARTYNEXTDOOR from YouTube.
+2024-01-10 07:11:56,085 - root - INFO - Getting video id for ASCENSION GORILLAZ FT VINCE STAPLES from YouTube.
+2024-01-10 07:11:56,506 - root - INFO - Getting video id for BEAUTY AND THE BEAST ARIANA GRANDE & JOHN LEGEND from YouTube.
+2024-01-10 07:11:57,113 - root - INFO - Getting video id for DON'T LEAVE SNAKEHIPS & MO from YouTube.
+2024-01-10 07:11:57,628 - root - INFO - Getting video id for TEXT FROM YOUR EX TINIE TEMPAH FT TINASHE from YouTube.
+2024-01-10 07:11:58,137 - root - INFO - Getting video id for LUSH LIFE ZARA LARSSON from YouTube.
+2024-01-10 07:11:58,633 - root - INFO - Getting video id for JUST HOLD ON LOUIS TOMLINSON & STEVE AOKI from YouTube.
+2024-01-10 07:11:59,262 - root - INFO - Getting video id for THE GREATEST SIA FT KENDRICK LAMAR from YouTube.
+2024-01-10 07:11:59,772 - root - INFO - Getting video id for NO FRAUDS NICKI MINAJ/DRAKE/LIL WAYNE from YouTube.
+2024-01-10 07:12:00,284 - root - INFO - Getting video id for REGRET IN YOUR TEARS NICKI MINAJ from YouTube.
+2024-01-10 07:12:00,804 - root - INFO - Getting video id for NOW AND LATER SAGE THE GEMINI from YouTube.
+2024-01-10 07:12:01,311 - root - INFO - Getting video id for COLD STORMZY from YouTube.
+2024-01-10 07:12:01,821 - root - INFO - Getting video id for SHUT UP STORMZY from YouTube.
+2024-01-10 07:12:02,335 - root - INFO - Getting video id for CIGARETTES & CUSH STORMZY FT KEHLANI from YouTube.
+2024-01-10 07:12:02,780 - root - INFO - Getting video id for WATER UNDER THE BRIDGE ADELE from YouTube.
+2024-01-10 07:12:03,253 - root - INFO - Getting video id for CHANEL FRANK OCEAN from YouTube.
+2024-01-10 07:12:03,759 - root - INFO - Getting video id for SHED A LIGHT SCHULZ/GUETTA/CHEAT CODES from YouTube.
+2024-01-10 07:12:04,380 - root - INFO - Getting video id for PHOTOGRAPH ED SHEERAN from YouTube.
+2024-01-10 07:12:04,892 - root - INFO - Getting video id for ALL TIME LOW JON BELLION from YouTube.
+2024-01-10 07:12:05,505 - root - INFO - Getting video id for MR SKENG STORMZY from YouTube.
+2024-01-10 07:12:06,017 - root - INFO - Getting video id for DON'T WANNA KNOW MAROON 5 FT KENDRICK LAMAR from YouTube.
+2024-01-10 07:12:06,528 - root - INFO - Getting video id for DANCING ON MY OWN CALUM SCOTT from YouTube.
+2024-01-10 07:12:07,142 - root - INFO - Getting video id for BAD THINGS MACHINE GUN KELLY/CABELLO from YouTube.
+2024-01-10 07:12:07,759 - root - INFO - Getting video id for BAD BOYS STORMZY FT GHETTS & J HUS from YouTube.
+2024-01-10 07:12:08,272 - root - INFO - Getting video id for THE MACK NEVADA/MARK MORRISON/FETTY WAP from YouTube.
+2024-01-10 07:12:08,884 - root - INFO - Getting video id for FIRST THINGS FIRST STORMZY from YouTube.
+2024-01-10 07:12:09,397 - root - INFO - Getting video id for HYPNOTISED COLDPLAY from YouTube.
+2024-01-10 07:12:09,842 - root - INFO - Getting video id for VELVET/JENNY FRANCIS STORMZY from YouTube.
+2024-01-10 07:12:10,319 - root - INFO - Getting video id for RETURN OF THE RUCKSACK STORMZY from YouTube.
+2024-01-10 07:12:10,751 - root - INFO - Getting video id for MOVE YOUR BODY SIA from YouTube.
+2024-01-10 07:12:11,345 - root - INFO - Getting video id for HURT JOHNNY CASH from YouTube.
+2024-01-10 07:12:11,855 - root - INFO - Getting video id for THE SOUND 1975 from YouTube.
+2024-01-10 07:12:12,366 - root - INFO - Getting video id for 100 BAGS STORMZY from YouTube.
+2024-01-10 07:12:12,878 - root - INFO - Getting video id for BLINDED BY YOUR GRACE - PT 1 STORMZY from YouTube.
+2024-01-10 07:12:13,392 - root - INFO - Getting video id for DON'T CRY FOR ME STORMZY FT RALEIGH RITCHIE from YouTube.
+2024-01-10 07:12:13,900 - root - INFO - Getting video id for 21 GUN SALUTE STORMZY FT WRETCH 32 from YouTube.
+2024-01-10 07:12:14,350 - root - INFO - Getting video id for LAY ME BARE STORMZY from YouTube.
+2024-01-10 07:12:14,782 - root - INFO - Getting video id for HELIUM SIA from YouTube.
+2024-01-10 07:12:15,234 - root - INFO - Getting video id for COMIN OUT STRONG FUTURE FT WEEKND from YouTube.
+2024-01-10 07:12:15,746 - root - INFO - Getting video id for OOPS LITTLE MIX FT CHARLIE PUTH from YouTube.
+2024-01-10 07:12:16,260 - root - INFO - Getting video id for WEAK AJR from YouTube.
+2024-01-10 07:12:16,777 - root - INFO - Getting video id for SHINING DJ KHALED FT BEYONCE & JAY Z from YouTube.
+2024-01-10 07:12:17,490 - root - INFO - Getting video id for SPOTLIGHT JENNIFER HUDSON from YouTube.
+2024-01-10 07:12:18,000 - root - INFO - Getting video id for SHOW YOU LOVE KATO/SIGALA/HAILEE STEINFELD from YouTube.
+2024-01-10 07:12:18,499 - root - INFO - Getting video id for COLD WATER MAJOR LAZER/JUSTIN BIEBER/MO from YouTube.
+2024-01-10 07:12:19,126 - root - INFO - Getting video id for SELFISH FUTURE FT RIHANNA from YouTube.
+2024-01-10 07:12:19,636 - root - INFO - Getting video id for LOVE ME NOW JOHN LEGEND from YouTube.
+2024-01-10 07:12:20,253 - root - INFO - Getting video id for MY WAY CALVIN HARRIS from YouTube.
+2024-01-10 07:12:20,857 - root - INFO - Getting video id for MERCY SHAWN MENDES from YouTube.
+2024-01-10 07:12:21,481 - root - INFO - Getting video id for CRAZY TITCH STORMZY from YouTube.
+2024-01-10 07:12:21,994 - root - INFO - Getting video id for RICH BOY GALANTIS from YouTube.
+2024-01-10 07:12:22,504 - root - INFO - Getting video id for LOVE ON ME GALANTIS & HOOK N SLING from YouTube.
+2024-01-10 07:12:23,016 - root - INFO - Getting video id for AFTER THE AFTERPARTY CHARLI XCX FT LIL YACHTY from YouTube.
+2024-01-10 07:12:23,532 - root - INFO - Getting video id for NOT IN LOVE M O & KENT JONES from YouTube.
+2024-01-10 07:12:24,143 - root - INFO - Getting video id for BLACK BEATLES RAE SREMMURD FT GUCCI MANE from YouTube.
+2024-01-10 07:12:24,702 - root - INFO - Getting video id for SO GOOD ZARA LARSSON FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:12:25,269 - root - INFO - Getting video id for CONTROLLA DRAKE from YouTube.
+2024-01-10 07:12:25,781 - root - INFO - Getting video id for SHOULD'VE BEEN ME NAUGHTY BOY/KYLA/POPCAAN from YouTube.
+2024-01-10 07:12:26,246 - root - INFO - Getting video id for THIS IS WHAT YOU CAME FOR CALVIN HARRIS FT RIHANNA from YouTube.
+2024-01-10 07:12:26,805 - root - INFO - Getting video id for TREAT YOU BETTER SHAWN MENDES from YouTube.
+2024-01-10 07:12:27,421 - root - INFO - Getting video id for HEATHENS TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:12:27,932 - root - INFO - Getting video id for DIRTY LAUNDRY ALL TIME LOW from YouTube.
+2024-01-10 07:12:28,446 - root - INFO - Getting video id for BOUNCE BACK BIG SEAN from YouTube.
+2024-01-10 07:12:28,883 - root - INFO - Getting video id for LOVE MY LIFE ROBBIE WILLIAMS from YouTube.
+2024-01-10 07:12:29,467 - root - INFO - Getting video id for TOO GOOD DRAKE FT RIHANNA from YouTube.
+2024-01-10 07:12:29,982 - root - INFO - Getting video id for STRESSED OUT TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:12:30,492 - root - INFO - Getting video id for SORRY JUSTIN BIEBER from YouTube.
+2024-01-10 07:12:31,005 - root - INFO - Getting video id for IN THE NAME OF LOVE MARTIN GARRIX & BEBE REXHA from YouTube.
+2024-01-10 07:12:31,619 - root - INFO - Getting video id for 7 YEARS LUKAS GRAHAM from YouTube.
+2024-01-10 07:12:32,133 - root - INFO - Getting video id for HYMN FOR THE WEEKEND COLDPLAY from YouTube.
+2024-01-10 07:12:32,642 - root - INFO - Getting video id for HELLO ADELE from YouTube.
+2024-01-10 07:12:33,141 - root - INFO - Getting video id for I LOVE YOU AXWELL & INGROSSO FT KID INK from YouTube.
+2024-01-10 07:12:33,666 - root - INFO - Getting video id for LOVESICK MURA MASA FT ASAP ROCKY from YouTube.
+2024-01-10 07:12:34,179 - root - INFO - Getting video id for ONLY ONE SIGALA & DIGITAL FARM ANIMALS from YouTube.
+2024-01-10 07:12:34,690 - root - INFO - Getting video id for SO GOOD LOUISA JOHNSON from YouTube.
+2024-01-10 07:12:35,203 - root - INFO - Getting video id for THE SCIENTIST CORINNE BAILEY RAE from YouTube.
+2024-01-10 07:12:35,715 - root - INFO - Getting video id for BOM BIDI BOM NICK JONAS FT NICKI MINAJ from YouTube.
+2024-01-10 07:12:36,160 - root - INFO - Getting video id for IGNITION REMIX R KELLY from YouTube.
+2024-01-10 07:12:36,634 - root - INFO - Getting video id for PERFECT STRANGERS JONAS BLUE FT JP COOPER from YouTube.
+2024-01-10 07:12:37,159 - root - INFO - Getting video id for STITCHES SHAWN MENDES from YouTube.
+2024-01-10 07:12:37,659 - root - INFO - Getting video id for SHUT UP & DANCE WALK THE MOON from YouTube.
+2024-01-10 07:12:38,273 - root - INFO - Getting video id for MILLION REASONS LADY GAGA from YouTube.
+2024-01-10 07:12:38,786 - root - INFO - Getting video id for I GOT YOU BEBE REXHA from YouTube.
+2024-01-10 07:12:39,002 - root - INFO - Quota exceeded for API key AIzaSyC2Tj7VZ0l2U23scqTB9TGEpW0QFz7PsqM. Switching to API key AIzaSyCY1ryZVFL4odjX8KernjJ4AJfo8UmUrlw.
+2024-01-10 07:12:39,011 - root - INFO - Getting video id for CHANDELIER SIA from YouTube.
+2024-01-10 07:12:39,606 - root - INFO - Getting video id for NO FAVORS BIG SEAN FT EMINEM from YouTube.
+2024-01-10 07:12:40,102 - root - INFO - Getting video id for FALLING ALESSO from YouTube.
+2024-01-10 07:12:40,629 - root - INFO - Getting video id for BIG PICTURE LONDON GRAMMAR from YouTube.
+2024-01-10 07:12:41,142 - root - INFO - Getting video id for TALKING TO YOU IZZY BIZU from YouTube.
+2024-01-10 07:12:41,630 - root - INFO - Getting video id for FIND ME SIGMA FT BIRDY from YouTube.
+2024-01-10 07:12:42,099 - root - INFO - Getting video id for CITY OF STARS RYAN GOSLING & EMMA STONE from YouTube.
+2024-01-10 07:12:42,677 - root - INFO - Getting video id for MAGNIFICENT (SHE SAYS) ELBOW from YouTube.
+2024-01-10 07:12:43,424 - root - INFO - Getting video id for LET IT GO JAMES BAY from YouTube.
+2024-01-10 07:12:44,011 - root - INFO - Getting video id for SCARS TO YOUR BEAUTIFUL ALESSIA CARA from YouTube.
+2024-01-10 07:12:44,622 - root - INFO - Getting video id for TILTED CHRISTINE & THE QUEENS from YouTube.
+2024-01-10 07:12:45,135 - root - INFO - Getting video id for ON HOLD XX from YouTube.
+2024-01-10 07:12:45,647 - root - INFO - Getting video id for T-SHIRT MIGOS from YouTube.
+2024-01-10 07:12:46,159 - root - INFO - Getting video id for ALL WE KNOW CHAINSMOKERS FT PHOEBE RYAN from YouTube.
+2024-01-10 07:12:46,672 - root - INFO - Getting video id for ANOTHER DAY OF SUN LA LA LAND CAST from YouTube.
+2024-01-10 07:12:47,286 - root - INFO - Getting video id for LOVE ME BETTER JAMES BLUNT from YouTube.
+2024-01-10 07:12:47,899 - root - INFO - Getting video id for PARTY CHRIS BROWN/GUCCI MANE/USHER from YouTube.
+2024-01-10 07:12:48,513 - root - INFO - Getting video id for LOCK DOH GIGGS FT DONAEO from YouTube.
+2024-01-10 07:12:49,027 - root - INFO - Getting video id for EVERGLOW COLDPLAY from YouTube.
+2024-01-10 07:12:49,536 - root - INFO - Getting video id for THERE'S ONLY ONE OF YOU NATHAN SYKES from YouTube.
+2024-01-10 07:12:50,152 - root - INFO - Getting video id for OH LORD MIC LOWRY from YouTube.
+2024-01-10 07:12:50,665 - root - INFO - Getting video id for PARTY MONSTER WEEKND from YouTube.
+2024-01-10 07:12:51,176 - root - INFO - Getting video id for AIN'T MY FAULT ZARA LARSSON from YouTube.
+2024-01-10 07:12:51,789 - root - INFO - Getting video id for ALARM ANNE-MARIE from YouTube.
+2024-01-10 07:12:52,303 - root - INFO - Getting video id for DEJA VU J COLE from YouTube.
+2024-01-10 07:12:52,918 - root - INFO - Getting video id for I TOOK A PILL IN IBIZA MIKE POSNER from YouTube.
+2024-01-10 07:12:53,534 - root - INFO - Getting video id for FADED ALAN WALKER from YouTube.
+2024-01-10 07:12:54,043 - root - INFO - Getting video id for THIS GIRL KUNGS VS COOKIN' ON 3 BURNERS from YouTube.
+2024-01-10 07:12:54,558 - root - INFO - Getting video id for MAKE ME (CRY) NOAH CYRUS FT LABRINTH from YouTube.
+2024-01-10 07:12:55,046 - root - INFO - Getting video id for SAY SOMETHING LOVING XX from YouTube.
+2024-01-10 07:12:55,581 - root - INFO - Getting video id for DANGEROUS XX from YouTube.
+2024-01-10 07:12:56,092 - root - INFO - Getting video id for STILL FALLING FOR YOU ELLIE GOULDING from YouTube.
+2024-01-10 07:12:56,607 - root - INFO - Getting video id for LIPS XX from YouTube.
+2024-01-10 07:12:57,117 - root - INFO - Getting video id for A VIOLENT NOISE XX from YouTube.
+2024-01-10 07:12:57,619 - root - INFO - Getting video id for ROOTING FOR YOU LONDON GRAMMAR from YouTube.
+2024-01-10 07:12:58,140 - root - INFO - Getting video id for LUV TORY LANEZ from YouTube.
+2024-01-10 07:12:58,608 - root - INFO - Getting video id for SUCKER FOR PAIN LIL WAYNE/WIZ KHALIFA/IMAGINE from YouTube.
+2024-01-10 07:12:59,162 - root - INFO - Getting video id for I DARE YOU XX from YouTube.
+2024-01-10 07:12:59,778 - root - INFO - Getting video id for DON'T ED SHEERAN from YouTube.
+2024-01-10 07:13:00,391 - root - INFO - Getting video id for YEARS & YEARS OLLY MURS from YouTube.
+2024-01-10 07:13:00,900 - root - INFO - Getting video id for I SEE FIRE ED SHEERAN from YouTube.
+2024-01-10 07:13:01,414 - root - INFO - Getting video id for THAT'S MY GIRL FIFTH HARMONY from YouTube.
+2024-01-10 07:13:01,929 - root - INFO - Getting video id for CAKE BY THE OCEAN DNCE from YouTube.
+2024-01-10 07:13:02,440 - root - INFO - Getting video id for GIVE ME LOVE ED SHEERAN from YouTube.
+2024-01-10 07:13:03,056 - root - INFO - Getting video id for WE DON'T TALK ANYMORE CHARLIE PUTH FT SELENA GOMEZ from YouTube.
+2024-01-10 07:13:03,567 - root - INFO - Getting video id for CARELESS WHISPER GEORGE MICHAEL from YouTube.
+2024-01-10 07:13:04,180 - root - INFO - Getting video id for FAITH GEORGE MICHAEL from YouTube.
+2024-01-10 07:13:04,900 - root - INFO - Getting video id for WORK FROM HOME FIFTH HARMONY FT TY DOLLA SIGN from YouTube.
+2024-01-10 07:13:05,413 - root - INFO - Getting video id for SEND MY LOVE (TO YOUR NEW LOVER) ADELE from YouTube.
+2024-01-10 07:13:06,025 - root - INFO - Getting video id for WORK RIHANNA FT DRAKE from YouTube.
+2024-01-10 07:13:06,538 - root - INFO - Getting video id for TEARS CLEAN BANDIT FT LOUISA JOHNSON from YouTube.
+2024-01-10 07:13:07,049 - root - INFO - Getting video id for YOU DON'T KNOW LOVE OLLY MURS from YouTube.
+2024-01-10 07:13:07,561 - root - INFO - Getting video id for CRANK IT (WOAH) KIDEKO/GEORGE KWALI/ROSE/IRIE from YouTube.
+2024-01-10 07:13:08,072 - root - INFO - Getting video id for FAST CAR JONAS BLUE & DAKOTA from YouTube.
+2024-01-10 07:13:08,587 - root - INFO - Getting video id for JUJU ON THAT BEAT (TZ ANTHEM) ZAY HILFIGER & ZAYION MCCALL from YouTube.
+2024-01-10 07:13:09,097 - root - INFO - Getting video id for DON'T LET THE SUN GO DOWN ON ME GEORGE MICHAEL FT ELTON JOHN from YouTube.
+2024-01-10 07:13:09,712 - root - INFO - Getting video id for GLAD ALL OVER DAVE CLARK FIVE from YouTube.
+2024-01-10 07:13:10,222 - root - INFO - Getting video id for SATURN 5 INSPIRAL CARPETS from YouTube.
+2024-01-10 07:13:10,697 - root - INFO - Getting video id for THE LIVING YEARS LONDON HOSPICES CHOIR/CARRACK from YouTube.
+2024-01-10 07:13:11,150 - root - INFO - Getting video id for IMMORTAL J COLE from YouTube.
+2024-01-10 07:13:11,659 - root - INFO - Getting video id for NEIGHBORS J COLE from YouTube.
+2024-01-10 07:13:12,169 - root - INFO - Getting video id for CHANGE J COLE from YouTube.
+2024-01-10 07:13:12,599 - root - INFO - Getting video id for ROCKIN' WEEKND from YouTube.
+2024-01-10 07:13:13,090 - root - INFO - Getting video id for VILLE MENTALITY J COLE from YouTube.
+2024-01-10 07:13:13,603 - root - INFO - Getting video id for SHE'S MINE - PT 1 J COLE from YouTube.
+2024-01-10 07:13:14,113 - root - INFO - Getting video id for FROM WHOM THE BELL TOLLS J COLE from YouTube.
+2024-01-10 07:13:14,831 - root - INFO - Getting video id for FOLDIN CLOTHES J COLE from YouTube.
+2024-01-10 07:13:15,345 - root - INFO - Getting video id for 4 YOUR EYEZ ONLY J COLE from YouTube.
+2024-01-10 07:13:15,965 - root - INFO - Getting video id for SIDEWALKS WEEKND FT KENDRICK LAMAR from YouTube.
+2024-01-10 07:13:16,365 - root - INFO - Getting video id for GROW UP OLLY MURS from YouTube.
+2024-01-10 07:13:16,881 - root - INFO - Getting video id for SIX FEET UNDER WEEKND from YouTube.
+2024-01-10 07:13:17,494 - root - INFO - Getting video id for BLOW YOUR MIND (MWAH) DUA LIPA from YouTube.
+2024-01-10 07:13:18,005 - root - INFO - Getting video id for FRESH EYES ANDY GRAMMER from YouTube.
+2024-01-10 07:13:18,489 - root - INFO - Getting video id for WANNA KNOW DAVE FT DRAKE from YouTube.
+2024-01-10 07:13:19,030 - root - INFO - Getting video id for SECRETS WEEKND from YouTube.
+2024-01-10 07:13:19,544 - root - INFO - Getting video id for FALSE ALARM MATOMA & BECKY HILL from YouTube.
+2024-01-10 07:13:20,160 - root - INFO - Getting video id for WOULD I LIE TO YOU JOHN GIBBONS from YouTube.
+2024-01-10 07:13:20,670 - root - INFO - Getting video id for BREATHING UNDERWATER EMELI SANDE from YouTube.
+2024-01-10 07:13:21,117 - root - INFO - Getting video id for FALSE ALARM WEEKND from YouTube.
+2024-01-10 07:13:21,591 - root - INFO - Getting video id for A LONELY NIGHT WEEKND from YouTube.
+2024-01-10 07:13:22,101 - root - INFO - Getting video id for TRUE COLORS WEEKND from YouTube.
+2024-01-10 07:13:22,614 - root - INFO - Getting video id for LOVE TO LAY WEEKND from YouTube.
+2024-01-10 07:13:23,229 - root - INFO - Getting video id for STARGIRL INTERLUDE WEEKND FT LANA DEL REY from YouTube.
+2024-01-10 07:13:23,947 - root - INFO - Getting video id for ALL I KNOW WEEKND FT FUTURE from YouTube.
+2024-01-10 07:13:24,559 - root - INFO - Getting video id for ATTENTION WEEKND from YouTube.
+2024-01-10 07:13:25,073 - root - INFO - Getting video id for ORDINARY LIFE WEEKND from YouTube.
+2024-01-10 07:13:25,585 - root - INFO - Getting video id for FAMOUS NATHAN SYKES from YouTube.
+2024-01-10 07:13:26,099 - root - INFO - Getting video id for NOTHING WITHOUT YOU WEEKND from YouTube.
+2024-01-10 07:13:26,536 - root - INFO - Getting video id for HURTS EMELI SANDE from YouTube.
+2024-01-10 07:13:27,120 - root - INFO - Getting video id for WHEN YOU LOVE SOMEONE JAMES TW from YouTube.
+2024-01-10 07:13:27,735 - root - INFO - Getting video id for RHYTHM INSIDE CALUM SCOTT from YouTube.
+2024-01-10 07:13:28,248 - root - INFO - Getting video id for ALIVE SIA from YouTube.
+2024-01-10 07:13:28,659 - root - INFO - Getting video id for MILLIONAIRE DIGITAL FARM ANIMALS/CASH CASH from YouTube.
+2024-01-10 07:13:29,167 - root - INFO - Getting video id for ALL WE NEEDED CRAIG DAVID from YouTube.
+2024-01-10 07:13:29,784 - root - INFO - Getting video id for LET ME HOLD YOU (TURN ME ON) CHEAT CODES & DANTE KLEIN from YouTube.
+2024-01-10 07:13:30,293 - root - INFO - Getting video id for CHUNKY BRUNO MARS from YouTube.
+2024-01-10 07:13:30,807 - root - INFO - Getting video id for AIN'T GIVING UP CRAIG DAVID & SIGALA from YouTube.
+2024-01-10 07:13:31,273 - root - INFO - Getting video id for I HATE U I LOVE U GNASH FT OLIVIA O'BRIEN from YouTube.
+2024-01-10 07:13:31,795 - root - INFO - Getting video id for CAPSIZE FRENSHIP FT EMILY WARREN from YouTube.
+2024-01-10 07:13:32,222 - root - INFO - Getting video id for JUST SAY KDA FT TINASHE from YouTube.
+2024-01-10 07:13:32,643 - root - INFO - Getting video id for TRUST NOBODY CASHMERE CAT/SELENA GOMEZ/TORY from YouTube.
+2024-01-10 07:13:33,471 - root - INFO - Getting video id for GOOD GRIEF BASTILLE from YouTube.
+2024-01-10 07:13:33,660 - root - INFO - Quota exceeded for API key AIzaSyCY1ryZVFL4odjX8KernjJ4AJfo8UmUrlw. Switching to API key AIzaSyCcfJdAtvYnvNdJ7y9qHK5cBHm6p5U-HNA.
+2024-01-10 07:13:33,670 - root - INFO - Getting video id for ONE DAY I'LL FLY AWAY VAULTS from YouTube.
+2024-01-10 07:13:34,231 - root - INFO - Getting video id for TROUBLE OFFAIAH from YouTube.
+2024-01-10 07:13:34,698 - root - INFO - Getting video id for HALLELUJAH LEONARD COHEN from YouTube.
+2024-01-10 07:13:35,176 - root - INFO - Getting video id for WASTE A MOMENT KINGS OF LEON from YouTube.
+2024-01-10 07:13:35,722 - root - INFO - Getting video id for SETTING FIRES CHAINSMOKERS FT XYLO from YouTube.
+2024-01-10 07:13:36,209 - root - INFO - Getting video id for SNEAKIN' DRAKE FT 21 SAVAGE from YouTube.
+2024-01-10 07:13:36,744 - root - INFO - Getting video id for EASY STREET COLLAPSABLE HEARTS CLUB/BIANCO from YouTube.
+2024-01-10 07:13:37,254 - root - INFO - Getting video id for RIDE TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:13:37,770 - root - INFO - Getting video id for BROCCOLI DRAM FT LIL YACHTY from YouTube.
+2024-01-10 07:13:38,279 - root - INFO - Getting video id for USED TO THIS FUTURE FT DRAKE from YouTube.
+2024-01-10 07:13:38,716 - root - INFO - Getting video id for PANDA DESIIGNER from YouTube.
+2024-01-10 07:13:39,306 - root - INFO - Getting video id for COOL GIRL TOVE LO from YouTube.
+2024-01-10 07:13:39,818 - root - INFO - Getting video id for PLEASE DON'T GO JOEL ADAMS from YouTube.
+2024-01-10 07:13:40,331 - root - INFO - Getting video id for F.U. LITTLE MIX from YouTube.
+2024-01-10 07:13:40,792 - root - INFO - Getting video id for ALL GOES WRONG CHASE & STATUS FT TOM GRENNAN from YouTube.
+2024-01-10 07:13:41,272 - root - INFO - Getting video id for FINAL SONG MO from YouTube.
+2024-01-10 07:13:41,762 - root - INFO - Getting video id for KIDS ONEREPUBLIC from YouTube.
+2024-01-10 07:13:42,378 - root - INFO - Getting video id for SUNSHINE TIEKS FT DAN HARKNA from YouTube.
+2024-01-10 07:13:42,890 - root - INFO - Getting video id for NEEDED ME RIHANNA from YouTube.
+2024-01-10 07:13:43,401 - root - INFO - Getting video id for 16 CRAIG DAVID from YouTube.
+2024-01-10 07:13:44,022 - root - INFO - Getting video id for IS THIS LOVE (REMIX) BOB MARLEY FT LVNDSCAPE/BOLIER from YouTube.
+2024-01-10 07:13:44,733 - root - INFO - Getting video id for YOU GOTTA NOT LITTLE MIX from YouTube.
+2024-01-10 07:13:45,245 - root - INFO - Getting video id for WHAT DO YOU MEAN JUSTIN BIEBER from YouTube.
+2024-01-10 07:13:45,860 - root - INFO - Getting video id for FADE KANYE WEST/POST MALONE/TY from YouTube.
+2024-01-10 07:13:46,370 - root - INFO - Getting video id for A-YO LADY GAGA from YouTube.
+2024-01-10 07:13:46,987 - root - INFO - Getting video id for SAY IT FLUME FT TOVE LO from YouTube.
+2024-01-10 07:13:47,601 - root - INFO - Getting video id for DON'T MIND KENT JONES from YouTube.
+2024-01-10 07:13:48,111 - root - INFO - Getting video id for ALL IN MY HEAD (FLEX) FIFTH HARMONY FT FETTY WAP from YouTube.
+2024-01-10 07:13:48,623 - root - INFO - Getting video id for THE OCEAN MIKE PERRY FT SHY MARTIN from YouTube.
+2024-01-10 07:13:49,238 - root - INFO - Getting video id for PERFECT ILLUSION LADY GAGA from YouTube.
+2024-01-10 07:13:49,751 - root - INFO - Getting video id for WHO DO YOU THINK OF M O from YouTube.
+2024-01-10 07:13:50,366 - root - INFO - Getting video id for REVEREND KINGS OF LEON from YouTube.
+2024-01-10 07:13:50,980 - root - INFO - Getting video id for TOOTHBRUSH DNCE from YouTube.
+2024-01-10 07:13:51,490 - root - INFO - Getting video id for FIND ME KINGS OF LEON from YouTube.
+2024-01-10 07:13:52,106 - root - INFO - Getting video id for LIGHT IT UP MAJOR LAZER FT NYLA from YouTube.
+2024-01-10 07:13:52,618 - root - INFO - Getting video id for SEND THEM OFF BASTILLE from YouTube.
+2024-01-10 07:13:53,129 - root - INFO - Getting video id for NO MONEY GALANTIS from YouTube.
+2024-01-10 07:13:53,643 - root - INFO - Getting video id for IMPOSSIBLE JAMES ARTHUR from YouTube.
+2024-01-10 07:13:54,154 - root - INFO - Getting video id for ON WHAT YOU'RE ON BUSTED from YouTube.
+2024-01-10 07:13:54,665 - root - INFO - Getting video id for PARTY LIKE A RUSSIAN ROBBIE WILLIAMS from YouTube.
+2024-01-10 07:13:55,284 - root - INFO - Getting video id for HOUSE WORK JAX JONES FT MNEK & MIKE DUNN from YouTube.
+2024-01-10 07:13:55,896 - root - INFO - Getting video id for METEORITE YEARS & YEARS from YouTube.
+2024-01-10 07:13:56,407 - root - INFO - Getting video id for BODY MOVES DNCE from YouTube.
+2024-01-10 07:13:56,917 - root - INFO - Getting video id for YOU MAKE ME FEEL SO YOUNG TEDDY MAC THE SONGAMINUTE MAN from YouTube.
+2024-01-10 07:13:57,532 - root - INFO - Getting video id for SEX CHEAT CODES/KRIS KROSS from YouTube.
+2024-01-10 07:13:58,146 - root - INFO - Getting video id for SHE MOVES IN HER OWN WAY KOOKS from YouTube.
+2024-01-10 07:13:58,626 - root - INFO - Getting video id for GIRLS LIKE TINIE TEMPAH FT ZARA LARSSON from YouTube.
+2024-01-10 07:13:59,070 - root - INFO - Getting video id for A-LIST WSTRN from YouTube.
+2024-01-10 07:13:59,684 - root - INFO - Getting video id for HOTTER THAN HELL DUA LIPA from YouTube.
+2024-01-10 07:14:00,196 - root - INFO - Getting video id for MIDDLE DJ SNAKE FT BIPOLAR SUNSHINE from YouTube.
+2024-01-10 07:14:00,709 - root - INFO - Getting video id for WALLS KINGS OF LEON from YouTube.
+2024-01-10 07:14:01,323 - root - INFO - Getting video id for NERVOUS GAVIN JAMES from YouTube.
+2024-01-10 07:14:01,834 - root - INFO - Getting video id for KILL EM WITH KINDNESS SELENA GOMEZ from YouTube.
+2024-01-10 07:14:02,346 - root - INFO - Getting video id for CRUEL SNAKEHIPS FT ZAYN from YouTube.
+2024-01-10 07:14:02,857 - root - INFO - Getting video id for DON'T NEED NO MONEY IMANI WILLIAMS/SIGALA/BLONDE from YouTube.
+2024-01-10 07:14:03,363 - root - INFO - Getting video id for SOMEBODY ELSE 1975 from YouTube.
+2024-01-10 07:14:03,882 - root - INFO - Getting video id for CANCER TWENTY ONE PILOTS from YouTube.
+2024-01-10 07:14:04,393 - root - INFO - Getting video id for CRASH USHER from YouTube.
+2024-01-10 07:14:04,906 - root - INFO - Getting video id for HOLD BACK THE RIVER JAMES BAY from YouTube.
+2024-01-10 07:14:05,828 - root - INFO - Getting video id for GOLD KIIARA from YouTube.
+2024-01-10 07:14:06,337 - root - INFO - Getting video id for GIVE ME YOUR LOVE SIGALA FT NEWMAN/RODGERS from YouTube.
+2024-01-10 07:14:06,851 - root - INFO - Getting video id for DEJA VU POST MALONE FT JUSTIN BIEBER from YouTube.
+2024-01-10 07:14:07,368 - root - INFO - Getting video id for PIECE OF ME MK & BECKY HILL from YouTube.
+2024-01-10 07:14:07,875 - root - INFO - Getting video id for FAMOUS KANYE WEST from YouTube.
+2024-01-10 07:14:08,493 - root - INFO - Getting video id for HAIR LITTLE MIX from YouTube.
+2024-01-10 07:14:08,999 - root - INFO - Getting video id for THIS ONE'S FOR YOU DAVID GUETTA FT ZARA LARSSON from YouTube.
+2024-01-10 07:14:09,615 - root - INFO - Getting video id for ADVENTURE OF A LIFETIME COLDPLAY from YouTube.
+2024-01-10 07:14:10,127 - root - INFO - Getting video id for WHERESTHELOVE BLACK EYED PEAS FT WORLD from YouTube.
+2024-01-10 07:14:10,637 - root - INFO - Getting video id for WITH YOU ORIGINAL CAST RECORDING from YouTube.
+2024-01-10 07:14:11,155 - root - INFO - Getting video id for WHITE TIGER IZZY BIZU from YouTube.
+2024-01-10 07:14:12,156 - root - INFO - Getting video id for PURPLE LAMBORGHINI SKRILLEX & RICK ROSS from YouTube.
+2024-01-10 07:14:12,688 - root - INFO - Getting video id for GANGSTA KEHLANI from YouTube.
+2024-01-10 07:14:13,310 - root - INFO - Getting video id for PILLOWTALK ZAYN from YouTube.
+2024-01-10 07:14:13,813 - root - INFO - Getting video id for JUST LIKE FIRE PINK from YouTube.
+2024-01-10 07:14:14,328 - root - INFO - Getting video id for MAKE ME BRITNEY SPEARS FT G-EAZY from YouTube.
+2024-01-10 07:14:14,840 - root - INFO - Getting video id for WHEREVER I GO ONEREPUBLIC from YouTube.
+2024-01-10 07:14:15,351 - root - INFO - Getting video id for FREAK LIKE ME LEE WALKER/DJDEEON/KATY B/MNEK from YouTube.
+2024-01-10 07:14:15,966 - root - INFO - Getting video id for WINGS BIRDY from YouTube.
+2024-01-10 07:14:16,480 - root - INFO - Getting video id for LEAN ON MAJOR LAZER FT MO & DJ SNAKE from YouTube.
+2024-01-10 07:14:17,092 - root - INFO - Getting video id for LOST BOY RUTH B from YouTube.
+2024-01-10 07:14:17,602 - root - INFO - Getting video id for FOR FREE DJ KHALED FT DRAKE from YouTube.
+2024-01-10 07:14:18,116 - root - INFO - Getting video id for NOBODY BUT ME MICHAEL BUBLE from YouTube.
+2024-01-10 07:14:18,629 - root - INFO - Getting video id for BACK TO YOU MOLLIE KING from YouTube.
+2024-01-10 07:14:19,141 - root - INFO - Getting video id for NIKES FRANK OCEAN from YouTube.
+2024-01-10 07:14:19,649 - root - INFO - Getting video id for RISE KATY PERRY from YouTube.
+2024-01-10 07:14:20,163 - root - INFO - Getting video id for MAMA SAID LUKAS GRAHAM from YouTube.
+2024-01-10 07:14:20,675 - root - INFO - Getting video id for BANG BANG GREEN DAY from YouTube.
+2024-01-10 07:14:21,292 - root - INFO - Getting video id for MAMACITA TINIE TEMPAH FT WIZKID from YouTube.
+2024-01-10 07:14:21,699 - root - INFO - Getting video id for YOU DON'T OWN ME GRACE FT G-EAZY from YouTube.
+2024-01-10 07:14:22,199 - root - INFO - Getting video id for GIRLS TALK BOYS 5 SECONDS OF SUMMER from YouTube.
+2024-01-10 07:14:22,928 - root - INFO - Getting video id for DANGEROUS WOMAN ARIANA GRANDE from YouTube.
+2024-01-10 07:14:23,392 - root - INFO - Getting video id for NOT NICE PARTYNEXTDOOR from YouTube.
+2024-01-10 07:14:23,827 - root - INFO - Getting video id for HOTLINE BLING DRAKE from YouTube.
+2024-01-10 07:14:24,363 - root - INFO - Getting video id for ROSES CHAINSMOKERS FT ROZES from YouTube.
+2024-01-10 07:14:24,875 - root - INFO - Getting video id for FRIENDS WITH BENEFITS KSI VS MNDM from YouTube.
+2024-01-10 07:14:25,386 - root - INFO - Getting video id for BOHEMIAN RHAPSODY PANIC AT THE DISCO from YouTube.
+2024-01-10 07:14:25,900 - root - INFO - Getting video id for CHARLEMAGNE BLOSSOMS from YouTube.
+2024-01-10 07:14:26,343 - root - INFO - Getting video id for HYPE DIZZEE RASCAL FT CALVIN HARRIS from YouTube.
+2024-01-10 07:14:26,822 - root - INFO - Getting video id for DESIRE YEARS & YEARS from YouTube.
+2024-01-10 07:14:27,332 - root - INFO - Getting video id for BOYS THAT SING VIOLA BEACH from YouTube.
+2024-01-10 07:14:27,843 - root - INFO - Getting video id for FAKE IT BASTILLE from YouTube.
+2024-01-10 07:14:28,357 - root - INFO - Getting video id for ME MYSELF & I G-EAZY FT BEBE REXHA from YouTube.
+2024-01-10 07:14:28,971 - root - INFO - Getting video id for KISS THE SKY JASON DERULO from YouTube.
+2024-01-10 07:14:29,184 - root - INFO - Quota exceeded for API key AIzaSyCcfJdAtvYnvNdJ7y9qHK5cBHm6p5U-HNA. Switching to API key AIzaSyDefgK1XUkMMQh5hqAicPt21V-3YL21HDc.
+2024-01-10 07:14:29,190 - root - INFO - Getting video id for COMPANY JUSTIN BIEBER from YouTube.
+2024-01-10 07:14:29,792 - root - INFO - Getting video id for CLOSE NICK JONAS FT TOVE LO from YouTube.
+2024-01-10 07:14:30,405 - root - INFO - Getting video id for NEVER FORGET YOU MNEK & ZARA LARSSON from YouTube.
+2024-01-10 07:14:31,122 - root - INFO - Getting video id for ONE MORE TIME CRAIG DAVID from YouTube.
+2024-01-10 07:14:31,698 - root - INFO - Getting video id for UPTOWN FUNK MARK RONSON FT BRUNO MARS from YouTube.
+2024-01-10 07:14:32,249 - root - INFO - Getting video id for NOTHING LIKE THIS BLONDE & CRAIG DAVID from YouTube.
+2024-01-10 07:14:32,864 - root - INFO - Getting video id for SAY YOU DO SIGALA FT IMANI & DJ FRESH from YouTube.
+2024-01-10 07:14:33,577 - root - INFO - Getting video id for CAN'T FEEL MY FACE WEEKND from YouTube.
+2024-01-10 07:14:34,190 - root - INFO - Getting video id for DO IT RIGHT MARTIN SOLVEIG FT TKAY MAIDZA from YouTube.
+2024-01-10 07:14:34,705 - root - INFO - Getting video id for JUMPMAN DRAKE & FUTURE from YouTube.
+2024-01-10 07:14:35,320 - root - INFO - Getting video id for HISTORY ONE DIRECTION from YouTube.
+2024-01-10 07:14:35,936 - root - INFO - Getting video id for M.I.L.F. MONEY FERGIE from YouTube.
+2024-01-10 07:14:36,446 - root - INFO - Getting video id for HANDS TO MYSELF SELENA GOMEZ from YouTube.
+2024-01-10 07:14:37,057 - root - INFO - Getting video id for ALL MY FRIENDS SNAKEHIPS FT TINASHE & CHANCE from YouTube.
+2024-01-10 07:14:37,589 - root - INFO - Getting video id for HOW DEEP IS YOUR LOVE CALVIN HARRIS & DISCIPLES from YouTube.
+2024-01-10 07:14:38,186 - root - INFO - Getting video id for HOLD MY HAND JESS GLYNNE from YouTube.
+2024-01-10 07:14:38,715 - root - INFO - Getting video id for CRY SIGMA FT TAKE THAT from YouTube.
+2024-01-10 07:14:39,312 - root - INFO - Getting video id for HOLD UP BEYONCE from YouTube.
+2024-01-10 07:14:39,930 - root - INFO - Getting video id for AT NIGHT (I THINK ABOUT YOU) MNEK from YouTube.
+2024-01-10 07:14:40,541 - root - INFO - Getting video id for SLEDGEHAMMER RIHANNA from YouTube.
+2024-01-10 07:14:41,051 - root - INFO - Getting video id for ME TOO MEGHAN TRAINOR from YouTube.
+2024-01-10 07:14:41,672 - root - INFO - Getting video id for THE HILLS WEEKND from YouTube.
+2024-01-10 07:14:42,178 - root - INFO - Getting video id for THIS ONES FOR YOU DAVID GUETTA FT ZARA LARSSON from YouTube.
+2024-01-10 07:14:42,898 - root - INFO - Getting video id for ALL FOR ONE STONE ROSES from YouTube.
+2024-01-10 07:14:43,517 - root - INFO - Getting video id for PARADISE BENNY BENASSI & CHRIS BROWN from YouTube.
+2024-01-10 07:14:44,127 - root - INFO - Getting video id for UP&UP COLDPLAY from YouTube.
+2024-01-10 07:14:44,637 - root - INFO - Getting video id for STAY KYGO FT MATY NOYES from YouTube.
+2024-01-10 07:14:45,257 - root - INFO - Getting video id for RAGING KYGO FT KODALINE from YouTube.
+2024-01-10 07:14:45,765 - root - INFO - Getting video id for IF IT AIN'T LOVE JASON DERULO from YouTube.
+2024-01-10 07:14:46,380 - root - INFO - Getting video id for SUMMER NIGHTS TIESTO FT JOHN LEGEND from YouTube.
+2024-01-10 07:14:46,994 - root - INFO - Getting video id for BOYS & GIRLS WILL I AM FT PIA MIA from YouTube.
+2024-01-10 07:14:47,608 - root - INFO - Getting video id for THE SCIENTIST COLDPLAY from YouTube.
+2024-01-10 07:14:48,226 - root - INFO - Getting video id for MAKE MY LOVE GO JAY SEAN FT SEAN PAUL from YouTube.
+2024-01-10 07:14:48,939 - root - INFO - Getting video id for MAGNETISED TOM ODELL from YouTube.
+2024-01-10 07:14:49,450 - root - INFO - Getting video id for KISS IT BETTER RIHANNA from YouTube.
+2024-01-10 07:14:49,962 - root - INFO - Getting video id for POP STYLE DRAKE FT THE THRONE from YouTube.
+2024-01-10 07:14:50,474 - root - INFO - Getting video id for I'LL BE THERE NEALES from YouTube.
+2024-01-10 07:14:50,985 - root - INFO - Getting video id for DARK NECESSITIES RED HOT CHILI PEPPERS from YouTube.
+2024-01-10 07:14:51,498 - root - INFO - Getting video id for NEW GIRL REGGIE 'N' BOLLIE from YouTube.
+2024-01-10 07:14:52,014 - root - INFO - Getting video id for SPOKEN WORD CHASE & STATUS/GEORGE THE POET from YouTube.
+2024-01-10 07:14:52,625 - root - INFO - Getting video id for NO MEGHAN TRAINOR from YouTube.
+2024-01-10 07:14:53,138 - root - INFO - Getting video id for ONE CALL AWAY CHARLIE PUTH from YouTube.
+2024-01-10 07:14:53,649 - root - INFO - Getting video id for WILD THINGS ALESSIA CARA from YouTube.
+2024-01-10 07:14:54,264 - root - INFO - Getting video id for SECRET LOVE SONG LITTLE MIX FT JASON DERULO from YouTube.
+2024-01-10 07:14:54,879 - root - INFO - Getting video id for WITH YOU DRAKE FT PARTYNEXTDOOR from YouTube.
+2024-01-10 07:14:55,493 - root - INFO - Getting video id for THERE WILL BE TIME MUMFORD & SONS/BAABA MAAL from YouTube.
+2024-01-10 07:14:56,209 - root - INFO - Getting video id for BEAUTIFUL THING STONE ROSES from YouTube.
+2024-01-10 07:14:57,130 - root - INFO - Getting video id for I KNOW WHAT YOU DID LAST SUMMER SHAWN MENDES/CAMILA CABELLO from YouTube.
+2024-01-10 07:14:57,748 - root - INFO - Getting video id for THE SOUND OF SILENCE DISTURBED from YouTube.
+2024-01-10 07:14:58,360 - root - INFO - Getting video id for BANG MY HEAD DAVID GUETTA FT SIA from YouTube.
+2024-01-10 07:14:58,983 - root - INFO - Getting video id for ALL FOUR WALLS GORGON CITY FT VAULTS from YouTube.
+2024-01-10 07:14:59,485 - root - INFO - Getting video id for SUGAR ROBIN SCHULZ FT YATES from YouTube.
+2024-01-10 07:15:00,102 - root - INFO - Getting video id for SWEET LOVIN' SIGALA FT BRYN CHRISTOPHER from YouTube.
+2024-01-10 07:15:00,611 - root - INFO - Getting video id for NOTHING IS PROMISED MIKE WILL MADE-IT & RIHANNA from YouTube.
+2024-01-10 07:15:01,085 - root - INFO - Getting video id for WILL GRIGG'S ON FIRE DJ KENNO from YouTube.
+2024-01-10 07:15:01,639 - root - INFO - Getting video id for IN COMMON ALICIA KEYS from YouTube.
+2024-01-10 07:15:02,192 - root - INFO - Getting video id for MAN SKEPTA from YouTube.
+2024-01-10 07:15:02,664 - root - INFO - Getting video id for SING ME TO SLEEP ALAN WALKER from YouTube.
+2024-01-10 07:15:03,173 - root - INFO - Getting video id for TAKE ME HOME JESS GLYNNE from YouTube.
+2024-01-10 07:15:03,795 - root - INFO - Getting video id for GIRL IS MINE (DESTINY'S CHILD & BRANDY) 99 SOULS from YouTube.
+2024-01-10 07:15:04,512 - root - INFO - Getting video id for LIKE I WOULD ZAYN from YouTube.
+2024-01-10 07:15:05,121 - root - INFO - Getting video id for WHERE ARE U NOW SKRILLEX & DIPLO/JUSTIN BIEBER from YouTube.
+2024-01-10 07:15:05,733 - root - INFO - Getting video id for I'M IN CONTROL ALUNAGEORGE FT POPCAAN from YouTube.
+2024-01-10 07:15:06,242 - root - INFO - Getting video id for FEEL NO WAYS DRAKE from YouTube.
+2024-01-10 07:15:06,801 - root - INFO - Getting video id for KING YEARS & YEARS from YouTube.
+2024-01-10 07:15:07,373 - root - INFO - Getting video id for 7 CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:15:07,948 - root - INFO - Getting video id for GRAMMYS DRAKE FT FUTURE from YouTube.
+2024-01-10 07:15:08,497 - root - INFO - Getting video id for HYPE DRAKE from YouTube.
+2024-01-10 07:15:09,112 - root - INFO - Getting video id for CHILDS PLAY DRAKE from YouTube.
+2024-01-10 07:15:09,730 - root - INFO - Getting video id for TWICE CATFISH & THE BOTTLEMEN from YouTube.
+2024-01-10 07:15:10,241 - root - INFO - Getting video id for STILL HERE DRAKE from YouTube.
+2024-01-10 07:15:10,750 - root - INFO - Getting video id for U WITH ME DRAKE from YouTube.
+2024-01-10 07:15:11,268 - root - INFO - Getting video id for GIVE IT UP NATHAN SYKES FT G-EAZY from YouTube.
+2024-01-10 07:15:11,802 - root - INFO - Getting video id for WOBBLE LETHAL BIZZLE from YouTube.
+2024-01-10 07:15:12,389 - root - INFO - Getting video id for FLESH AND BLOOD INVICTUS GAMES CHR/MALONE from YouTube.
+2024-01-10 07:15:12,845 - root - INFO - Getting video id for IF I WERE SORRY FRANS from YouTube.
+2024-01-10 07:15:13,313 - root - INFO - Getting video id for YOU'RE NOT ALONE JOE & JAKE from YouTube.
+2024-01-10 07:15:13,924 - root - INFO - Getting video id for 9 DRAKE from YouTube.
+2024-01-10 07:15:14,399 - root - INFO - Getting video id for FIRE & DESIRE DRAKE from YouTube.
+2024-01-10 07:15:14,950 - root - INFO - Getting video id for KEEP THE FAMILY CLOSE DRAKE from YouTube.
+2024-01-10 07:15:15,461 - root - INFO - Getting video id for WESTON ROAD FLOWS DRAKE from YouTube.
+2024-01-10 07:15:16,076 - root - INFO - Getting video id for KONNICHIWA SKEPTA from YouTube.
+2024-01-10 07:15:16,586 - root - INFO - Getting video id for EX'S & OH'S ELLE KING from YouTube.
+2024-01-10 07:15:17,197 - root - INFO - Getting video id for REDEMPTION DRAKE from YouTube.
+2024-01-10 07:15:17,609 - root - INFO - Getting video id for LYRICS SKEPTA FT NOVELIST from YouTube.
+2024-01-10 07:15:18,124 - root - INFO - Getting video id for BURN THE WITCH RADIOHEAD from YouTube.
+2024-01-10 07:15:18,633 - root - INFO - Getting video id for NUMBERS SKEPTA FT PHARRELL WILLIAMS from YouTube.
+2024-01-10 07:15:19,148 - root - INFO - Getting video id for CORN ON THE CURB SKEPTA FT WILEY & CHIP from YouTube.
+2024-01-10 07:15:19,657 - root - INFO - Getting video id for DAYDREAMING RADIOHEAD from YouTube.
+2024-01-10 07:15:20,171 - root - INFO - Getting video id for THAT'S NOT ME SKEPTA FT JME from YouTube.
+2024-01-10 07:15:20,681 - root - INFO - Getting video id for SHUTDOWN SKEPTA from YouTube.
+2024-01-10 07:15:21,159 - root - INFO - Getting video id for CRIME RIDDIM SKEPTA from YouTube.
+2024-01-10 07:15:21,604 - root - INFO - Getting video id for LADIES HIT SQUAD SKEPTA/D DOUBLE E/ASAP NAST from YouTube.
+2024-01-10 07:15:22,219 - root - INFO - Getting video id for FORMATION BEYONCE from YouTube.
+2024-01-10 07:15:22,729 - root - INFO - Getting video id for WHEN THE BASSLINE DROPS CRAIG DAVID & BIG NARSTIE from YouTube.
+2024-01-10 07:15:23,344 - root - INFO - Getting video id for GRASS AIN'T GREENER CHRIS BROWN from YouTube.
+2024-01-10 07:15:23,961 - root - INFO - Getting video id for 6 INCH BEYONCE FT THE WEEKND from YouTube.
+2024-01-10 07:15:24,470 - root - INFO - Getting video id for DON'T HURT YOURSELF BEYONCE FT JACK WHITE from YouTube.
+2024-01-10 07:15:25,088 - root - INFO - Getting video id for DADDY LESSONS BEYONCE from YouTube.
+2024-01-10 07:15:25,597 - root - INFO - Getting video id for SANDCASTLES BEYONCE from YouTube.
+2024-01-10 07:15:26,131 - root - INFO - Getting video id for ALL NIGHT BEYONCE from YouTube.
+2024-01-10 07:15:26,725 - root - INFO - Getting video id for PRAY YOU CATCH ME BEYONCE from YouTube.
+2024-01-10 07:15:26,963 - root - INFO - All API keys have exceeded their quotas.
+2024-01-10 07:15:26,963 - root - INFO - 1717 Video IDs updated successfully.
+2024-01-10 07:15:26,966 - root - INFO - 13395 videos remaining.

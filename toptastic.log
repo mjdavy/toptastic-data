@@ -1,122 +1,54 @@
-2024-01-08 14:25:32,751 - root - INFO - Starting server...
-2024-01-08 14:25:32,751 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-01-08 14:25:32,753 - werkzeug - WARNING -  * Debugger is active!
-2024-01-08 14:25:32,760 - werkzeug - INFO -  * Debugger PIN: 515-065-226
-2024-01-08 14:25:46,653 - werkzeug - INFO - 127.0.0.1 - - [08/Jan/2024 14:25:46] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 14:25:55,771 - werkzeug - INFO - 192.168.1.28 - - [08/Jan/2024 14:25:55] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 14:26:38,673 - werkzeug - INFO - 192.168.1.28 - - [08/Jan/2024 14:26:38] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 14:27:26,274 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:26] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 14:27:40,145 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:40] code 400, message Bad request version ('\x96éö\x1aÇeÀE¢\x8b\x94³}\x93\x12»ÌR6')
-2024-01-08 14:27:40,145 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:40] code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00')
-2024-01-08 14:27:40,146 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:40] "[31m[1m\x16\x03\x01\x02\x0f\x01\x00\x02\x0b\x03\x03)\x02/ªò[X\x8b\\\x82\x97e\x08¹º\x0cÎ\x0f§6\x86xfä±v¼\x96¬¸Ò¸ \x9a\x18\x87\x87ôÛNi'Ý¼\x09\x85íÐ\x95\x92.\x01Æ\x19»æÄ y1I´P\x8aE\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01¢ªª\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1Di\x00\x05\x00\x03\x02h2þ\x0d\x00Ú\x00\x00\x01\x00\x01ç\x00 \x0fÕH;\x17\x8a^$-\x97Í\x7fKÖ(\x0b5\x9c\x93-\x9eòä®Á2¤{ÊiQR\x00°k<\x06¿öÁ\x0c\x843åW\x86«\x95\x14\x973o!d\x8f×Î\x14\x86ªb\x8a+Ã\\X\x95±o¥jn\x93»èé­l\x00äë%ûñ*¿Ë¯\x07|1 \x96éö\x1aÇeÀE¢\x8b\x94³}\x93\x12»ÌR6[0m" 400 -
-2024-01-08 14:27:40,146 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:40] "[31m[1m\x16\x03\x01\x02/\x01\x00\x02+\x03\x0394@\x937\x9cÊÈù2Æµ\x99£\x9e\x98Þ\x09¸Ýæßñí5ø\x1a\x08!\x87¹r ~\x9fig@Ï\x1b}e\x0c]ÆÉ\x93,ÄMÂ\x12GÛìï\x8fÈkþ¼\x18\x0bR.\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01ÂJJ\x00\x00\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00[0m" 400 -
-2024-01-08 14:27:40,159 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:40] code 400, message Bad request syntax ('\x16\x03\x01\x02/\x01\x00\x02+\x03\x03')
-2024-01-08 14:27:40,159 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:40] code 400, message Bad request version ('\x92wíb9@z«\x9e:\x91z|\x96¼É\x9d\x88\x91Í0"ôÄÝý4')
-2024-01-08 14:27:40,160 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:40] "[31m[1m\x16\x03\x01\x02/\x01\x00\x02+\x03\x03[0m" 400 -
-2024-01-08 14:27:40,160 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:40] "[31m[1m\x16\x03\x01\x02\x0f\x01\x00\x02\x0b\x03\x03\x1f\x92wíb9@z«\x9e:\x91z|\x96¼É\x9d\x88\x91Í0"ôÄÝý4[0m" 400 -
-2024-01-08 14:27:44,880 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:44] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
-2024-01-08 14:27:44,881 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:44] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
-2024-01-08 14:27:44,881 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:44] "[31m[1m\x16\x03\x01\x02/\x01\x00\x02+\x03\x03=xû\x0cºÇÑ¶êÝA%sX\x188¹:O\x0b\x99\x8d×R\x09\x12\x1a»ÈÂ:N \x9eîãaº\x14nÜî³\x11lÔ\x90Ì2D`S³qP"Rõ:&\x1d\x1d>Û\x12\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01ÂÊÊ\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00[0m" 400 -
-2024-01-08 14:27:44,881 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:44] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x1cpDÿÒÒ\x06ã~·i\x04¯õÿÿJg\x19\x14j\x8cG\x8a7Oo\x85\x0b\x9a¢\x81 ¿#ûyEÃTEgÕ\x8f\x88Á\x15ûØ\x1e©*#\x07\x83c¥ÞíÌK:äËå\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01B\x00 0A8}tb[\x06V\x10Ió-±É<0ý¦©\x9bW\x15%\x0c\x11\x8f\x9d\x1dM¬\x1c\x00\x90]qÈx\x82;~8IiÁöyã£Ï\x81b¤oÙ%?\x86\x07MÙ2QOÖÆ×°VËÇ\x87\x00^¨´~@\x07¢ú\x91\x9f\x94;ò]æB7µ\x81FÆs\x90*Ûª£$i\x13ü³Æë\x03öUzaÝìI²ÉOÁZþlÀùw"¿\x05°\x92\x10¢\x03\x97ÃoAàW\x95Ò\x92\x08Ðrº!\x7f\x1dLC¢\x91\x03WOâ_~\x86>\x94B$`ÄÁ\x92êC\x85aã\x95-îq>\x00\x00\x00\x11\x00\x0f\x00\x00\x0cronald.local\x00\x1b\x00\x03\x02\x00\x02\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00[0m" 400 -
-2024-01-08 14:27:44,898 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:44] code 400, message Bad request version ('\x06Ð')
-2024-01-08 14:27:44,898 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:44] code 400, message Bad request version ('É\x11\x82¶48\x8fF\x19\x12<=÷\xad\x00-\x00\x02\x01\x01\x00')
-2024-01-08 14:27:44,898 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:44] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x83¿\x18×\x9f\x8cZ½\x81\x13Bi¾MiÉ\x1eq\x83¸þæJ+JÂ=Ô\x1b]y\x03 WÛâ6ÿÎ(=Òÿ\x96\x1eîò©©¤È\x9dF\x02A¤$ÙÉ`à;ÿåJ\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93::\x00\x00\x00-\x00\x02\x01\x01\x003\x00+\x00)ºº\x00\x01\x00\x00\x1d\x00 ÷«¢ýDìh\x8añR\x1ez\x01ö\x08d\x1c\x06Ð[0m" 400 -
-2024-01-08 14:27:44,899 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:44] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03øhwî¬ÃëýX©%UÝ\x19\x91íYe\x9f!oéÞ\x82k~\x87#+ÿi÷ ö`5Ä¿\x7f\x02ÐJáÏ® «\x93tM\x0e¡|[\x8c{Ä\x1feÇ\x1bú&co\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x00\x00\x11\x00\x0f\x00\x00\x0cronald.local\x00+\x00\x07\x06jj\x03\x04\x03\x03\x00\x0b\x00\x02\x01\x00\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00#\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x003\x00+\x00)êê\x00\x01\x00\x00\x1d\x00 \x0bò&)µ]û¥ðv¶Æ\x1b\x10dµ+?,-\x85;\x82U³\x9d\x1f!3Îêpþ\x0d\x00º\x00\x00\x01\x00\x01p\x00 \x16\x82\x82ZÜ\x94³ßs\x06VÝ\x18-³·>\x022\x19?!ëób7Ô6\x82¼\x0cv\x00\x90\x1a¿0\x88\x9b\x84£õ,ù¨jZÈ²\x19Kü\x97Åü^\x7fae\x0f\x004\x91A\x01±¾\x91_ÛdÎ\x1bFVná\x05\x95toZïbpöMó½\x98\x9fzþw\x17ûé\x93¯ã)­\x8f±»\x0f8Ôê¢×º\x9a`\x0b\x14\x8f@õ(\x15¯düÖ-»¤yñôÞvhÖO³4)O\x05\x1cp4ðríg¼\x9bë\x9e`C\x85Á \x81ñ¤\x83ä'\x1eÉ\x11\x82¶48\x8fF\x19\x12<=÷­\x00-\x00\x02\x01\x01\x00[0m" 400 -
-2024-01-08 14:27:46,895 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:46] code 400, message Bad request version ('@ß\x02p}ë\x0fv\x07d\x97s\x9c-=hµJü5Î\x04/©Jx\x9c&\x19êV¬Ñ\x1béÏ\x98JSUb0\x8b\x9c\x9f¡Ñ-Q\x1aEøRHK0©\x00¶õ£«\x10ªÂ\x03\x83-EH')
-2024-01-08 14:27:46,895 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:46] code 400, message Bad request version ('Î')
-2024-01-08 14:27:46,896 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:46] "[31m[1m\x16\x03\x01\x02/\x01\x00\x02+\x03\x03þv2õéb\x01'<4\x95\x8a,ê¹\x02½B¥\x98|_\x94iß\x97\x9eG.\x8eµA ¦\x82xC\x10ÚaÃNlÍ\x1d\x9d\x1a±\x17&\x0d@±þ¢f¦ö(½Öâ¿<&\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01ÂÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x00\x00\x11\x00\x0f\x00\x00\x0cronald.local\x00#\x00\x00\x00\x0b\x00\x02\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01_\x00 \x8e\x14\x94z(Û3L~ X-\x8açPb\x86Oó9\x02xpÍc\x7f\x0b¾ìçé\x12\x00Ð\x84\x94\x1c@ß\x02p}ë\x0fv\x07d\x97s\x9c-=hµJü5Î\x04/©Jx\x9c&\x19êV¬Ñ\x1béÏ\x98JSUb0\x8b\x9c\x9f¡Ñ-Q\x1aEøRHK0©\x00¶õ£«\x10ªÂ\x03\x83-EH[0m" 400 -
-2024-01-08 14:27:46,896 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:46] "[31m[1m\x16\x03\x01\x02O\x01\x00\x02K\x03\x03y\x87ß\x85ü7ñ\x94\x0f\x9e7Ò\x12\x0f¾¦lâvÂ¤\x98\x8dn\x04>l\x16÷ááÁ Î[0m" 400 -
-2024-01-08 14:27:46,920 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:46] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03÷Â²T\x9d\x01\x04\x0eòW\x91\x80mõÙ\x16\x0eP©,l\x04')
-2024-01-08 14:27:46,920 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:46] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03÷Â²T\x9d\x01\x04\x0eòW\x91\x80mõÙ\x16\x0eP©,l\x04\x1e-Õ\x1bß¬k[0m" 400 -
-2024-01-08 14:27:46,922 - werkzeug - ERROR - 192.168.1.141 - - [08/Jan/2024 14:27:46] code 400, message Bad request syntax ('\x16\x03\x01\x02O\x01\x00\x02K\x03\x03HõM»SÆé7q?')
-2024-01-08 14:27:46,923 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:46] "[31m[1m\x16\x03\x01\x02O\x01\x00\x02K\x03\x03HõM»SÆé7q?[0m" 400 -
-2024-01-08 14:27:50,986 - werkzeug - INFO - 192.168.1.141 - - [08/Jan/2024 14:27:50] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 14:38:04,182 - werkzeug - INFO - 192.168.1.109 - - [08/Jan/2024 14:38:04] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 14:43:56,258 - root - INFO - Getting songs for date 20240105.
-2024-01-08 14:43:56,289 - root - INFO - Playlist for date 20240105 containing 0 records retrieved from the db.
-2024-01-08 14:43:56,289 - root - INFO - Playlist for date 20240105 not found in the db. Performing web scrape.
-2024-01-08 14:43:57,444 - root - INFO - Songs for date 20240105 scraped from web successfully.
-2024-01-08 14:43:57,467 - root - INFO - Playlist for date 20240105 added to the db successfully.
-2024-01-08 14:43:57,468 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 14:43:57] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 14:53:25,534 - werkzeug - INFO - 198.235.24.72 - - [08/Jan/2024 14:53:25] "[33mGET / HTTP/1.1[0m" 404 -
-2024-01-08 14:54:06,942 - root - INFO - Getting songs for date 20240105.
-2024-01-08 14:54:06,968 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 14:54:06,969 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 14:54:06,971 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 14:54:06] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 14:58:29,564 - root - INFO - Getting songs for date 20240105.
-2024-01-08 14:58:29,590 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 14:58:29,590 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 14:58:29,593 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 14:58:29] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 15:13:42,109 - root - INFO - Getting songs for date 20240105.
-2024-01-08 15:13:42,137 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 15:13:42,137 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 15:13:42,139 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:13:42] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 15:41:32,062 - root - INFO - Getting songs for date 20231201.
-2024-01-08 15:41:32,089 - root - INFO - Playlist for date 20231201 containing 100 records retrieved from the db.
-2024-01-08 15:41:32,089 - root - INFO - Playlist for date 20231201 fetched from the db.
-2024-01-08 15:41:32,092 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:41:32] "GET /api/songs/20231201 HTTP/1.1" 200 -
-2024-01-08 15:41:42,191 - root - INFO - Getting songs for date 20121130.
-2024-01-08 15:41:42,218 - root - INFO - Playlist for date 20121130 containing 100 records retrieved from the db.
-2024-01-08 15:41:42,218 - root - INFO - Playlist for date 20121130 fetched from the db.
-2024-01-08 15:41:42,220 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:41:42] "GET /api/songs/20121130 HTTP/1.1" 200 -
-2024-01-08 15:42:44,056 - root - INFO - Getting songs for date 20240105.
-2024-01-08 15:42:44,083 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 15:42:44,083 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 15:42:44,085 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:42:44] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 15:51:56,219 - root - INFO - Getting songs for date 20240105.
-2024-01-08 15:51:56,246 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 15:51:56,247 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 15:51:56,249 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:51:56] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 15:53:03,798 - root - INFO - Getting songs for date 20240105.
-2024-01-08 15:53:03,825 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 15:53:03,825 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 15:53:03,827 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:53:03] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 15:53:23,379 - root - INFO - Getting songs for date 20240105.
-2024-01-08 15:53:23,397 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 15:53:23,397 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 15:53:23,399 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:53:23] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 15:53:55,300 - root - INFO - Getting songs for date 20240105.
-2024-01-08 15:53:55,325 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 15:53:55,325 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 15:53:55,327 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 15:53:55] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 16:32:55,965 - root - INFO - Getting songs for date 20240105.
-2024-01-08 16:32:55,993 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 16:32:55,993 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 16:32:55,996 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 16:32:55] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 16:34:37,576 - root - INFO - Getting songs for date 20240105.
-2024-01-08 16:34:37,602 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 16:34:37,602 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 16:34:37,605 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 16:34:37] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 16:45:29,770 - root - INFO - Getting songs for date 20240105.
-2024-01-08 16:45:29,797 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 16:45:29,797 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 16:45:29,799 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 16:45:29] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 16:52:32,569 - root - INFO - Getting songs for date 20130111.
-2024-01-08 16:52:32,595 - root - INFO - Playlist for date 20130111 containing 100 records retrieved from the db.
-2024-01-08 16:52:32,595 - root - INFO - Playlist for date 20130111 fetched from the db.
-2024-01-08 16:52:32,598 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 16:52:32] "GET /api/songs/20130111 HTTP/1.1" 200 -
-2024-01-08 16:52:53,356 - root - INFO - Getting songs for date 20240105.
-2024-01-08 16:52:53,381 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 16:52:53,381 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 16:52:53,384 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 16:52:53] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 17:38:18,623 - root - INFO - Getting songs for date 20240105.
-2024-01-08 17:38:18,650 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 17:38:18,650 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 17:38:18,653 - werkzeug - INFO - 192.168.1.184 - - [08/Jan/2024 17:38:18] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 17:39:25,798 - werkzeug - INFO - 192.168.1.170 - - [08/Jan/2024 17:39:25] "[33mGET /status HTTP/1.1[0m" 404 -
-2024-01-08 17:39:38,691 - root - INFO - Getting songs for date 20240105.
-2024-01-08 17:39:38,716 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
-2024-01-08 17:39:38,716 - root - INFO - Playlist for date 20240105 fetched from the db.
-2024-01-08 17:39:38,719 - werkzeug - INFO - 192.168.1.170 - - [08/Jan/2024 17:39:38] "GET /api/songs/20240105 HTTP/1.1" 200 -
-2024-01-08 18:44:34,188 - werkzeug - ERROR - 185.180.143.18 - - [08/Jan/2024 18:44:34] code 400, message Bad request version ('À\x14À')
-2024-01-08 18:44:34,188 - werkzeug - INFO - 185.180.143.18 - - [08/Jan/2024 18:44:34] "[31m[1m\x16\x03\x01\x00\x9d\x01\x00\x00\x99\x03\x03æDOn\x15Þ\x18\x0cq\x02EÒ\x92;\x13é\x1c\x94\x8c&^\x8a=\x08\x95ª\x05\x96\x1fmÅÍ\x00\x00BÀ\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-01-08 19:46:15,828 - werkzeug - ERROR - 198.235.24.17 - - [08/Jan/2024 19:46:15] code 400, message Bad request version ('À\x13À')
-2024-01-08 19:46:15,829 - werkzeug - INFO - 198.235.24.17 - - [08/Jan/2024 19:46:15] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x11\x96ö\x0e\x9fÒ\x94\x80¿Ô!iég\x8d3\x98öJv\x93ýìÿ\x1a±ºóÇyÎî Ùv\x94-\x1e8ê\x1bNYlkåÿþÝzÇY1\x9bjc \x12ÿò7\x11÷\x15\x97\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
-2024-01-08 19:46:16,438 - werkzeug - ERROR - 198.235.24.17 - - [08/Jan/2024 19:46:16] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03«TÙO¾\x9cð0ûæ\x06u¬ÿË\x9a×ã\x95\x91Æú&\x9dØÞdÃÿ|=´\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À")
-2024-01-08 19:46:16,438 - werkzeug - INFO - 198.235.24.17 - - [08/Jan/2024 19:46:16] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03«TÙO¾\x9cð0ûæ\x06u¬ÿË\x9a×ã\x95\x91Æú&\x9dØÞdÃÿ|=´\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
-2024-01-08 20:12:34,467 - werkzeug - ERROR - 192.241.230.40 - - [08/Jan/2024 20:12:34] code 400, message Bad request version ('À\x14À')
-2024-01-08 20:12:34,467 - werkzeug - INFO - 192.241.230.40 - - [08/Jan/2024 20:12:34] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03µll¡\x9a#\x1bºA\x0f\x00­Ñp Îef¯4FA[\x97aG=ßYpö\x80\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-01-08 22:12:36,109 - werkzeug - INFO - 192.168.1.1 - - [08/Jan/2024 22:12:36] "GET /api/status HTTP/1.1" 200 -
-2024-01-08 22:12:37,005 - werkzeug - INFO - 192.168.1.1 - - [08/Jan/2024 22:12:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2024-01-09 06:25:06,951 - werkzeug - ERROR - 65.49.1.56 - - [09/Jan/2024 06:25:06] code 400, message Bad request version ('À\x14À')
-2024-01-09 06:25:06,951 - werkzeug - INFO - 65.49.1.56 - - [09/Jan/2024 06:25:06] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03k\x19\x95\x16¿ÿ\x9a\x8dáÛ\x9cÚib2è\x84Ó\x96j£\x09uÖa<;\x0eÌ]æ¢\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-01-09 16:18:38,330 - root - INFO - Starting server...
+2024-01-09 16:18:38,331 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-09 16:18:38,332 - werkzeug - WARNING -  * Debugger is active!
+2024-01-09 16:18:38,337 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-01-09 16:18:49,565 - root - INFO - Getting songs for date 20231229.
+2024-01-09 16:18:49,593 - root - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-09 16:18:49,593 - root - INFO - Playlist for date 20231229 fetched from the db.
+2024-01-09 16:18:49,595 - werkzeug - INFO - 192.168.1.184 - - [09/Jan/2024 16:18:49] "GET /api/songs/20231229 HTTP/1.1" 200 -
+2024-01-09 16:19:10,404 - root - INFO - Getting songs for date 20240105.
+2024-01-09 16:19:10,422 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-09 16:19:10,422 - root - INFO - Playlist for date 20240105 fetched from the db.
+2024-01-09 16:19:10,423 - werkzeug - INFO - 192.168.1.184 - - [09/Jan/2024 16:19:10] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-09 16:34:05,192 - root - INFO - Getting songs for date 20240105.
+2024-01-09 16:34:05,217 - root - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-09 16:34:05,217 - root - INFO - Playlist for date 20240105 fetched from the db.
+2024-01-09 16:34:05,219 - werkzeug - INFO - 127.0.0.1 - - [09/Jan/2024 16:34:05] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-09 16:34:12,215 - werkzeug - INFO - 127.0.0.1 - - [09/Jan/2024 16:34:12] "[33mPOST /api/create_playlist HTTP/1.1[0m" 404 -
+2024-01-09 17:44:03,327 - werkzeug - ERROR - 87.236.176.23 - - [09/Jan/2024 17:44:03] code 400, message Bad request syntax ('\x16\x03\x01\x01')
+2024-01-09 17:44:03,329 - werkzeug - INFO - 87.236.176.23 - - [09/Jan/2024 17:44:03] "[31m[1m\x16\x03\x01\x01[0m" 400 -
+2024-01-09 17:44:18,689 - werkzeug - INFO - 87.236.176.32 - - [09/Jan/2024 17:44:18] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-09 20:01:17,084 - werkzeug - ERROR - 101.36.114.124 - - [09/Jan/2024 20:01:17] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+2024-01-09 20:01:17,086 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:17] "[31m[1m\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x031ôªÏ\x05Ã\x98Ýâ\x1d¸?Ï\x0b\x86,l\x7fªîv»çX&'ö\x14ÔØ!v \x91\x88íheéf»b?1G\x02\x18Ð+óç¶\x17\x8aÁjî\x1c*q\x15x<î3\x004Ì¨Ì©À/À0À+À,À\x09\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À[0m" 400 -
+2024-01-09 20:01:37,871 - werkzeug - ERROR - 101.36.114.124 - - [09/Jan/2024 20:01:37] code 400, message Bad request version ('\x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_')
+2024-01-09 20:01:37,871 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:37] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x00\x00.\x00\x00.\x02\x009\x008\x00\x00;\x00 \x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_[0m" 400 -
+2024-01-09 20:01:48,094 - werkzeug - ERROR - 101.36.114.124 - - [09/Jan/2024 20:01:48] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+2024-01-09 20:01:48,094 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:48] "[31m[1m\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00\x0cGetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00[0m" 400 -
+2024-01-09 20:01:48,292 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:48] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-09 20:01:48,734 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-09 20:01:49,239 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:49] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2024-01-09 20:01:49,709 - werkzeug - INFO - 101.36.114.124 - - [09/Jan/2024 20:01:49] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2024-01-09 22:15:58,015 - werkzeug - ERROR - 74.82.47.2 - - [09/Jan/2024 22:15:58] code 400, message Bad request version ('À\x14À')
+2024-01-09 22:15:58,016 - werkzeug - INFO - 74.82.47.2 - - [09/Jan/2024 22:15:58] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x8e\x08-\x1f\x18z\x06\x8f\x08·\x12Ùñ7ÑGvÖý\x8d\x9eªÚî¯ùr\x08d\x05\x89j\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-01-09 23:29:48,641 - werkzeug - ERROR - 139.144.150.8 - - [09/Jan/2024 23:29:48] code 400, message Bad request version ('À\x13À')
+2024-01-09 23:29:48,642 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:48] "[31m[1m\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03\x91i9\x03\x88nr29nm\x1eË2\x97\x16\x04Õb²ýB\x93éRµ\x84§\x06\x19ú\x89 8Ð§´ê»ù\x9aÀÄécoîëè».\x03ÇÅ4ü8\x99¾üËÂSí\x0c\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-01-09 23:29:48,824 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:48] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-09 23:29:49,033 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-09 23:29:49,223 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:49] "[33mGET /version HTTP/1.1[0m" 404 -
+2024-01-09 23:29:49,405 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:49] "[33mGET /.vscode/sftp.json HTTP/1.1[0m" 404 -
+2024-01-09 23:29:49,585 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:49] "[33mGET /about HTTP/1.1[0m" 404 -
+2024-01-09 23:29:49,767 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:49] "[33mGET /debug/default/view?panel=config HTTP/1.1[0m" 404 -
+2024-01-09 23:29:49,959 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:49] "[33mGET /v2/_catalog HTTP/1.1[0m" 404 -
+2024-01-09 23:29:50,163 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:50] "[33mGET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1[0m" 404 -
+2024-01-09 23:29:50,340 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:50] "[33mGET /server-status HTTP/1.1[0m" 404 -
+2024-01-09 23:29:50,535 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:50] "[33mGET /_all_dbs HTTP/1.1[0m" 404 -
+2024-01-09 23:29:50,714 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:50] "[33mGET /.DS_Store HTTP/1.1[0m" 404 -
+2024-01-09 23:29:50,972 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:50] "[33mGET /.env HTTP/1.1[0m" 404 -
+2024-01-09 23:29:51,187 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:51] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2024-01-09 23:29:51,367 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:51] "[33mGET /s/232323e2731313e22363e24323/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1[0m" 404 -
+2024-01-09 23:29:51,545 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:51] "[33mGET /config.json HTTP/1.1[0m" 404 -
+2024-01-09 23:29:51,734 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:51] "[33mGET /telescope/requests HTTP/1.1[0m" 404 -
+2024-01-09 23:29:51,920 - werkzeug - INFO - 139.144.150.8 - - [09/Jan/2024 23:29:51] "[33mGET /?rest_route=/wp/v2/users/ HTTP/1.1[0m" 404 -
+2024-01-09 23:46:44,768 - werkzeug - INFO - 182.138.158.55 - - [09/Jan/2024 23:46:44] "[33mGET / HTTP/1.0[0m" 404 -
+2024-01-09 23:46:48,654 - werkzeug - INFO - 150.255.90.73 - - [09/Jan/2024 23:46:48] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-10 00:19:38,223 - werkzeug - INFO - 198.235.24.200 - - [10/Jan/2024 00:19:38] "[33mGET / HTTP/1.1[0m" 404 -
