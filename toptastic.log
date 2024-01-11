@@ -14,3 +14,68 @@
 2024-01-10 10:24:06,909 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
 2024-01-10 10:24:06,930 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
 2024-01-10 10:24:06,932 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 10:24:06] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 10:42:26,472 - werkzeug - ERROR - 49.51.231.163 - - [10/Jan/2024 10:42:26] code 400, message Bad request version ('À\x13À')
+2024-01-10 10:42:26,472 - werkzeug - INFO - 49.51.231.163 - - [10/Jan/2024 10:42:26] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-01-10 10:42:36,702 - werkzeug - INFO - 49.51.231.163 - - [10/Jan/2024 10:42:36] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-10 10:43:21,977 - werkzeug - INFO - 111.7.96.157 - - [10/Jan/2024 10:43:21] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-10 10:43:32,113 - werkzeug - INFO - 185.166.84.146 - - [10/Jan/2024 10:43:32] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-10 10:53:33,210 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 10:53:33,237 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 10:53:33,240 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 10:53:33] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 11:02:25,099 - my_app.toptastic_api - INFO - Getting songs for date 20231229.
+2024-01-10 11:02:25,127 - my_app.toptastic_api - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-10 11:02:25,130 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 11:02:25] "GET /api/songs/20231229 HTTP/1.1" 200 -
+2024-01-10 11:59:30,537 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 11:59:30,571 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 11:59:30,574 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 11:59:30] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 11:59:36,787 - my_app.toptastic_api - INFO - Creating playlist with title: UK Singles Chart - Friday, December 29, 2023, description: "Created by Toptastic on Wednesday, January 10, 2024", with 100 tracks.
+2024-01-10 11:59:37,583 - my_app.toptastic_api - ERROR - An error occurred: Youtube API quota exeeded. Try again tomorrow.
+2024-01-10 11:59:37,584 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 11:59:37] "[35m[1mPOST /api/create_playlist HTTP/1.1[0m" 500 -
+2024-01-10 14:08:11,072 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 14:08:11,100 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 14:08:11,102 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 14:08:11] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 15:22:50,720 - my_app.toptastic_api - INFO - Getting songs for date 20231229.
+2024-01-10 15:22:50,746 - my_app.toptastic_api - INFO - Playlist for date 20231229 containing 100 records retrieved from the db.
+2024-01-10 15:22:50,749 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 15:22:50] "GET /api/songs/20231229 HTTP/1.1" 200 -
+2024-01-10 15:37:57,319 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 15:37:57,350 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 15:37:57,352 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 15:37:57] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 15:45:18,487 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 15:45:18,513 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 15:45:18,516 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 15:45:18] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 16:01:58,426 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 16:01:58,451 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 16:01:58,454 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 16:01:58] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 16:06:25,200 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 16:06:25,227 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 16:06:25,229 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 16:06:25] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 16:12:16,877 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 16:12:16,905 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 16:12:16,908 - werkzeug - INFO - 192.168.1.248 - - [10/Jan/2024 16:12:16] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 16:20:36,336 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 16:20:36,362 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 16:20:36,365 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 16:20:36] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 16:21:58,672 - my_app.toptastic_api - INFO - Getting songs for date 20240105.
+2024-01-10 16:21:58,698 - my_app.toptastic_api - INFO - Playlist for date 20240105 containing 100 records retrieved from the db.
+2024-01-10 16:21:58,701 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 16:21:58] "GET /api/songs/20240105 HTTP/1.1" 200 -
+2024-01-10 16:25:00,754 - my_app.toptastic_api - INFO - Getting songs for date 20110121.
+2024-01-10 16:25:00,781 - my_app.toptastic_api - INFO - Playlist for date 20110121 containing 100 records retrieved from the db.
+2024-01-10 16:25:00,784 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 16:25:00] "GET /api/songs/20110121 HTTP/1.1" 200 -
+2024-01-10 17:07:15,046 - my_app.toptastic_api - INFO - Getting songs for date 20130208.
+2024-01-10 17:07:15,075 - my_app.toptastic_api - INFO - Playlist for date 20130208 containing 100 records retrieved from the db.
+2024-01-10 17:07:15,078 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 17:07:15] "GET /api/songs/20130208 HTTP/1.1" 200 -
+2024-01-10 17:07:23,000 - my_app.toptastic_api - INFO - Getting songs for date 20130208.
+2024-01-10 17:07:23,030 - my_app.toptastic_api - INFO - Playlist for date 20130208 containing 100 records retrieved from the db.
+2024-01-10 17:07:23,032 - werkzeug - INFO - 192.168.1.184 - - [10/Jan/2024 17:07:23] "GET /api/songs/20130208 HTTP/1.1" 200 -
+2024-01-10 20:35:55,426 - werkzeug - INFO - 162.216.149.176 - - [10/Jan/2024 20:35:55] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-11 04:16:51,781 - werkzeug - INFO - 198.235.24.236 - - [11/Jan/2024 04:16:51] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-11 05:01:51,224 - werkzeug - ERROR - 165.22.34.200 - - [11/Jan/2024 05:01:51] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x01,\x01\x00\x01(\x03\x03\x94·eÇÔX=áú\x90µA÷I¶ë¯|\x13å§\x04zo')
+2024-01-11 05:01:51,224 - werkzeug - INFO - 165.22.34.200 - - [11/Jan/2024 05:01:51] "[31m[1m\x16\x03\x01\x01,\x01\x00\x01(\x03\x03\x94·eÇÔX=áú\x90µA÷I¶ë¯|\x13å§\x04zo\x0dIy¸É=\x15p\x00\x00ªÀ0À,À(À$À\x14À[0m" 400 -
+2024-01-11 05:01:58,336 - werkzeug - ERROR - 165.22.34.200 - - [11/Jan/2024 05:01:58] code 400, message Bad request version ("\x00\x00@À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2024-01-11 05:01:58,337 - werkzeug - INFO - 165.22.34.200 - - [11/Jan/2024 05:01:58] "[31m[1m\x16\x03\x01\x00¡\x01\x00\x00\x9d\x03\x03àv\x805.\x06ª¶\x83¿Ro¨RÉú\x7f\x89Í¬¥×\x97ee\x13¯\x0b£4¥\x1c\x00\x00@À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" 400 -
+2024-01-11 05:12:59,008 - werkzeug - ERROR - 74.82.47.4 - - [11/Jan/2024 05:12:59] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x98EZ}\x92!ÄÀ\x96Û\x9a\x19\x08k\x11\x13\x86¥\x8d+[µ±EäiDñþ\x94It\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+2024-01-11 05:12:59,008 - werkzeug - INFO - 74.82.47.4 - - [11/Jan/2024 05:12:59] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x98EZ}\x92!ÄÀ\x96Û\x9a\x19\x08k\x11\x13\x86¥\x8d+[µ±EäiDñþ\x94It\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-01-11 05:17:14,640 - werkzeug - ERROR - 205.210.31.31 - - [11/Jan/2024 05:17:14] code 400, message Bad request version ('\x12«¢<v¬12M_åçñ\x00¸3\x04Ûí')
+2024-01-11 05:17:14,640 - werkzeug - INFO - 205.210.31.31 - - [11/Jan/2024 05:17:14] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x027\x18¥·\x9f\x12\x13\x9aq@\x9d¶Íûf\x1bÐ!¼s9°É\x86[\x17C8\x8d\x7fõ Ï-0\x9e\x0d\x12«¢<v¬12M_åçñ\x00¸3\x04Ûí[0m" 400 -
+2024-01-11 05:17:14,804 - werkzeug - ERROR - 205.210.31.31 - - [11/Jan/2024 05:17:14] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x8b\x99\x84WMby1\x0fË£\x9e¯côç"b6\x04oLØ\x8eÉqTnÎÄOä\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À\'À#À\x13À')
+2024-01-11 05:17:14,804 - werkzeug - INFO - 205.210.31.31 - - [11/Jan/2024 05:17:14] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x8b\x99\x84WMby1\x0fË£\x9e¯côç"b6\x04oLØ\x8eÉqTnÎÄOä\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
