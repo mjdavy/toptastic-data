@@ -310,13 +310,13 @@ def create_playlist():
 @app.route('/api/update_videos', methods=['POST'])
 def update_videos():
     data = request.get_json()
-    songs = data.get('songs')
+    tracks = data.get('tracks')
 
     updated = 0
-    for song in songs:
-        title = song.get('title')
-        artist = song.get('artist')
-        video_id = song.get('videoId')
+    for track in tracks:
+        title = track.get('title')
+        artist = track.get('artist')
+        video_id = track.get('videoId')
 
         if not video_id:
             # If the song does not have a video ID, skip it
