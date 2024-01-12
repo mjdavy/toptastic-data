@@ -122,6 +122,39 @@ def add_playlist_to_db(date, songs):
     conn.commit()
     conn.close()
 
+def get_video_from_db(song_name, artist):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute('''
+        SELECT 
+            id, video_id
+        FROM 
+            songs
+        WHERE 
+            song_name = ? AND artist = ?
+    ''', (song_name, artist,))
+    row = cursor.fetchone()
+    conn.close()
+
+    if row is None:
+        return None
+
+    return {
+        'id': row['id'],
+        'video_id': row['video_id']
+    }
+
+def update_video_in_db(song_id, video_id):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute('''
+        UPDATE songs
+        SET video_id = ?
+        WHERE id = ?
+    ''', (video_id, song_id,))
+    conn.commit()
+    conn.close()
+
 def scrape_songs(date):
 
     # Make a request to the website
@@ -274,3 +307,32 @@ def create_playlist():
         logger.error(f'An error occurred: {e}')
         return {'status': 'error', 'message': str(e)}, 500
     
+@app.route('/api/update_videos', methods=['POST'])
+def update_videos():
+    data = request.get_json()
+    songs = data.get('songs')
+
+    updated = 0
+    for song in songs:
+        title = song.get('title')
+        artist = song.get('artist')
+        video_id = song.get('videoId')
+
+        if not video_id:
+            # If the song does not have a video ID, skip it
+            logger.info(f'Skipping video update for song {title} by {artist} because it does not have a video ID.')
+            continue
+
+        song_record = get_video_from_db(title, artist)
+
+        if song_record is not None and song_record['video_id'] != video_id:
+            logger.info(f'Updating video ID for song {title} by {artist} from {song_record["video_id"]} to {video_id}.')
+            update_video_in_db(song_record['id'], video_id)
+            updated += 1
+        else:
+            logger.info(f'Skipping video update for song {title} by {artist} because it either does not exist or is already up to date.')
+
+    return {
+        'status': 'success',
+        'updated': updated,
+    }, 200
