@@ -1,24 +1,13 @@
-2024-01-17 13:19:39,502 - root - INFO - Starting server...
-2024-01-17 13:19:39,502 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-01-17 13:19:39,504 - werkzeug - WARNING -  * Debugger is active!
-2024-01-17 13:19:39,509 - werkzeug - INFO -  * Debugger PIN: 515-065-226
-2024-01-17 13:19:58,088 - my_app.toptastic_api - INFO - Getting songs for date 20240112.
-2024-01-17 13:19:58,109 - my_app.toptastic_api - INFO - Playlist for date 20240112 containing 100 records retrieved from the db.
-2024-01-17 13:19:58,111 - werkzeug - INFO - 192.168.1.184 - - [17/Jan/2024 13:19:58] "GET /api/songs/20240112 HTTP/1.1" 200 -
-2024-01-17 13:20:59,120 - my_app.toptastic_api - INFO - Getting songs for date 20240112.
-2024-01-17 13:20:59,140 - my_app.toptastic_api - INFO - Playlist for date 20240112 containing 100 records retrieved from the db.
-2024-01-17 13:20:59,141 - werkzeug - INFO - 192.168.1.170 - - [17/Jan/2024 13:20:59] "GET /api/songs/20240112 HTTP/1.1" 200 -
-2024-01-17 14:39:16,107 - my_app.toptastic_api - INFO - Creating playlist with title: UK Singles Chart - Friday, January 12, 2024, description: "Created by Toptastic on Friday, January 12, 2024", with 100 tracks.
-2024-01-17 14:39:16,414 - werkzeug - INFO - 192.168.1.184 - - [17/Jan/2024 14:39:16] "[35m[1mPOST /api/create_playlist HTTP/1.1[0m" 500 -
-2024-01-17 16:10:58,729 - werkzeug - INFO - 205.210.31.212 - - [17/Jan/2024 16:10:58] "[33mGET / HTTP/1.1[0m" 404 -
-2024-01-17 18:45:42,438 - werkzeug - ERROR - 87.236.176.122 - - [17/Jan/2024 18:45:42] code 400, message Bad request syntax ('\x16\x03\x01\x01')
-2024-01-17 18:45:42,440 - werkzeug - INFO - 87.236.176.122 - - [17/Jan/2024 18:45:42] "[31m[1m\x16\x03\x01\x01[0m" 400 -
-2024-01-17 18:45:57,764 - werkzeug - INFO - 87.236.176.121 - - [17/Jan/2024 18:45:57] "[33mGET / HTTP/1.1[0m" 404 -
-2024-01-18 00:10:30,937 - werkzeug - ERROR - 198.235.24.113 - - [18/Jan/2024 00:10:30] code 400, message Bad request version ('ýÑÐ?:Û')
-2024-01-18 00:10:30,938 - werkzeug - INFO - 198.235.24.113 - - [18/Jan/2024 00:10:30] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x08\x07tLlÁi\x95µm\x90¾Û\x04±\x9a³ú\x96G«$ë'\x0eÈ'\x07\x9c¡T± \x9e½ÇØuÞ\x89|\x9d<+\x91\x0býÑÐ?:Û\x09[0m" 400 -
-2024-01-18 00:10:31,357 - werkzeug - ERROR - 198.235.24.113 - - [18/Jan/2024 00:10:31] code 400, message Bad request version ('À(À$À\x14À')
-2024-01-18 00:10:31,357 - werkzeug - INFO - 198.235.24.113 - - [18/Jan/2024 00:10:31] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x8dGrÕ{æw\x1aÍ^\x9bÉ7¸\x15\x18Ö\x8e\x12\x87\x89;ÞÜW\x09\x93y\x85Ò"W\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
-2024-01-18 01:12:17,439 - werkzeug - ERROR - 107.151.182.54 - - [18/Jan/2024 01:12:17] code 400, message Bad request version ('À\x14À')
-2024-01-18 01:12:17,440 - werkzeug - INFO - 107.151.182.54 - - [18/Jan/2024 01:12:17] "[31m[1m\x16\x03\x01\x00\x9d\x01\x00\x00\x99\x03\x03\x8d1\x1c?;\x0dn\x9d@\\S¸Ê*ì\x8f\x99á\x17À\x15R\x89\x14ìÅ\x07\x8bá\x0d©°\x00\x00BÀ\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-01-18 04:30:38,477 - werkzeug - ERROR - 216.218.206.69 - - [18/Jan/2024 04:30:38] code 400, message Bad request version ('À\x14À')
-2024-01-18 04:30:38,477 - werkzeug - INFO - 216.218.206.69 - - [18/Jan/2024 04:30:38] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03æ\x95\x0fZ[,\x1d7Þ\x06\x01ö_¶y÷g~Õ\x17Ùg G\x0c\x0c:\x16}Ê\x00ù\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-01-18 12:03:37,650 - root - INFO - Starting server...
+2024-01-18 12:03:37,651 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-18 12:03:37,652 - werkzeug - WARNING -  * Debugger is active!
+2024-01-18 12:03:37,658 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-01-18 15:52:40,303 - werkzeug - INFO - 205.210.31.28 - - [18/Jan/2024 15:52:40] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-18 17:13:14,616 - werkzeug - ERROR - 198.235.24.68 - - [18/Jan/2024 17:13:14] code 400, message Bad request version ('À\x13À')
+2024-01-18 17:13:14,617 - werkzeug - INFO - 198.235.24.68 - - [18/Jan/2024 17:13:14] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03½¢\x10e\x0cd¦\x16ÖGq\x0e\x80Ì²\x9d\x1e«s\x96[b\x8e÷)R.w\x08Z\x8d= \x83ª¯Fò"Ý\x18\x8fsX²\x82¦êD\x10´\x9b¦\x15\x01¹oÏ\x0f\x83¾u\x13F}\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-01-18 17:13:15,111 - werkzeug - ERROR - 198.235.24.68 - - [18/Jan/2024 17:13:15] code 400, message Bad request version ('À(À$À\x14À')
+2024-01-18 17:13:15,111 - werkzeug - INFO - 198.235.24.68 - - [18/Jan/2024 17:13:15] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03j\x0c£_ \x0e1Ï\x0f\x00\x17,V\x0d\x98AkÒbR\x0f\x9bK*\x85:ÜFëä\x879\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
+2024-01-18 23:12:15,105 - werkzeug - ERROR - 65.49.1.10 - - [18/Jan/2024 23:12:15] code 400, message Bad request version ('À\x14À')
+2024-01-18 23:12:15,106 - werkzeug - INFO - 65.49.1.10 - - [18/Jan/2024 23:12:15] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ø\x06=E©:\x1bª\x1e³\x1dÊ½ªAØ¡ýü_Ã§x+ \x1aûÏÍ¢%L\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-01-19 01:43:44,730 - werkzeug - ERROR - 94.102.61.23 - - [19/Jan/2024 01:43:44] code 400, message Bad request version ('À\x14À')
+2024-01-19 01:43:44,731 - werkzeug - INFO - 94.102.61.23 - - [19/Jan/2024 01:43:44] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03fV,\x08âeÁA\x14Ýhx¨÷\x99>\x1f§\x8fKåî\x81 Ôp=\x98\x1bS\x01\x9f\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
