@@ -1,28 +1,4 @@
-2024-01-21 18:56:05,970 - root - INFO - Starting server...
-2024-01-21 18:56:05,970 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-01-21 18:56:05,971 - werkzeug - WARNING -  * Debugger is active!
-2024-01-21 18:56:05,978 - werkzeug - INFO -  * Debugger PIN: 111-996-517
-2024-01-21 18:56:37,704 - my_app.toptastic_api - INFO - Getting songs for date 19991231.
-2024-01-21 18:56:37,730 - my_app.toptastic_api - INFO - Playlist for date 19991231 containing 0 records retrieved from the db.
-2024-01-21 18:56:37,732 - my_app.toptastic_api - INFO - Playlist for date 19991231 not found in the db. Performing web scrape.
-2024-01-21 18:56:38,864 - my_app.toptastic_api - INFO - Songs for date 19991231 scraped from web successfully.
-2024-01-21 18:56:38,953 - my_app.toptastic_api - INFO - Playlist for date 19991231 added to the db successfully.
-2024-01-21 18:56:38,954 - werkzeug - INFO - 192.168.1.1 - - [21/Jan/2024 18:56:38] "GET /api/songs/19991231 HTTP/1.1" 200 -
-2024-01-21 21:34:28,157 - werkzeug - INFO - 198.235.24.155 - - [21/Jan/2024 21:34:28] "[33mGET / HTTP/1.1[0m" 404 -
-2024-01-22 00:42:50,569 - werkzeug - ERROR - 192.241.226.54 - - [22/Jan/2024 00:42:50] code 400, message Bad request version ('À\x14À')
-2024-01-22 00:42:50,570 - werkzeug - INFO - 192.241.226.54 - - [22/Jan/2024 00:42:50] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03L¶\x16\x06ä\x12Ã0p`²i÷}W\x88Y*·"ï\x82Û\x7f\x84\x14\x1cÇaïµ'\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-01-22 02:27:17,654 - werkzeug - INFO - 35.203.211.116 - - [22/Jan/2024 02:27:17] "[33mGET / HTTP/1.1[0m" 404 -
-2024-01-22 03:12:50,480 - werkzeug - ERROR - 198.235.24.241 - - [22/Jan/2024 03:12:50] code 400, message Bad request version ('À\x13À')
-2024-01-22 03:12:50,480 - werkzeug - INFO - 198.235.24.241 - - [22/Jan/2024 03:12:50] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03n\x8d\x0e]\x89È[:\x05º\x81ÒßT\x89\x07AG~\x07À\x97.ÌÊñ¨0è­o\x12 >$\x97-h¡>\x8c\x15O\\ýDéqyL¡a´Gþå-§i@\x10Ê\x90Âí\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
-2024-01-22 03:12:50,684 - werkzeug - ERROR - 198.235.24.241 - - [22/Jan/2024 03:12:50] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Ë^\x90\x90\x19\x8a0»[l#\x84=¼¾À*\x8d9ã\x02lýðX\\ÌmÙW!º\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À")
-2024-01-22 03:12:50,685 - werkzeug - INFO - 198.235.24.241 - - [22/Jan/2024 03:12:50] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Ë^\x90\x90\x19\x8a0»[l#\x84=¼¾À*\x8d9ã\x02lýðX\\ÌmÙW!º\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
-2024-01-22 05:26:18,284 - werkzeug - ERROR - 102.131.60.136 - - [22/Jan/2024 05:26:18] code 400, message Bad request version ("¢\x7f¼\x07Ñgõ¶þ¾`\x03S\x11¢T\x11¤\x00È\x13\x01\x13\x02\x13\x03\x13\x04\x13\x05À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀS\x00§À+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀR\x00¦À$À(\x00k\x00jÀsÀw\x00Ä\x00Ã\x00m\x00ÅÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½\x00l\x00¿À")
-2024-01-22 05:26:18,285 - werkzeug - INFO - 102.131.60.136 - - [22/Jan/2024 05:26:18] "[31m[1m\x16\x03\x01\x01ª\x01\x00\x01¦\x03\x03\x96\x13ps*\x1eá¦zbÔ\x16æ¶àÞYqg\x9c\x0b\x1c\x17\x96\x9bF¼²D={\x89 ¦à\x0fHmd\x0b\x03ÞÙQ\x1dÝ\x1f¢\x7f¼\x07Ñgõ¶þ¾`\x03S\x11¢T\x11¤\x00È\x13\x01\x13\x02\x13\x03\x13\x04\x13\x05À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À­À£À\x9fÀ]ÀaÀWÀS\x00§À+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀR\x00¦À$À(\x00k\x00jÀsÀw\x00Ä\x00Ã\x00m\x00ÅÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½\x00l\x00¿À[0m" 400 -
-2024-01-22 07:42:23,100 - werkzeug - INFO - 64.227.140.57 - - [22/Jan/2024 07:42:23] "[33mGET / HTTP/1.1[0m" 404 -
-2024-01-22 08:54:57,781 - werkzeug - ERROR - 74.82.47.5 - - [22/Jan/2024 08:54:57] code 400, message Bad request version ('À\x14À')
-2024-01-22 08:54:57,782 - werkzeug - INFO - 74.82.47.5 - - [22/Jan/2024 08:54:57] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ä§ê\x0c\x94L\x83 ?M­t\x1c\x15Ò®Îír>>ÊþKÔå¤P:Eë`\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-01-22 09:07:10,872 - my_app.toptastic_api - INFO - Getting songs for date 20240119.
-2024-01-22 09:07:10,894 - my_app.toptastic_api - INFO - Playlist for date 20240119 containing 100 records retrieved from the db.
-2024-01-22 09:07:10,896 - werkzeug - INFO - 192.168.1.184 - - [22/Jan/2024 09:07:10] "GET /api/songs/20240119 HTTP/1.1" 200 -
-2024-01-22 09:07:23,165 - my_app.toptastic_api - INFO - Creating playlist with title: UK Singles Chart - Friday, January 19, 2024, description: "Created by Toptastic on Friday, January 19, 2024", with 100 tracks.
-2024-01-22 09:07:23,512 - werkzeug - INFO - 192.168.1.184 - - [22/Jan/2024 09:07:23] "[35m[1mPOST /api/create_playlist HTTP/1.1[0m" 500 -
+2024-01-22 17:53:19,555 - root - INFO - Starting server...
+2024-01-22 17:53:19,555 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-22 17:53:19,557 - werkzeug - WARNING -  * Debugger is active!
+2024-01-22 17:53:19,563 - werkzeug - INFO -  * Debugger PIN: 515-065-226
