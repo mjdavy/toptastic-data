@@ -9,6 +9,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 import os
 import sqlite3
 from google.auth.transport.requests import Request
+from pytube import YouTube
+
 
 from my_app.toptastic_api import get_db_connection
 
@@ -170,3 +172,18 @@ def update_video_ids():
     logger.info(f'{remaining} videos remaining.')
     conn.close()
 
+def download_video(video_id, folder, filename):
+    
+    youtube = YouTube(f'https://www.youtube.com/watch?v={video_id}')
+
+    # Get stream
+    video = youtube.streams.get_highest_resolution()
+    
+    full_path = os.path.join(folder, filename)
+    if os.path.exists(full_path):
+        raise FileExistsError()
+    else:
+        logger.info(f'Downloading video to {full_path}.')
+        out_video_filepath = video.download(output_path=folder, filename=filename)
+        logger.info(f'Video downloaded to {out_video_filepath}.')
+    
