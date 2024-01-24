@@ -1,4 +1,17 @@
-2024-01-22 17:53:19,555 - root - INFO - Starting server...
-2024-01-22 17:53:19,555 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-01-22 17:53:19,557 - werkzeug - WARNING -  * Debugger is active!
-2024-01-22 17:53:19,563 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-01-23 11:04:33,041 - root - INFO - Starting server...
+2024-01-23 11:04:33,041 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-23 11:04:33,042 - werkzeug - WARNING -  * Debugger is active!
+2024-01-23 11:04:33,049 - werkzeug - INFO -  * Debugger PIN: 111-996-517
+2024-01-23 13:47:47,678 - werkzeug - ERROR - 195.3.221.178 - - [23/Jan/2024 13:47:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2024-01-23 13:47:47,678 - werkzeug - INFO - 195.3.221.178 - - [23/Jan/2024 13:47:47] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2024-01-23 16:07:15,658 - werkzeug - INFO - 185.233.19.182 - - [23/Jan/2024 16:07:15] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-23 17:16:56,304 - werkzeug - INFO - 198.235.24.201 - - [23/Jan/2024 17:16:56] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-23 22:41:09,611 - werkzeug - ERROR - 87.236.176.76 - - [23/Jan/2024 22:41:09] code 400, message Bad request syntax ('\x16\x03\x01\x01')
+2024-01-23 22:41:09,612 - werkzeug - INFO - 87.236.176.76 - - [23/Jan/2024 22:41:09] "[31m[1m\x16\x03\x01\x01[0m" 400 -
+2024-01-23 22:41:24,973 - werkzeug - INFO - 87.236.176.105 - - [23/Jan/2024 22:41:24] "[33mGET / HTTP/1.1[0m" 404 -
+2024-01-24 00:48:18,246 - werkzeug - ERROR - 64.62.197.92 - - [24/Jan/2024 00:48:18] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x7fC¡[ZÑ[\x01µìcìÿ]8\x90\x01×~')
+2024-01-24 00:48:18,248 - werkzeug - INFO - 64.62.197.92 - - [24/Jan/2024 00:48:18] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x7fC¡[ZÑ[\x01µìcìÿ]8\x90\x01×~ EAø[0m" 400 -
+2024-01-24 04:21:08,325 - werkzeug - ERROR - 205.210.31.169 - - [24/Jan/2024 04:21:08] code 400, message Bad request version ('À\x13À')
+2024-01-24 04:21:08,325 - werkzeug - INFO - 205.210.31.169 - - [24/Jan/2024 04:21:08] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03¾kU£\x93?;\x19Z_í½h\x0eÍ4ÿ]\x18h\x8aARX_\x9c2Cb\x80²¬ MÆc\x7f'±2·\x97¹®\x82\x02Z8'\x0eÖE§ò\x1a?è´¦\x01i\x1d\x18\x96t\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-01-24 04:21:08,635 - werkzeug - ERROR - 205.210.31.169 - - [24/Jan/2024 04:21:08] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03v\x01\x8eõË\x8c\x8fæ\x0f\x14ê®\x88ÄxÌµ\x9f\x08;¶\x7fq£wî°\x1bÞñÓQ\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À")
+2024-01-24 04:21:08,635 - werkzeug - INFO - 205.210.31.169 - - [24/Jan/2024 04:21:08] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03v\x01\x8eõË\x8c\x8fæ\x0f\x14ê®\x88ÄxÌµ\x9f\x08;¶\x7fq£wî°\x1bÞñÓQ\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
