@@ -148,7 +148,7 @@ def get_youtube_video_id(query):
 # Update video IDs for songs that don't have them
 def update_video_ids():
     conn = get_db_connection()
-    songs = conn.execute('SELECT * FROM songs WHERE video_id IS NULL OR video_id = ""').fetchall()
+    songs = conn.execute('SELECT * FROM songs WHERE video_id IS NULL').fetchall()
 
     logger.info(f'Updating video IDs for {len(songs)} songs.')
 
@@ -162,13 +162,17 @@ def update_video_ids():
                 conn.commit()  # commit after each update
                 song['video_id'] = video_id
                 update_count += 1
+            else :
+                logger.info(f'No video ID found for song {song["song_name"]} by {song["artist"]}.')
+                conn.execute('UPDATE songs SET video_id = ? WHERE id = ?', ('', song['id'])) # Set video ID to empty string
+
         except QuotaExceededError:
             break
         except Exception as e:
             logging.error(f'Error updating video ID for song {song["song_name"]} by {song["artist"]}: {e}')
             
     logger.info(f'{update_count} Video IDs updated successfully.')
-    remaining = conn.execute('SELECT count(*) FROM songs WHERE video_id IS NULL OR video_id = ""').fetchone()[0]
+    remaining = conn.execute('SELECT count(*) FROM songs WHERE video_id IS NULL').fetchone()[0]
     logger.info(f'{remaining} videos remaining.')
     conn.close()
 

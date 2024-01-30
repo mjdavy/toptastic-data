@@ -1,0 +1,4 @@
+2024-01-30 08:44:48,262 - root - INFO - Starting server...
+2024-01-30 08:44:48,262 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-01-30 08:44:48,263 - werkzeug - WARNING -  * Debugger is active!
+2024-01-30 08:44:48,268 - werkzeug - INFO -  * Debugger PIN: 111-996-517

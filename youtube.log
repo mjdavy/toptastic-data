@@ -1,28 +1,53 @@
-2024-01-30 07:00:00,849 - my_app.youtube - INFO - Updating video IDs for 25 songs.
-2024-01-30 07:00:00,849 - my_app.youtube - INFO - Getting video id for SELF-OBSESSED DA BEATFREAKZ FT K&K/DBE/DENO from YouTube.
-2024-01-30 07:00:01,353 - my_app.youtube - INFO - Getting video id for CADEN'S SONG (MY FIRST CHRISTMAS) DAVID BEGGAN & UNION STATE from YouTube.
-2024-01-30 07:00:01,863 - my_app.youtube - INFO - Getting video id for THE MOTET - UBI CARITAS WESTMINSTER ABBEY CH/O'DONNELL from YouTube.
-2024-01-30 07:00:02,345 - my_app.youtube - INFO - Getting video id for GRENADE (BRUNO MARS TRIBUTE) TRACKSTARZ from YouTube.
-2024-01-30 07:00:02,785 - my_app.youtube - INFO - Getting video id for DANCE GOLEO VI PTS LUMIDEE/FATMAN from YouTube.
-2024-01-30 07:00:03,294 - my_app.youtube - INFO - Getting video id for TITANIUM/CAN'T DO NOTHING 10,000 THINGS from YouTube.
-2024-01-30 07:00:03,704 - my_app.youtube - INFO - Getting video id for SOOPA HOOPZ SOOPA HOOPZ FT QPR MASSIVE from YouTube.
-2024-01-30 07:00:04,023 - my_app.youtube - INFO - Getting video id for I'M THE MAIN MAN JASON NEVINS PTS FUNK ROCKER from YouTube.
-2024-01-30 07:00:04,412 - my_app.youtube - INFO - Getting video id for BAMBAKITA/FASSY HOLE RONI SIZE from YouTube.
-2024-01-30 07:00:04,783 - my_app.youtube - INFO - Getting video id for IF I CAN'T/THEM THANGS 50 CENT & G UNIT from YouTube.
-2024-01-30 07:00:05,210 - my_app.youtube - INFO - Getting video id for DAQUARAIEZZ HEPBA from YouTube.
-2024-01-30 07:00:05,526 - my_app.youtube - INFO - Getting video id for FRANTIC RESIDENTS EP 2 JAMES LAWSON PTS from YouTube.
-2024-01-30 07:00:05,887 - my_app.youtube - INFO - Getting video id for CIRCUS/ULTIMATE KRUST & DIE PTS I KAMANCHI from YouTube.
-2024-01-30 07:00:06,335 - my_app.youtube - INFO - Getting video id for STEREO SUSHI - FUTOMAKI SAMPLER VARIOUS ARTISTS from YouTube.
-2024-01-30 07:00:06,779 - my_app.youtube - INFO - Getting video id for METROPOLIS OLIVER LIEB PTS SMOKED from YouTube.
-2024-01-30 07:00:07,190 - my_app.youtube - INFO - Getting video id for CHIRPY CHIRPY CHEEP CHEEP/JAGGED END MICHAEL COURTNEY from YouTube.
-2024-01-30 07:00:07,596 - my_app.youtube - INFO - Getting video id for WHADDA WE LIKE ROUND SOUND PTS ONYX STONE from YouTube.
-2024-01-30 07:00:07,937 - my_app.youtube - INFO - Getting video id for THE YIN THE YAN THE YOUNG PETE WARDMAN/PLASTIC GANGSTERS from YouTube.
-2024-01-30 07:00:08,368 - my_app.youtube - INFO - Getting video id for DAILY SPECIAL EP MOCALACHO from YouTube.
-2024-01-30 07:00:08,687 - my_app.youtube - INFO - Getting video id for WHOOMP THERE IT IS BM DUBS PTS MR RUMBLE from YouTube.
-2024-01-30 07:00:09,021 - my_app.youtube - INFO - Getting video id for IT'S A GOOD LIFE CEVIN FISHER FT RAMANO KELLER from YouTube.
-2024-01-30 07:00:09,439 - my_app.youtube - INFO - Getting video id for COMING AROUND TRAVIS from YouTube.
-2024-01-30 07:00:09,786 - my_app.youtube - INFO - Getting video id for PROVIDER/OUTPOST ERNST & BENN from YouTube.
-2024-01-30 07:00:10,260 - my_app.youtube - INFO - Getting video id for TAKE ME HOME (WOMBLE 'TIL I DIE) EVERSTRONG from YouTube.
-2024-01-30 07:00:10,650 - my_app.youtube - INFO - Getting video id for FIELDS OF ATHENERYE COX CREW from YouTube.
-2024-01-30 07:00:11,079 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-01-30 07:00:11,084 - my_app.youtube - INFO - 25 videos remaining.
+2024-01-30 08:56:52,961 - my_app.youtube - INFO - Updating video IDs for 24 songs.
+2024-01-30 08:56:52,961 - my_app.youtube - INFO - Getting video id for SELF-OBSESSED DA BEATFREAKZ FT K&K/DBE/DENO from YouTube.
+2024-01-30 08:56:53,153 - root - INFO - Quota exceeded for API key AIzaSyBdzB6pqMGoJ8B3tAi0AEBAVdKN6US1wrk. Switching to API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA.
+2024-01-30 08:56:53,158 - my_app.youtube - INFO - No video ID found for song SELF-OBSESSED by DA BEATFREAKZ FT K&K/DBE/DENO.
+2024-01-30 08:56:53,159 - my_app.youtube - INFO - Getting video id for CADEN'S SONG (MY FIRST CHRISTMAS) DAVID BEGGAN & UNION STATE from YouTube.
+2024-01-30 08:56:53,330 - root - INFO - Quota exceeded for API key AIzaSyAcxWdZoXMRB_MRHfT_yAZOrfbGVTmnQIA. Switching to API key AIzaSyD7L5qo8jDcS7W6K3WSqd5UDFJpv_qNSyw.
+2024-01-30 08:56:53,337 - my_app.youtube - INFO - No video ID found for song CADEN'S SONG (MY FIRST CHRISTMAS) by DAVID BEGGAN & UNION STATE.
+2024-01-30 08:56:53,337 - my_app.youtube - INFO - Getting video id for THE MOTET - UBI CARITAS WESTMINSTER ABBEY CH/O'DONNELL from YouTube.
+2024-01-30 08:56:53,780 - my_app.youtube - INFO - No video ID found for song THE MOTET - UBI CARITAS by WESTMINSTER ABBEY CH/O'DONNELL.
+2024-01-30 08:56:53,781 - my_app.youtube - INFO - Getting video id for GRENADE (BRUNO MARS TRIBUTE) TRACKSTARZ from YouTube.
+2024-01-30 08:56:54,192 - my_app.youtube - INFO - No video ID found for song GRENADE (BRUNO MARS TRIBUTE) by TRACKSTARZ.
+2024-01-30 08:56:54,193 - my_app.youtube - INFO - Getting video id for DANCE GOLEO VI PTS LUMIDEE/FATMAN from YouTube.
+2024-01-30 08:56:54,530 - my_app.youtube - INFO - No video ID found for song DANCE by GOLEO VI PTS LUMIDEE/FATMAN.
+2024-01-30 08:56:54,531 - my_app.youtube - INFO - Getting video id for TITANIUM/CAN'T DO NOTHING 10,000 THINGS from YouTube.
+2024-01-30 08:56:54,907 - my_app.youtube - INFO - No video ID found for song TITANIUM/CAN'T DO NOTHING by 10,000 THINGS.
+2024-01-30 08:56:54,907 - my_app.youtube - INFO - Getting video id for SOOPA HOOPZ SOOPA HOOPZ FT QPR MASSIVE from YouTube.
+2024-01-30 08:56:55,307 - my_app.youtube - INFO - No video ID found for song SOOPA HOOPZ by SOOPA HOOPZ FT QPR MASSIVE.
+2024-01-30 08:56:55,308 - my_app.youtube - INFO - Getting video id for I'M THE MAIN MAN JASON NEVINS PTS FUNK ROCKER from YouTube.
+2024-01-30 08:56:55,730 - my_app.youtube - INFO - No video ID found for song I'M THE MAIN MAN by JASON NEVINS PTS FUNK ROCKER.
+2024-01-30 08:56:55,730 - my_app.youtube - INFO - Getting video id for BAMBAKITA/FASSY HOLE RONI SIZE from YouTube.
+2024-01-30 08:56:56,018 - my_app.youtube - INFO - No video ID found for song BAMBAKITA/FASSY HOLE by RONI SIZE.
+2024-01-30 08:56:56,018 - my_app.youtube - INFO - Getting video id for IF I CAN'T/THEM THANGS 50 CENT & G UNIT from YouTube.
+2024-01-30 08:56:56,342 - my_app.youtube - INFO - No video ID found for song IF I CAN'T/THEM THANGS by 50 CENT & G UNIT.
+2024-01-30 08:56:56,342 - my_app.youtube - INFO - Getting video id for DAQUARAIEZZ HEPBA from YouTube.
+2024-01-30 08:56:56,664 - my_app.youtube - INFO - No video ID found for song DAQUARAIEZZ by HEPBA.
+2024-01-30 08:56:56,664 - my_app.youtube - INFO - Getting video id for FRANTIC RESIDENTS EP 2 JAMES LAWSON PTS from YouTube.
+2024-01-30 08:56:57,001 - my_app.youtube - INFO - No video ID found for song FRANTIC RESIDENTS EP 2 by JAMES LAWSON PTS.
+2024-01-30 08:56:57,001 - my_app.youtube - INFO - Getting video id for CIRCUS/ULTIMATE KRUST & DIE PTS I KAMANCHI from YouTube.
+2024-01-30 08:56:57,341 - my_app.youtube - INFO - No video ID found for song CIRCUS/ULTIMATE by KRUST & DIE PTS I KAMANCHI.
+2024-01-30 08:56:57,341 - my_app.youtube - INFO - Getting video id for STEREO SUSHI - FUTOMAKI SAMPLER VARIOUS ARTISTS from YouTube.
+2024-01-30 08:56:57,669 - my_app.youtube - INFO - No video ID found for song STEREO SUSHI - FUTOMAKI SAMPLER by VARIOUS ARTISTS.
+2024-01-30 08:56:57,669 - my_app.youtube - INFO - Getting video id for METROPOLIS OLIVER LIEB PTS SMOKED from YouTube.
+2024-01-30 08:56:58,008 - my_app.youtube - INFO - No video ID found for song METROPOLIS by OLIVER LIEB PTS SMOKED.
+2024-01-30 08:56:58,009 - my_app.youtube - INFO - Getting video id for CHIRPY CHIRPY CHEEP CHEEP/JAGGED END MICHAEL COURTNEY from YouTube.
+2024-01-30 08:56:58,305 - my_app.youtube - INFO - No video ID found for song CHIRPY CHIRPY CHEEP CHEEP/JAGGED END by MICHAEL COURTNEY.
+2024-01-30 08:56:58,305 - my_app.youtube - INFO - Getting video id for WHADDA WE LIKE ROUND SOUND PTS ONYX STONE from YouTube.
+2024-01-30 08:56:58,624 - my_app.youtube - INFO - No video ID found for song WHADDA WE LIKE by ROUND SOUND PTS ONYX STONE.
+2024-01-30 08:56:58,625 - my_app.youtube - INFO - Getting video id for THE YIN THE YAN THE YOUNG PETE WARDMAN/PLASTIC GANGSTERS from YouTube.
+2024-01-30 08:56:58,947 - my_app.youtube - INFO - No video ID found for song THE YIN THE YAN THE YOUNG by PETE WARDMAN/PLASTIC GANGSTERS.
+2024-01-30 08:56:58,947 - my_app.youtube - INFO - Getting video id for DAILY SPECIAL EP MOCALACHO from YouTube.
+2024-01-30 08:56:59,240 - my_app.youtube - INFO - No video ID found for song DAILY SPECIAL EP by MOCALACHO.
+2024-01-30 08:56:59,240 - my_app.youtube - INFO - Getting video id for WHOOMP THERE IT IS BM DUBS PTS MR RUMBLE from YouTube.
+2024-01-30 08:56:59,607 - my_app.youtube - INFO - No video ID found for song WHOOMP THERE IT IS by BM DUBS PTS MR RUMBLE.
+2024-01-30 08:56:59,607 - my_app.youtube - INFO - Getting video id for IT'S A GOOD LIFE CEVIN FISHER FT RAMANO KELLER from YouTube.
+2024-01-30 08:57:00,028 - my_app.youtube - INFO - No video ID found for song IT'S A GOOD LIFE by CEVIN FISHER FT RAMANO KELLER.
+2024-01-30 08:57:00,028 - my_app.youtube - INFO - Getting video id for COMING AROUND TRAVIS from YouTube.
+2024-01-30 08:57:00,353 - my_app.youtube - INFO - No video ID found for song COMING AROUND by TRAVIS.
+2024-01-30 08:57:00,353 - my_app.youtube - INFO - Getting video id for PROVIDER/OUTPOST ERNST & BENN from YouTube.
+2024-01-30 08:57:00,747 - my_app.youtube - INFO - No video ID found for song PROVIDER/OUTPOST by ERNST & BENN.
+2024-01-30 08:57:00,747 - my_app.youtube - INFO - Getting video id for FIELDS OF ATHENERYE COX CREW from YouTube.
+2024-01-30 08:57:01,088 - my_app.youtube - INFO - No video ID found for song FIELDS OF ATHENERYE by COX CREW.
+2024-01-30 08:57:01,089 - my_app.youtube - INFO - 0 Video IDs updated successfully.
+2024-01-30 08:57:01,092 - my_app.youtube - INFO - 0 videos remaining.
