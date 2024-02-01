@@ -164,7 +164,8 @@ def update_video_ids():
                 update_count += 1
             else :
                 logger.info(f'No video ID found for song {song["song_name"]} by {song["artist"]}.')
-                conn.execute('UPDATE songs SET video_id = ? WHERE id = ?', ('', song['id'])) # Set video ID to empty string
+                conn.execute('UPDATE songs SET video_id = ? WHERE id = ?', (str(''), song['id'])) # Set video ID to empty string
+                conn.commit() 
 
         except QuotaExceededError:
             break
