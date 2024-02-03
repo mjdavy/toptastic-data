@@ -1,3 +1,13 @@
-2024-02-01 10:12:16,338 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2024-02-01 10:12:16,338 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-02-01 10:12:16,338 - my_app.youtube - INFO - 0 videos remaining.
+2024-02-03 07:00:01,023 - my_app.youtube - INFO - Updating video IDs for 10 songs.
+2024-02-03 07:00:01,023 - my_app.youtube - INFO - Getting video id for HISS MEGAN THEE STALLION from YouTube.
+2024-02-03 07:00:01,641 - my_app.youtube - INFO - Getting video id for GAS ME UP (DILIGENT) SKEPTA from YouTube.
+2024-02-03 07:00:02,189 - my_app.youtube - INFO - Getting video id for SELFISH JUSTIN TIMBERLAKE from YouTube.
+2024-02-03 07:00:02,688 - my_app.youtube - INFO - Getting video id for GREY YUNG FILLY from YouTube.
+2024-02-03 07:00:03,186 - my_app.youtube - INFO - Getting video id for BIG FOOT NICKI MINAJ from YouTube.
+2024-02-03 07:00:03,747 - my_app.youtube - INFO - Getting video id for THINK U THE SH*T (FART) ICE SPICE from YouTube.
+2024-02-03 07:00:04,258 - my_app.youtube - INFO - Getting video id for LOSER BABY HAFT/DAVID/ROMAN/UNDERBERG from YouTube.
+2024-02-03 07:00:04,771 - my_app.youtube - INFO - Getting video id for HOME GOOD NEIGHBOURS from YouTube.
+2024-02-03 07:00:05,282 - my_app.youtube - INFO - Getting video id for POISON ROMAN/HAFT/UNDERBERG from YouTube.
+2024-02-03 07:00:05,794 - my_app.youtube - INFO - Getting video id for HELL'S GREATEST DAD UNDERBERG/HAFT/JORDAN/TALAI from YouTube.
+2024-02-03 07:00:06,316 - my_app.youtube - INFO - 10 Video IDs updated successfully.
+2024-02-03 07:00:06,319 - my_app.youtube - INFO - 0 videos remaining.
