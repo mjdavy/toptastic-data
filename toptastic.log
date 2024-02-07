@@ -19,3 +19,33 @@
 2024-02-05 23:27:10,186 - werkzeug - INFO - 162.243.146.72 - - [05/Feb/2024 23:27:10] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03\x92·÷LüB#©$Y\x1c\x994ï\x93n«-\x13D\x87M\x16=sj¾H^i.r\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
 2024-02-06 06:47:35,067 - werkzeug - ERROR - 54.86.247.243 - - [06/Feb/2024 06:47:35] code 400, message Bad request version ('À\x13À')
 2024-02-06 06:47:35,068 - werkzeug - INFO - 54.86.247.243 - - [06/Feb/2024 06:47:35] "[31m[1m\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03ö\x12§O`v¬¿\x96v~!ôQ6\x11ÞôxÍ\x10\x13?â:pÉìR\x04­â @*DgôP¤oif_Ù)\x8e\x85M%ø#Ét{H>D%NõäáÖG\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-02-06 07:50:59,875 - werkzeug - ERROR - 80.82.77.33 - - [06/Feb/2024 07:50:59] code 400, message Bad request version ('\x92§°\x00\x00rÀ0À,À(À$À\x14À')
+2024-02-06 07:50:59,876 - werkzeug - INFO - 80.82.77.33 - - [06/Feb/2024 07:50:59] "[31m[1m\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03\x18ì\x1c§\x84#{9K«\x1bõ\x84\x9e\x91EÚ\x99\x95¤\x12]-¡*;\x0f\x0d\x1f\x92§°\x00\x00rÀ0À,À(À$À\x14À[0m" 400 -
+2024-02-06 07:51:03,240 - werkzeug - INFO - 80.82.77.33 - - [06/Feb/2024 07:51:03] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-06 09:58:22,333 - werkzeug - ERROR - 87.236.176.136 - - [06/Feb/2024 09:58:22] code 400, message Bad request syntax ('\x16\x03\x01\x01')
+2024-02-06 09:58:22,334 - werkzeug - INFO - 87.236.176.136 - - [06/Feb/2024 09:58:22] "[31m[1m\x16\x03\x01\x01[0m" 400 -
+2024-02-06 09:58:37,694 - werkzeug - INFO - 87.236.176.129 - - [06/Feb/2024 09:58:37] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-06 12:01:07,237 - my_app.toptastic_api - INFO - Getting songs for date 20240126.
+2024-02-06 12:01:07,265 - my_app.toptastic_api - INFO - Playlist for date 20240126 containing 100 records retrieved from the db.
+2024-02-06 12:01:07,267 - werkzeug - INFO - 192.168.1.184 - - [06/Feb/2024 12:01:07] "GET /api/songs/20240126 HTTP/1.1" 200 -
+2024-02-06 13:23:31,370 - werkzeug - INFO - 192.168.1.141 - - [06/Feb/2024 13:23:31] "[33mGET /status HTTP/1.1[0m" 404 -
+2024-02-06 13:28:37,734 - my_app.toptastic_api - INFO - Getting songs for date 20240202.
+2024-02-06 13:28:37,761 - my_app.toptastic_api - INFO - Playlist for date 20240202 containing 100 records retrieved from the db.
+2024-02-06 13:28:37,763 - werkzeug - INFO - 192.168.1.141 - - [06/Feb/2024 13:28:37] "GET /api/songs/20240202 HTTP/1.1" 200 -
+2024-02-06 13:29:39,410 - my_app.toptastic_api - INFO - Getting songs for date 20240202.
+2024-02-06 13:29:39,433 - my_app.toptastic_api - INFO - Playlist for date 20240202 containing 100 records retrieved from the db.
+2024-02-06 13:29:39,435 - werkzeug - INFO - 192.168.1.141 - - [06/Feb/2024 13:29:39] "GET /api/songs/20240202 HTTP/1.1" 200 -
+2024-02-06 14:47:13,875 - my_app.toptastic_api - INFO - Getting songs for date 20240202.
+2024-02-06 14:47:13,903 - my_app.toptastic_api - INFO - Playlist for date 20240202 containing 100 records retrieved from the db.
+2024-02-06 14:47:13,905 - werkzeug - INFO - 192.168.1.141 - - [06/Feb/2024 14:47:13] "GET /api/songs/20240202 HTTP/1.1" 200 -
+2024-02-06 15:00:57,428 - werkzeug - INFO - 198.235.24.239 - - [06/Feb/2024 15:00:57] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-07 00:50:48,268 - werkzeug - ERROR - 205.210.31.194 - - [07/Feb/2024 00:50:48] code 400, message Bad request version ('À\x13À')
+2024-02-07 00:50:48,269 - werkzeug - INFO - 205.210.31.194 - - [07/Feb/2024 00:50:48] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x97óMÂS=ì\x03+Ë1mþCW\x88ÆÎ--1>%¹\x96K)\x9d\x9c\x96ê\x99 \x98§ÁÙ½wß;\x0bÛ\x12*\x93³K!p\x81í:bÛ\x08ó×Õ\x9f|\x88\x93à\x03\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-02-07 00:50:48,592 - werkzeug - ERROR - 205.210.31.194 - - [07/Feb/2024 00:50:48] code 400, message Bad request version ('À(À$À\x14À')
+2024-02-07 00:50:48,592 - werkzeug - INFO - 205.210.31.194 - - [07/Feb/2024 00:50:48] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x0c°P¨5å\x172\x82«§-\x16#û:wÂÐ\x9ep£\x1dä¢ráVù4¤Í\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
+2024-02-07 03:15:14,361 - werkzeug - INFO - 34.77.127.183 - - [07/Feb/2024 03:15:14] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-07 03:36:47,312 - werkzeug - ERROR - 207.90.244.3 - - [07/Feb/2024 03:36:47] code 400, message Bad request version ('ñô\x17éKÛ\x08}\x88I¯\x00\x00rÀ0À,À(À$À\x14À')
+2024-02-07 03:36:47,313 - werkzeug - INFO - 207.90.244.3 - - [07/Feb/2024 03:36:47] "[31m[1m\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03"ù\x1cÕ¦Ë@Ð\x8eAÐó÷,{U$¬cU ñô\x17éKÛ\x08}\x88I¯\x00\x00rÀ0À,À(À$À\x14À[0m" 400 -
+2024-02-07 03:36:50,463 - werkzeug - INFO - 207.90.244.3 - - [07/Feb/2024 03:36:50] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-07 03:59:15,140 - werkzeug - ERROR - 5.196.69.140 - - [07/Feb/2024 03:59:15] code 400, message Bad request version ("3qµZ\x7ffQ\x0fn\x88ePlÊX¯yz»-6lÈ^Uä¹±Å\x18Û\x93\x00È\x13\x01\x13\x02\x13\x03\x13\x04\x13\x05À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀS\x00§À+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀR\x00¦À$À(\x00k\x00jÀsÀw\x00Ä\x00Ã\x00m\x00ÅÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½\x00l\x00¿À")
+2024-02-07 03:59:15,142 - werkzeug - INFO - 5.196.69.140 - - [07/Feb/2024 03:59:15] "[31m[1m\x16\x03\x01\x01ª\x01\x00\x01¦\x03\x03áºnhõfÔÒÁÉY;\x04\x13Õ\x944Ù\x1a\x1eyÔ\x9fõ\x1bd[F2@\x0cM 3qµZ\x7ffQ\x0fn\x88ePlÊX¯yz»-6lÈ^Uä¹±Å\x18Û\x93\x00È\x13\x01\x13\x02\x13\x03\x13\x04\x13\x05À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À­À£À\x9fÀ]ÀaÀWÀS\x00§À+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀR\x00¦À$À(\x00k\x00jÀsÀw\x00Ä\x00Ã\x00m\x00ÅÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½\x00l\x00¿À[0m" 400 -
