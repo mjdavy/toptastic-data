@@ -1,4 +1,27 @@
-2024-02-07 15:37:24,092 - root - INFO - Starting server...
-2024-02-07 15:37:24,092 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-02-07 15:37:24,093 - werkzeug - WARNING -  * Debugger is active!
-2024-02-07 15:37:24,101 - werkzeug - INFO -  * Debugger PIN: 111-996-517
+2024-03-01 10:07:50,325 - root - INFO - Starting server...
+2024-03-01 10:07:50,325 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-03-01 10:07:50,327 - werkzeug - WARNING -  * Debugger is active!
+2024-03-01 10:07:50,330 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-03-01 10:09:00,950 - werkzeug - ERROR - 192.168.1.141 - - [01/Mar/2024 10:09:00] code 400, message Bad request version ('JÎíñ²n+d(k\x05ÔJ\x9aP\x93ÞëÆ~\x8d©YWDi\x00\x05\x00\x03\x02h2\x00')
+2024-03-01 10:09:00,950 - werkzeug - ERROR - 192.168.1.141 - - [01/Mar/2024 10:09:00] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2024-03-01 10:09:00,951 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:09:00] "[31m[1m\x16\x03\x01\x02O\x01\x00\x02K\x03\x03õ/mp\x09á\x0dþÐÂ@Úv@ÇÁJAá'\x13t\x7f\x91Ë?ÿE\x86y\x0dr °á\x1e\x8c×§\x95k`\x16óì÷j\x8e¡3=@\x03\x10£ævÆÁ³Ël\x18\x92_\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01âÚÚ\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00+\x00\x07\x06jj\x03\x04\x03\x03\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0b\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00ÿ\x01\x00\x01\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01\x19\x00 Í°\x83úÌá\x89\x95\x95\x01%\x09H\x09Äß-à«\x14\x84/f~?e\x1cçÇä${\x00ð\x0caXù\x06ÿ.Âí«?\x9d\x18\x12[§Ó\x06\x9ek\x14\x0ddÊsã.ë{\x9e¿ú\x1då3`ncÌ«`wÛ\x11$òW_|"\x98\x07¢\x95&ze\x00¯¸\x0fY<øÁõ¼\x81?çDÁñÑÝÖ\x05þ\x0bð\x80FæsYÑ·ù\x96µÄ\x02`îlÉ\x99Z8;ë\x9fÅMt+\x91\x08\x13BÓ]a³\x0e%ÁZE\x19­¡ù\x85üP!cÅÉ\x89q:h\x9bø\x176üÕÆÑ\x9cÑ¤xRsôN\x8dT¬Í6\x82c;V\x94\x88½\x9eâ\x9bP)\x80È\x04c¿¸­{ô> À\x9b¸_mk×,À\x9c\x89è®ñ¦8r\x84ð\x18\x84v\x11\x03}ø\x07\x16\x1fâÔ\x00ð`E\x1e±\x1cJÎíñ²n+d(k\x05ÔJ\x9aP\x93ÞëÆ~\x8d©YWDi\x00\x05\x00\x03\x02h2\x00[0m" 400 -
+2024-03-01 10:09:00,951 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:09:00] "[31m[1m\x16\x03\x01\x02O\x01\x00\x02K\x03\x03_26õí*_ÌÓ\x86\x87q\x11m­ê^¦\x81Ô>§YÚÊoÕÎ\x80Ïmf ß üh½ÛæÆM\x15\x81è»8Ç¸Û \x93\x00³^æ¹3­!\x9bÙ \x18ú\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01âÚÚ\x00\x00\x00-\x00\x02\x01\x01\x00#\x00\x00\x00\x0b\x00\x02\x01\x00\x00[0m" 400 -
+2024-03-01 10:09:00,969 - werkzeug - ERROR - 192.168.1.141 - - [01/Mar/2024 10:09:00] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02\x00')
+2024-03-01 10:09:00,970 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:09:00] "[31m[1m\x16\x03\x01\x02O\x01\x00\x02K\x03\x030dF\x8bÃÕ#\x86\x9fîiuæ\x99m\x18A5@Ô¯£c#5HÀú\x16&$å T~r¥-\x84\x15Jî«ap¨þ\x19\x95¼ý¡S¼()°\x9aÏ\x19}ùð\x060\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01âÊÊ\x00\x00\x00\x17\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x003\x00+\x00)::\x00\x01\x00\x00\x1d\x00 BEA\x95\x0fõÀÕ£\x15Ì£)\x9e\x95²ýrF\x8a\x83ÿ\x99\x15F\x18î\x99\x0e,ØB\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02\x00[0m" 400 -
+2024-03-01 10:09:00,970 - werkzeug - ERROR - 192.168.1.141 - - [01/Mar/2024 10:09:00] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+2024-03-01 10:09:00,971 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:09:00] "[31m[1m\x16\x03\x01\x02O\x01\x00\x02K\x03\x03nÂ¬ç¢ý\x83\x08uùl\x1eòyU\x02¤Ì*Ûs\x13\x87\x15ðÄ5eKýñ\x1e \x0fh°Z\x03v«\x95\x9dXP\x96\x90®ém¹Ñý\x9f\x08\x12\x88\x12À}.Ì»\x18\x9b¿\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01â**\x00\x00\x00\x12\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00[0m" 400 -
+2024-03-01 10:09:34,618 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:09:34] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:10:40,547 - werkzeug - INFO - 192.168.1.184 - - [01/Mar/2024 10:10:40] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:11:33,697 - werkzeug - INFO - 192.168.1.184 - - [01/Mar/2024 10:11:33] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:11:47,115 - werkzeug - INFO - 192.168.1.184 - - [01/Mar/2024 10:11:47] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:12:03,195 - werkzeug - INFO - 192.168.1.184 - - [01/Mar/2024 10:12:03] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:20:03,380 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:20:03] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:21:20,992 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:21:20] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:21:29,056 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:21:29] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:22:21,415 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
+2024-03-01 10:22:21,442 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
+2024-03-01 10:22:21,444 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:22:21] "GET /api/songs/20240223 HTTP/1.1" 200 -
+2024-03-01 10:24:10,871 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:24:10] "GET /api/status HTTP/1.1" 200 -
+2024-03-01 10:24:55,840 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
+2024-03-01 10:24:55,861 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
+2024-03-01 10:24:55,863 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 10:24:55] "GET /api/songs/20240223 HTTP/1.1" 200 -

@@ -57,6 +57,7 @@ def get_playlist_from_db(date):
     cursor = conn.cursor()
     cursor.execute('''
         SELECT 
+            s.id,
             s.song_name, 
             s.artist, 
             s.video_id,
@@ -79,6 +80,7 @@ def get_playlist_from_db(date):
     # Convert rows to list of dictionaries to match the JSON structure of scrape_songs
     playlist = [
         {
+            'id' : int(row['id']),
             'is_new': bool(row['is_new']), 
             'is_reentry': bool(row['is_reentry']),
             'song_name': row['song_name'],
@@ -249,7 +251,6 @@ def get_songs(date):
     # Check if the playlist is already in the database
     playlist = get_playlist_from_db(date)
     if playlist:
-        debug_dump_songs(playlist)
         return jsonify(playlist)
     
     logger.info(f'Playlist for date {date} not found in the db. Performing web scrape.')
