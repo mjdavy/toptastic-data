@@ -81,6 +81,7 @@ def get_playlist_from_db(date):
     playlist = [
         {
             'id' : int(row['id']),
+            'position': int(row['position']),
             'is_new': bool(row['is_new']), 
             'is_reentry': bool(row['is_reentry']),
             'song_name': row['song_name'],
@@ -246,28 +247,15 @@ def debug_dump_songs(songs):
 @app.route('/api/songs/<date>', methods=['GET'])
 def get_songs(date):
     logger.info(f'Getting songs for date {date}.')
-    executor = ThreadPoolExecutor(max_workers=5)
 
     # Check if the playlist is already in the database
     playlist = get_playlist_from_db(date)
     if playlist:
         return jsonify(playlist)
     
-    logger.info(f'Playlist for date {date} not found in the db. Performing web scrape.')
-    songs = scrape_songs(date)
+    logger.info(f'Playlist for date {date} not found in the db')
 
-    # Convert the songs to a JSON string and print it to the console
-    debug_dump_songs(songs)
-
-     # Add the playlist to the database
-    if len(songs) > 0:
-        future = executor.submit(add_playlist_to_db, date, songs)
-        try:
-            future.result()  # This will raise an exception if the callable threw one.
-        except Exception as e:
-            logger.error(f'An error occurred: {e}')
-
-    return jsonify(songs)
+    return jsonify([])
 
 # Route for the server status
 @app.route('/api/status', methods=['GET'])
