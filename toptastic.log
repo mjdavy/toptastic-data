@@ -23,3 +23,10 @@
 2024-03-05 14:55:15,714 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
 2024-03-05 14:55:15,716 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:55:15] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 14:55:49,438 - my_app.toptastic_api - INFO - Updating video ID for song CARNIVAL by KANYE WEST/TY DOLLA SIGN from d1qyMwzbZ_g to 3bwfkYOQq4U.
+2024-03-05 14:55:50,841 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:55:50] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 14:56:15,840 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:56:15] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 14:56:40,630 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:56:40] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 14:56:44,493 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 14:56:44,514 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 14:56:44,516 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:56:44] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 15:00:48,219 - my_app.toptastic_api - INFO - Updating video ID for song ALIBI by ELLA HENDERSON FT RUDIMENTAL from aaQetOuCJf8 to YvMe0qof7NM.
