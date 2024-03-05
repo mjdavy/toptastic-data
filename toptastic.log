@@ -30,3 +30,10 @@
 2024-03-05 14:56:44,514 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
 2024-03-05 14:56:44,516 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:56:44] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 15:00:48,219 - my_app.toptastic_api - INFO - Updating video ID for song ALIBI by ELLA HENDERSON FT RUDIMENTAL from aaQetOuCJf8 to YvMe0qof7NM.
+2024-03-05 15:00:49,556 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:00:49] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 15:01:24,272 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:01:24] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:02:24,515 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:02:24] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:02:27,966 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 15:02:27,987 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 15:02:27,988 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:02:27] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 15:02:51,540 - my_app.toptastic_api - INFO - Updating video ID for song SATURN by SZA from V2G8ESoDXm8 to NxVJbDcdznc.
