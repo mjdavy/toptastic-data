@@ -37,3 +37,9 @@
 2024-03-05 15:02:27,987 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
 2024-03-05 15:02:27,988 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:02:27] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 15:02:51,540 - my_app.toptastic_api - INFO - Updating video ID for song SATURN by SZA from V2G8ESoDXm8 to NxVJbDcdznc.
+2024-03-05 15:02:52,872 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:02:52] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 15:03:27,995 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:03:27] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:03:30,027 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 15:03:30,047 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 15:03:30,049 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:03:30] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 15:04:01,379 - my_app.toptastic_api - INFO - Updating video ID for song LEAVEMEALONE by FRED AGAIN & BABY KEEM from qcU5utrC2zY to rNv8K8AYGi8.
