@@ -144,6 +144,14 @@ def get_video_from_db(song_name, artist):
         'video_id': row['video_id']
     }
 
+from git import Repo
+
+def commit_changes(repo_path, commit_message):
+    repo = Repo(repo_path)
+    repo.git.add(update=True)
+    repo.index.commit(commit_message)
+    repo.git.push('origin', 'main')
+
 def update_video_in_db(song_id, video_id):
     conn = get_db_connection()
     cursor = conn.cursor()
@@ -331,6 +339,9 @@ def update_videos():
             updated += 1
         else:
             logger.info(f'Skipping video update for song {title} by {artist} because it either does not exist or is already up to date.')
+
+    if updated > 0:
+        commit_changes('/path/to/repo', 'Server Updated videos')
 
     return {
         'status': 'success',
