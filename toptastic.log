@@ -1,123 +1,13 @@
-2024-03-01 11:33:35,518 - root - INFO - Starting server...
-2024-03-01 11:33:35,518 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-03-01 11:33:35,519 - werkzeug - WARNING -  * Debugger is active!
-2024-03-01 11:33:35,526 - werkzeug - INFO -  * Debugger PIN: 515-065-226
-2024-03-01 11:34:03,297 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:03] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 11:34:06,211 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 11:34:06,237 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 11:34:06,238 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:06] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 11:34:10,114 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:10] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 11:34:14,724 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 11:34:14,745 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 11:34:14,747 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:14] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 11:34:34,434 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 11:34:34,456 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 11:34:34,458 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:34] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 11:34:37,855 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:37] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 11:34:39,897 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 11:34:39,910 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 11:34:39,911 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:39] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 11:34:44,426 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:44] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 11:34:47,605 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:47] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 11:34:49,630 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 11:34:49,652 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 11:34:49,653 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 11:34:49] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:11:19,482 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:11:19,507 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:11:19,508 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:11:19] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:11:22,762 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:11:22] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 12:11:25,282 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:11:25,304 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:11:25,306 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:11:25] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:11:32,182 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:11:32] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 12:24:06,695 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:24:06] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 12:24:11,667 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:24:11,689 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:24:11,691 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:24:11] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:31:21,892 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:31:21,913 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:31:21,914 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:31:21] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:31:42,554 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:31:42,575 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:31:42,576 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:31:42] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:31:47,038 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:31:47] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 12:31:49,386 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:31:49,408 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:31:49,409 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:31:49] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:43:05,396 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:43:05,421 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:43:05,422 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:43:05] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 12:50:45,496 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 12:50:45,518 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 12:50:45,520 - werkzeug - INFO - 192.168.1.141 - - [01/Mar/2024 12:50:45] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 13:23:24,500 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:23:24] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 13:23:30,452 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 13:23:30,480 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 13:23:30,481 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:23:30] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 13:24:25,095 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:24:25] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 13:24:27,062 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 13:24:27,084 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 13:24:27,086 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:24:27] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 13:25:24,510 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:25:24] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 13:25:27,911 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:25:27] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 13:25:49,603 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:25:49] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 13:25:51,156 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:25:51] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 13:25:53,973 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 13:25:53,997 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 13:25:53,999 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:25:53] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 13:26:05,476 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 13:26:05] "GET /api/status HTTP/1.1" 200 -
-2024-03-01 19:42:11,819 - werkzeug - INFO - 107.170.246.29 - - [01/Mar/2024 19:42:11] "[33mGET /v2/ HTTP/1.1[0m" 404 -
-2024-03-01 21:48:44,013 - my_app.toptastic_api - INFO - Getting songs for date 20240223.
-2024-03-01 21:48:44,040 - my_app.toptastic_api - INFO - Playlist for date 20240223 containing 100 records retrieved from the db.
-2024-03-01 21:48:44,042 - werkzeug - INFO - 192.168.1.1 - - [01/Mar/2024 21:48:44] "GET /api/songs/20240223 HTTP/1.1" 200 -
-2024-03-01 22:27:18,202 - werkzeug - ERROR - 198.235.24.124 - - [01/Mar/2024 22:27:18] code 400, message Bad request version ('À\x13À')
-2024-03-01 22:27:18,203 - werkzeug - INFO - 198.235.24.124 - - [01/Mar/2024 22:27:18] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x12;¬: \x0eI\x95QÜ\x07JqèÜ4!Ì\x86ÿßïô;k\x96\x033\x1c\x06ô³ ô\x81µähL\x9c\x0dW ùâW\x0e.[¼kÛ±öz\x86¢9Ê\x8dê\x0dÇ\x8c\x08\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
-2024-03-01 22:27:18,618 - werkzeug - ERROR - 198.235.24.124 - - [01/Mar/2024 22:27:18] code 400, message Bad request version ('À(À$À\x14À')
-2024-03-01 22:27:18,618 - werkzeug - INFO - 198.235.24.124 - - [01/Mar/2024 22:27:18] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03É\x08UÜé³R\x98Ù\x12?\x86\x8c\x15%Ä·¥÷ÔÙûM»=\x89\x03kÆV\x0bq\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
-2024-03-02 00:55:35,736 - werkzeug - ERROR - 41.223.30.51 - - [02/Mar/2024 00:55:35] code 400, message Bad request version ('À\x14À')
-2024-03-02 00:55:35,738 - werkzeug - INFO - 41.223.30.51 - - [02/Mar/2024 00:55:35] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03\x8e2S\x1a^J¢3U³\x97\x9fE®ïùÁr\x1e}ò¦ñà\x10Ps6e\x08\x14Ü\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-03-02 02:05:32,132 - werkzeug - INFO - 205.210.31.203 - - [02/Mar/2024 02:05:32] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-02 03:45:36,830 - werkzeug - ERROR - 216.218.206.68 - - [02/Mar/2024 03:45:36] code 400, message Bad request version ('À\x14À')
-2024-03-02 03:45:36,832 - werkzeug - INFO - 216.218.206.68 - - [02/Mar/2024 03:45:36] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¹Èy\x85\x05p\x9fÁ·»%\x1f\x88'¢PL\x16\x03\x1c\x0b\x0f®á\x91\x9at\x01\x92E3®\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-03-02 10:32:24,865 - werkzeug - INFO - 35.203.210.243 - - [02/Mar/2024 10:32:24] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-02 11:09:42,117 - werkzeug - ERROR - 80.82.77.139 - - [02/Mar/2024 11:09:42] code 400, message Bad request syntax ('\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03ç\xadÖ¢ø\x12ÌëT\x98û6k÷ÃÍpêAN³`\x91\x0f¶\x1ad¡ó5^-\x00\x00rÀ0À,À(À$À\x14À')
-2024-03-02 11:09:42,118 - werkzeug - INFO - 80.82.77.139 - - [02/Mar/2024 11:09:42] "[31m[1m\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03ç­Ö¢ø\x12ÌëT\x98û6k÷ÃÍpêAN³`\x91\x0f¶\x1ad¡ó5^-\x00\x00rÀ0À,À(À$À\x14À[0m" 400 -
-2024-03-02 11:09:48,499 - werkzeug - INFO - 80.82.77.139 - - [02/Mar/2024 11:09:48] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-02 11:29:30,278 - werkzeug - ERROR - 45.79.181.179 - - [02/Mar/2024 11:29:30] code 400, message Bad request version ('À\x14À')
-2024-03-02 11:29:30,280 - werkzeug - INFO - 45.79.181.179 - - [02/Mar/2024 11:29:30] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03w¯ã\x8c\x13P²\x975$ da\x16@o\x09*4¨\x0c\x15Öîß\x80æ\x8d\x10J+×\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
-2024-03-02 16:02:23,475 - werkzeug - INFO - 205.210.31.59 - - [02/Mar/2024 16:02:23] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-02 22:19:27,659 - werkzeug - ERROR - 74.82.47.5 - - [02/Mar/2024 22:19:27] code 400, message Bad request version ('À\x14À')
-2024-03-02 22:19:27,661 - werkzeug - INFO - 74.82.47.5 - - [02/Mar/2024 22:19:27] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03 \x1do[Á@ÿÚ\x82qî\x08í\x83Æ\x14\x0bÁ\x91\x7f,(\x89\x92ZsÜ\x091%Ä£\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-03-02 23:24:43,219 - werkzeug - ERROR - 205.210.31.217 - - [02/Mar/2024 23:24:43] code 400, message Bad request version ('À\x13À')
-2024-03-02 23:24:43,220 - werkzeug - INFO - 205.210.31.217 - - [02/Mar/2024 23:24:43] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03v\x8a4Goq\x83j1\x8a÷.\x97¸Ì@\x1eé\x1eù¶{\x96»\x08|·P\x87ÈHæ Ä¬ß4ÓûRÞ\x99\x03i\x0eç\x101ãmã½ã5\x19\x1b4¨\x84:\x19\x1b[ÑB\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
-2024-03-02 23:24:43,526 - werkzeug - ERROR - 205.210.31.217 - - [02/Mar/2024 23:24:43] code 400, message Bad request version ('À(À$À\x14À')
-2024-03-02 23:24:43,527 - werkzeug - INFO - 205.210.31.217 - - [02/Mar/2024 23:24:43] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03,Ù²Ô\x00 \x0bàØºAp w·\x06pd\x15Øu.ýt\x9eHÆ°­n\x03£\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
-2024-03-03 01:07:59,607 - werkzeug - INFO - 45.79.163.53 - - [03/Mar/2024 01:07:59] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 01:08:09,848 - werkzeug - INFO - 172.105.128.12 - - [03/Mar/2024 01:08:09] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 01:54:52,668 - werkzeug - INFO - 69.164.217.245 - - [03/Mar/2024 01:54:52] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 01:55:03,354 - werkzeug - INFO - 45.79.172.21 - - [03/Mar/2024 01:55:03] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 03:31:21,932 - werkzeug - ERROR - 207.90.244.6 - - [03/Mar/2024 03:31:21] code 400, message Bad request syntax ('\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03²\x7f9\x00\x04\x05¥Ä\x16Fy5\x8dõm\x97>uz\x87\x08Ïp*Æ=Á\x99\x10Õd\x82\x00\x00rÀ0À,À(À$À\x14À')
-2024-03-03 03:31:21,934 - werkzeug - INFO - 207.90.244.6 - - [03/Mar/2024 03:31:21] "[31m[1m\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03²\x7f9\x00\x04\x05¥Ä\x16Fy5\x8dõm\x97>uz\x87\x08Ïp*Æ=Á\x99\x10Õd\x82\x00\x00rÀ0À,À(À$À\x14À[0m" 400 -
-2024-03-03 03:31:25,133 - werkzeug - INFO - 207.90.244.6 - - [03/Mar/2024 03:31:25] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 04:21:34,088 - werkzeug - INFO - 35.190.199.12 - - [03/Mar/2024 04:21:34] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 08:15:09,714 - werkzeug - ERROR - 41.223.30.51 - - [03/Mar/2024 08:15:09] code 400, message Bad request syntax ('\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03¥·\x930½ÝÌù"')
-2024-03-03 08:15:09,716 - werkzeug - INFO - 41.223.30.51 - - [03/Mar/2024 08:15:09] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03¥·\x930½ÝÌù"[0m" 400 -
-2024-03-03 16:24:17,073 - werkzeug - ERROR - 198.235.24.223 - - [03/Mar/2024 16:24:17] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03^\x99HY¬K7\x17ü*\x18ÉG¿\x84\x90ÑØ\x80°\x13ú¥Æ¼ª\x95jÉsQ\x16')
-2024-03-03 16:24:17,075 - werkzeug - INFO - 198.235.24.223 - - [03/Mar/2024 16:24:17] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03^\x99HY¬K7\x17ü*\x18ÉG¿\x84\x90ÑØ\x80°\x13ú¥Æ¼ª\x95jÉsQ\x16 ª^[0m" 400 -
-2024-03-03 16:24:17,294 - werkzeug - ERROR - 198.235.24.223 - - [03/Mar/2024 16:24:17] code 400, message Bad request version ('À(À$À\x14À')
-2024-03-03 16:24:17,295 - werkzeug - INFO - 198.235.24.223 - - [03/Mar/2024 16:24:17] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Ph/=Ð²¼\x80tM»\x0cºçë¶ªô\x05o\x801@,1R\x12àQe\x06n\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
-2024-03-03 16:30:55,520 - werkzeug - INFO - 185.233.19.180 - - [03/Mar/2024 16:30:55] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 16:35:35,323 - werkzeug - INFO - 185.233.19.233 - - [03/Mar/2024 16:35:35] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 16:35:35,998 - werkzeug - INFO - 185.233.19.233 - - [03/Mar/2024 16:35:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2024-03-03 21:39:16,404 - werkzeug - INFO - 154.36.187.52 - - [03/Mar/2024 21:39:16] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-03 21:39:17,121 - werkzeug - INFO - 154.36.187.52 - - [03/Mar/2024 21:39:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2024-03-03 22:18:13,323 - werkzeug - ERROR - 45.221.50.243 - - [03/Mar/2024 22:18:13] code 400, message Bad request version ('À\x14À')
-2024-03-03 22:18:13,325 - werkzeug - INFO - 45.221.50.243 - - [03/Mar/2024 22:18:13] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03²ÂU\x97¢z\x14\x09×Úµ\x94^àKZbt}´\x06\x1cï\x9f\x9bÀû½w¦½ï\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-03-03 22:49:57,644 - werkzeug - ERROR - 192.241.219.29 - - [03/Mar/2024 22:49:57] code 400, message Bad request version ('À\x14À')
-2024-03-03 22:49:57,645 - werkzeug - INFO - 192.241.219.29 - - [03/Mar/2024 22:49:57] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03g2\x1b¼)\x0b\x08ñ?\x93Ð\x99~â\x1bÐ_gî\x9aÌ¥XØ\x1a\x97\x05¤s\x9c,\x99\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-03-04 00:33:34,603 - werkzeug - INFO - 198.235.24.232 - - [04/Mar/2024 00:33:34] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-04 02:58:22,415 - werkzeug - INFO - 34.78.249.41 - - [04/Mar/2024 02:58:22] "[33mGET / HTTP/1.1[0m" 404 -
-2024-03-04 04:02:22,246 - werkzeug - ERROR - 107.170.228.41 - - [04/Mar/2024 04:02:22] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03ï²Ý(®é\x15×pe=dzèyÏfnp3«Çr\x18|ô\x9aÉdÿ>®\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
-2024-03-04 04:02:22,248 - werkzeug - INFO - 107.170.228.41 - - [04/Mar/2024 04:02:22] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03ï²Ý(®é\x15×pe=dzèyÏfnp3«Çr\x18|ô\x9aÉdÿ>®\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
-2024-03-04 06:39:26,878 - werkzeug - ERROR - 65.49.1.20 - - [04/Mar/2024 06:39:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03b½Øx\x90\x9cã»')
-2024-03-04 06:39:26,880 - werkzeug - INFO - 65.49.1.20 - - [04/Mar/2024 06:39:26] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03b½Øx\x90\x9cã»\x092ÑÍ\x02½\x9c¹Õ3^\x89´\x04[0m" 400 -
+2024-03-04 16:09:46,110 - root - INFO - Starting server...
+2024-03-04 16:09:46,110 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-03-04 16:09:46,112 - werkzeug - WARNING -  * Debugger is active!
+2024-03-04 16:09:46,118 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-03-04 19:04:39,791 - werkzeug - ERROR - 65.49.1.104 - - [04/Mar/2024 19:04:39] code 400, message Bad request version ('À\x14À')
+2024-03-04 19:04:39,792 - werkzeug - INFO - 65.49.1.104 - - [04/Mar/2024 19:04:39] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x7fÕC=&\x9eï\x0cJ#\x85\x9d\x82\x89I\x1eéa>Ú$\x05ûÀ+_\x1c¨Ö£\x05±\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-03-04 20:50:11,664 - werkzeug - ERROR - 198.199.100.7 - - [04/Mar/2024 20:50:11] code 400, message Bad request version ('À\x14À')
+2024-03-04 20:50:11,666 - werkzeug - INFO - 198.199.100.7 - - [04/Mar/2024 20:50:11] "[31m[1m\x16\x03\x01\x00\x8b\x01\x00\x00\x87\x03\x03\x9dg\x7fÇ<{5¬\x1a\x1e\x87ãÏf\x888¶Û\x07B±Úîéâ?ê¢\x1f4E®\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+2024-03-04 21:32:05,718 - werkzeug - INFO - 198.235.24.110 - - [04/Mar/2024 21:32:05] "[33mGET / HTTP/1.1[0m" 404 -
+2024-03-05 05:27:56,532 - werkzeug - ERROR - 198.235.24.6 - - [05/Mar/2024 05:27:56] code 400, message Bad request version ('À\x13À')
+2024-03-05 05:27:56,533 - werkzeug - INFO - 198.235.24.6 - - [05/Mar/2024 05:27:56] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x0d\x01¨só\x8f[èóg<\x00N\x88\x02\x98´á\x7f\x15®`GpÎd\x11oB\x19\x945 ù,\x8bøy2Øz\x9a\x95:\x12\x9c\x84RgU\x18~4}CND\x0dR¼$Þ"o÷\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2024-03-05 05:27:56,955 - werkzeug - ERROR - 198.235.24.6 - - [05/Mar/2024 05:27:56] code 400, message Bad request version ('À(À$À\x14À')
+2024-03-05 05:27:56,956 - werkzeug - INFO - 198.235.24.6 - - [05/Mar/2024 05:27:56] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03À!\x8d\x01ô±\x0f£õâmÈ$\x06\x7fO\x87\x1cI\x18Á]ªã\x94@|\x9eò\\ÇÛ\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
