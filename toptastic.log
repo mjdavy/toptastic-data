@@ -7,3 +7,4 @@
 2024-03-05 14:51:29,527 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
 2024-03-05 14:51:29,528 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:51:29] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 14:51:35,578 - my_app.toptastic_api - INFO - Updating video ID for song BEAUTIFUL THINGS by BENSON BOONE from Oa_RSwwpPaA to Oa_RSwwpPaA .
+2024-03-05 14:51:36,690 - my_app.toptastic_api - INFO - Updating video ID for song BEAUTIFUL THINGS by BENSON BOONE from Oa_RSwwpPaA  to Oa_RSwwpPaA.
