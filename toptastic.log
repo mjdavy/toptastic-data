@@ -45,3 +45,9 @@
 2024-03-05 15:04:01,379 - my_app.toptastic_api - INFO - Updating video ID for song LEAVEMEALONE by FRED AGAIN & BABY KEEM from qcU5utrC2zY to rNv8K8AYGi8.
 2024-03-05 15:04:02,781 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:04:02] "POST /api/update_videos HTTP/1.1" 200 -
 2024-03-05 15:07:12,248 - my_app.toptastic_api - INFO - Updating video ID for song LIL BOO THANG by PAUL RUSSELL from l9KLZVs9_Ic to 5AgDZcM8In8.
+2024-03-05 15:07:13,656 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:07:13] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 15:07:25,972 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:07:25] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:07:27,187 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 15:07:27,208 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 15:07:27,209 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:07:27] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 15:10:56,915 - my_app.toptastic_api - INFO - Updating video ID for song RICH BABY DADDY by DRAKE FT SEXYY RED & SZA from F7o0upORtCw to UcsSdIXHCWM.
