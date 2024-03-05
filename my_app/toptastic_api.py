@@ -330,7 +330,7 @@ def update_videos():
             logger.info(f'Skipping video update for song {title} by {artist} because it either does not exist or is already up to date.')
 
     if updated > 0:
-        commit_changes('/path/to/repo', 'Server Updated videos')
+        commit_changes('/Users/martindavy/source/repos/toptastic/toptastic-data', 'Server Updated videos')
 
     return {
         'status': 'success',
