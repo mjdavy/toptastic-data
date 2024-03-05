@@ -8,3 +8,11 @@
 2024-03-05 14:51:29,528 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:51:29] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 14:51:35,578 - my_app.toptastic_api - INFO - Updating video ID for song BEAUTIFUL THINGS by BENSON BOONE from Oa_RSwwpPaA to Oa_RSwwpPaA .
 2024-03-05 14:51:36,690 - my_app.toptastic_api - INFO - Updating video ID for song BEAUTIFUL THINGS by BENSON BOONE from Oa_RSwwpPaA  to Oa_RSwwpPaA.
+2024-03-05 14:51:36,914 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:51:36] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 14:51:38,006 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:51:38] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 14:51:43,742 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:51:43] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 14:53:04,776 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:53:04] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 14:53:08,754 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 14:53:08,774 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 14:53:08,776 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 14:53:08] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 14:54:36,100 - my_app.toptastic_api - INFO - Updating video ID for song PRAISE JAH IN THE MOONLIGHT by YG MARLEY from iD__IJWqwY8 to A1_2SIoYwvE.
