@@ -43,3 +43,5 @@
 2024-03-05 15:03:30,047 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
 2024-03-05 15:03:30,049 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:03:30] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 15:04:01,379 - my_app.toptastic_api - INFO - Updating video ID for song LEAVEMEALONE by FRED AGAIN & BABY KEEM from qcU5utrC2zY to rNv8K8AYGi8.
+2024-03-05 15:04:02,781 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:04:02] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 15:07:12,248 - my_app.toptastic_api - INFO - Updating video ID for song LIL BOO THANG by PAUL RUSSELL from l9KLZVs9_Ic to 5AgDZcM8In8.
