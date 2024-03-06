@@ -51,3 +51,40 @@
 2024-03-05 15:07:27,208 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
 2024-03-05 15:07:27,209 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:07:27] "GET /api/songs/20240301 HTTP/1.1" 200 -
 2024-03-05 15:10:56,915 - my_app.toptastic_api - INFO - Updating video ID for song RICH BABY DADDY by DRAKE FT SEXYY RED & SZA from F7o0upORtCw to UcsSdIXHCWM.
+2024-03-05 15:10:58,449 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:10:58] "POST /api/update_videos HTTP/1.1" 200 -
+2024-03-05 15:11:04,887 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:11:04] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:11:06,116 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 15:11:06,135 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 15:11:06,136 - werkzeug - INFO - 192.168.1.141 - - [05/Mar/2024 15:11:06] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 15:27:16,487 - werkzeug - INFO - 192.168.1.184 - - [05/Mar/2024 15:27:16] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:28:01,025 - werkzeug - INFO - 192.168.1.184 - - [05/Mar/2024 15:28:01] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:28:03,888 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 15:28:03,909 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 15:28:03,910 - werkzeug - INFO - 192.168.1.184 - - [05/Mar/2024 15:28:03] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 15:28:06,547 - werkzeug - INFO - 192.168.1.184 - - [05/Mar/2024 15:28:06] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:28:10,038 - werkzeug - INFO - 192.168.1.184 - - [05/Mar/2024 15:28:10] "GET /api/status HTTP/1.1" 200 -
+2024-03-05 15:28:10,949 - my_app.toptastic_api - INFO - Getting songs for date 20240301.
+2024-03-05 15:28:10,970 - my_app.toptastic_api - INFO - Playlist for date 20240301 containing 100 records retrieved from the db.
+2024-03-05 15:28:10,971 - werkzeug - INFO - 192.168.1.184 - - [05/Mar/2024 15:28:10] "GET /api/songs/20240301 HTTP/1.1" 200 -
+2024-03-05 16:03:00,681 - werkzeug - INFO - 205.210.31.107 - - [05/Mar/2024 16:03:00] "[33mGET / HTTP/1.1[0m" 404 -
+2024-03-05 20:40:54,681 - werkzeug - ERROR - 71.6.199.23 - - [05/Mar/2024 20:40:54] code 400, message Bad request syntax ('\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x033\x9d+\x7f\xadºml=Â)øYÆ;\x8f)üÐ)¶ç\x83=¸\x057\x91\x18\x08¥\x07\x00\x00rÀ0À,À(À$À\x14À')
+2024-03-05 20:40:54,682 - werkzeug - INFO - 71.6.199.23 - - [05/Mar/2024 20:40:54] "[31m[1m\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x033\x9d+\x7f­ºml=Â)øYÆ;\x8f)üÐ)¶ç\x83=¸\x057\x91\x18\x08¥\x07\x00\x00rÀ0À,À(À$À\x14À[0m" 400 -
+2024-03-05 20:40:57,937 - werkzeug - INFO - 71.6.199.23 - - [05/Mar/2024 20:40:57] "[33mGET / HTTP/1.1[0m" 404 -
+2024-03-05 21:21:44,117 - werkzeug - ERROR - 185.161.248.148 - - [05/Mar/2024 21:21:44] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2024-03-05 21:21:44,118 - werkzeug - INFO - 185.161.248.148 - - [05/Mar/2024 21:21:44] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2024-03-05 22:06:28,225 - werkzeug - INFO - 137.184.255.41 - - [05/Mar/2024 22:06:28] "[33mGET /v2/ HTTP/1.1[0m" 404 -
+2024-03-06 01:52:41,825 - werkzeug - INFO - 128.14.209.34 - - [06/Mar/2024 01:52:41] "[33mGET / HTTP/1.1[0m" 404 -
+2024-03-06 03:10:22,556 - werkzeug - ERROR - 198.235.24.234 - - [06/Mar/2024 03:10:22] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03×Bh')
+2024-03-06 03:10:22,557 - werkzeug - INFO - 198.235.24.234 - - [06/Mar/2024 03:10:22] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03×Bh\x0b±\x9bÈÈ[0m" 400 -
+2024-03-06 03:10:22,758 - werkzeug - ERROR - 198.235.24.234 - - [06/Mar/2024 03:10:22] code 400, message Bad request version ('À(À$À\x14À')
+2024-03-06 03:10:22,758 - werkzeug - INFO - 198.235.24.234 - - [06/Mar/2024 03:10:22] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03É\x05a\x84üFî¯¹^¨ºc\x07\x91MYIê§Rb\x81ÇÍht¢éï\x0c8\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
+2024-03-06 04:33:58,234 - werkzeug - ERROR - 165.154.138.57 - - [06/Mar/2024 04:33:58] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+2024-03-06 04:33:58,235 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:33:58] "[31m[1m\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x03ð¾#@ä\x0d°\x19»K\x98CZ6¨\x9b^iu·¯~ÚÁI¤\\Å\x85\x1e\x0c\x87 ú\x98@Ó6\x0f\x924\x15\x89ª\x1a±Y\x90×\x12\x84º\x08C$ð\x90\x8d®\x9fM\x0e\x81\x11\x98\x004Ì¨Ì©À/À0À+À,À\x09\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À[0m" 400 -
+2024-03-06 04:34:18,701 - werkzeug - ERROR - 165.154.138.57 - - [06/Mar/2024 04:34:18] code 400, message Bad request version ('\x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_')
+2024-03-06 04:34:18,701 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:34:18] "[31m[1m\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x00\x00.\x00\x00.\x02\x009\x008\x00\x00;\x00 \x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_[0m" 400 -
+2024-03-06 04:34:28,811 - werkzeug - ERROR - 165.154.138.57 - - [06/Mar/2024 04:34:28] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+2024-03-06 04:34:28,811 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:34:28] "[31m[1m\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00\x0cGetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00[0m" 400 -
+2024-03-06 04:34:28,916 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:34:28] "[33mGET / HTTP/1.1[0m" 404 -
+2024-03-06 04:34:29,154 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:34:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-06 04:34:29,394 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:34:29] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2024-03-06 04:34:29,657 - werkzeug - INFO - 165.154.138.57 - - [06/Mar/2024 04:34:29] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
