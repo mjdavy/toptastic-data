@@ -11,7 +11,6 @@ import sqlite3
 from google.auth.transport.requests import Request
 from pytube import YouTube
 
-
 from my_app.toptastic_api import get_db_connection
 
 class QuotaExceededError(Exception):
@@ -137,7 +136,6 @@ def get_youtube_video_id(query):
                 raise QuotaExceededError("All API keys have exceeded their quotas.")
             else:
                 # Retry with the next API key
-                logging.info(f"Quota exceeded for API key {api_keys[current_key_index - 1]}. Switching to API key {api_keys[current_key_index]}.")
                 youtube = get_youtube_service()
         else:
             # Other HTTP error, handle it as desired
