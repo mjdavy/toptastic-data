@@ -4,13 +4,10 @@ from flask import Flask, jsonify
 import requests
 from bs4 import BeautifulSoup
 import sqlite3
-import sys
 import json
-from flask_executor import Executor
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
-executor = Executor(app)
 
 def get_db_connection():
     conn = sqlite3.connect('songs.db')
