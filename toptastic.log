@@ -1,4 +1,12 @@
-2024-06-17 14:48:46,162 - root - INFO - Starting server...
-2024-06-17 14:48:46,164 - root - INFO - Access the status URL at http://localhost:5001/api/status
-2024-06-17 14:48:46,170 - werkzeug - WARNING -  * Debugger is active!
-2024-06-17 14:48:46,176 - werkzeug - INFO -  * Debugger PIN: 756-656-838
+2024-08-28 09:06:04,673 - root - INFO - Starting server...
+2024-08-28 09:06:04,673 - root - INFO - Access the status URL at http://localhost:5001/api/status
+2024-08-28 09:06:04,674 - werkzeug - WARNING -  * Debugger is active!
+2024-08-28 09:06:04,681 - werkzeug - INFO -  * Debugger PIN: 515-065-226
+2024-08-28 09:07:11,494 - werkzeug - INFO - 192.168.1.184 - - [28/Aug/2024 09:07:11] "GET /api/status HTTP/1.1" 200 -
+2024-08-28 09:07:22,158 - my_app.toptastic_api - INFO - Getting songs for date 20240816.
+2024-08-28 09:07:22,186 - my_app.toptastic_api - INFO - Playlist for date 20240816 containing 100 records retrieved from the db.
+2024-08-28 09:07:22,187 - werkzeug - INFO - 192.168.1.184 - - [28/Aug/2024 09:07:22] "GET /api/songs/20240816 HTTP/1.1" 200 -
+2024-08-28 09:07:32,824 - my_app.toptastic_api - INFO - Getting songs for date 20240816.
+2024-08-28 09:07:32,845 - my_app.toptastic_api - INFO - Playlist for date 20240816 containing 100 records retrieved from the db.
+2024-08-28 09:07:32,846 - werkzeug - INFO - 192.168.1.184 - - [28/Aug/2024 09:07:32] "GET /api/songs/20240816 HTTP/1.1" 200 -
+2024-08-28 09:08:05,179 - werkzeug - INFO - 192.168.1.184 - - [28/Aug/2024 09:08:05] "GET /api/status HTTP/1.1" 200 -
