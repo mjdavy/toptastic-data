@@ -1,15 +1,3 @@
-2024-08-28 08:56:48,321 - my_app.youtube - INFO - Updating video IDs for 12 songs.
-2024-08-28 08:56:48,321 - my_app.youtube - INFO - Getting video id for BACKBONE CHASE & STATUS/STORMZY from YouTube.
-2024-08-28 08:56:48,991 - my_app.youtube - INFO - Getting video id for DIE WITH A SMILE LADY GAGA & BRUNO MARS from YouTube.
-2024-08-28 08:56:49,497 - my_app.youtube - INFO - Getting video id for NOBODY'S SOLDIER HOZIER from YouTube.
-2024-08-28 08:56:50,029 - my_app.youtube - INFO - Getting video id for PRETTY SLOWLY BENSON BOONE from YouTube.
-2024-08-28 08:56:50,601 - my_app.youtube - INFO - Getting video id for NEW WOMAN LISA FT ROSALIA from YouTube.
-2024-08-28 08:56:51,262 - my_app.youtube - INFO - Getting video id for WHY WHY WHY SHAWN MENDES from YouTube.
-2024-08-28 08:56:51,809 - my_app.youtube - INFO - Getting video id for CRY BABY CLEAN BANDIT/ANNE-MARIE/GUETTA from YouTube.
-2024-08-28 08:56:52,489 - my_app.youtube - INFO - Getting video id for BLUE GREEN RED DRAKE from YouTube.
-2024-08-28 08:56:53,001 - my_app.youtube - INFO - Getting video id for ACTIVE ASAKE & TRAVIS SCOTT from YouTube.
-2024-08-28 08:56:53,602 - my_app.youtube - INFO - Getting video id for IT'S UP DRAKE/YOUNG THUG/21 SAVAGE from YouTube.
-2024-08-28 08:56:54,237 - my_app.youtube - INFO - Getting video id for TOO COOL TO BE CARELESS PAWSA from YouTube.
-2024-08-28 08:56:54,747 - my_app.youtube - INFO - Getting video id for LIFETIMES KATY PERRY from YouTube.
-2024-08-28 08:56:55,361 - my_app.youtube - INFO - 12 Video IDs updated successfully.
-2024-08-28 08:56:55,363 - my_app.youtube - INFO - 0 videos remaining.
+2024-08-29 07:00:01,922 - my_app.youtube - INFO - Updating video IDs for 0 songs.
+2024-08-29 07:00:01,923 - my_app.youtube - INFO - 0 Video IDs updated successfully.
+2024-08-29 07:00:01,924 - my_app.youtube - INFO - 0 videos remaining.
