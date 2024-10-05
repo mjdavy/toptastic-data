@@ -1,3 +1,10 @@
-2024-10-04 07:00:03,344 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2024-10-04 07:00:03,344 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-10-04 07:00:03,346 - my_app.youtube - INFO - 0 videos remaining.
+2024-10-05 07:00:01,630 - my_app.youtube - INFO - Updating video IDs for 7 songs.
+2024-10-05 07:00:01,631 - my_app.youtube - INFO - Getting video id for TIMELESS WEEKND/PLAYBOI CARTI from YouTube.
+2024-10-05 07:00:02,618 - my_app.youtube - INFO - Getting video id for GOING CRAZY NINES from YouTube.
+2024-10-05 07:00:03,335 - my_app.youtube - INFO - Getting video id for LIGHTS CAMERA ACTION KYLIE MINOGUE from YouTube.
+2024-10-05 07:00:04,052 - my_app.youtube - INFO - Getting video id for COLD HEARTED WORLD 3 NINES/MARNZ MALONE from YouTube.
+2024-10-05 07:00:04,768 - my_app.youtube - INFO - Getting video id for STARS WILL ALIGN KYGO & IMAGINE DRAGONS from YouTube.
+2024-10-05 07:00:05,381 - my_app.youtube - INFO - Getting video id for MIDNIGHT COWBOY JADE from YouTube.
+2024-10-05 07:00:05,999 - my_app.youtube - INFO - Getting video id for N O C H I L L PARTYNEXTDOOR from YouTube.
+2024-10-05 07:00:06,613 - my_app.youtube - INFO - 7 Video IDs updated successfully.
+2024-10-05 07:00:06,617 - my_app.youtube - INFO - 0 videos remaining.
