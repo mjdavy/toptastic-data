@@ -1,3 +1,9 @@
-2024-10-18 07:00:01,983 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2024-10-18 07:00:01,984 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-10-18 07:00:01,985 - my_app.youtube - INFO - 0 videos remaining.
+2024-10-19 07:00:01,350 - my_app.youtube - INFO - Updating video IDs for 6 songs.
+2024-10-19 07:00:01,351 - my_app.youtube - INFO - Getting video id for SYMPATHY IS A KNIFE CHARLI XCX FT ARIANA GRANDE from YouTube.
+2024-10-19 07:00:02,364 - my_app.youtube - INFO - Getting video id for BED CHEM SABRINA CARPENTER from YouTube.
+2024-10-19 07:00:03,076 - my_app.youtube - INFO - Getting video id for MANTRA JENNIE from YouTube.
+2024-10-19 07:00:03,898 - my_app.youtube - INFO - Getting video id for INDESTRUCTIBLE ANDY C/BECKY HILL/DISRUPTA from YouTube.
+2024-10-19 07:00:04,511 - my_app.youtube - INFO - Getting video id for WHY LIE SKEPTA & FLO MILLI from YouTube.
+2024-10-19 07:00:05,225 - my_app.youtube - INFO - Getting video id for APEROL SPRITZ KID LAROI from YouTube.
+2024-10-19 07:00:05,851 - my_app.youtube - INFO - 6 Video IDs updated successfully.
+2024-10-19 07:00:05,852 - my_app.youtube - INFO - 0 videos remaining.
