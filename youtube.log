@@ -1,3 +1,13 @@
-2024-10-25 07:00:01,340 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2024-10-25 07:00:01,340 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-10-25 07:00:01,341 - my_app.youtube - INFO - 0 videos remaining.
+2024-10-26 07:00:01,645 - my_app.youtube - INFO - Updating video IDs for 10 songs.
+2024-10-26 07:00:01,646 - my_app.youtube - INFO - Getting video id for APT ROSE & BRUNO MARS from YouTube.
+2024-10-26 07:00:02,372 - my_app.youtube - INFO - Getting video id for THAT'S SO TRUE GRACIE ABRAMS from YouTube.
+2024-10-26 07:00:03,091 - my_app.youtube - INFO - Getting video id for LOVE SOMEBODY MORGAN WALLEN from YouTube.
+2024-10-26 07:00:03,807 - my_app.youtube - INFO - Getting video id for NOID TYLER THE CREATOR from YouTube.
+2024-10-26 07:00:04,419 - my_app.youtube - INFO - Getting video id for FANTASY JADE from YouTube.
+2024-10-26 07:00:05,136 - my_app.youtube - INFO - Getting video id for PIECE OF MY HEART WIZKID FT BRENT FAIYAZ from YouTube.
+2024-10-26 07:00:05,750 - my_app.youtube - INFO - Getting video id for INDESTRUCTIBLE ANDY C & BECKY HILL from YouTube.
+2024-10-26 07:00:06,362 - my_app.youtube - INFO - Getting video id for OSCAR WINNING TEARS RAYE from YouTube.
+2024-10-26 07:00:06,976 - my_app.youtube - INFO - Getting video id for TEARDROPS LIAM PAYNE from YouTube.
+2024-10-26 07:00:07,629 - my_app.youtube - INFO - Getting video id for BEST TIME BRENT FAIYAZ from YouTube.
+2024-10-26 07:00:08,314 - my_app.youtube - INFO - 10 Video IDs updated successfully.
+2024-10-26 07:00:08,318 - my_app.youtube - INFO - 0 videos remaining.
