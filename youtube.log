@@ -1,3 +1,11 @@
-2024-11-01 07:00:01,966 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2024-11-01 07:00:01,966 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-11-01 07:00:01,967 - my_app.youtube - INFO - 0 videos remaining.
+2024-11-02 07:00:01,484 - my_app.youtube - INFO - Updating video IDs for 8 songs.
+2024-11-02 07:00:01,484 - my_app.youtube - INFO - Getting video id for DISEASE LADY GAGA from YouTube.
+2024-11-02 07:00:02,226 - my_app.youtube - INFO - Getting video id for ST. CHROMA TYLER THE CREATOR/CAESAR from YouTube.
+2024-11-02 07:00:02,840 - my_app.youtube - INFO - Getting video id for DARLING I TYLER THE CREATOR from YouTube.
+2024-11-02 07:00:03,481 - my_app.youtube - INFO - Getting video id for I'LL BE THERE JIN from YouTube.
+2024-11-02 07:00:04,070 - my_app.youtube - INFO - Getting video id for AQUAMARINE ADDISON RAE from YouTube.
+2024-11-02 07:00:04,681 - my_app.youtube - INFO - Getting video id for FABLE GIGI PEREZ from YouTube.
+2024-11-02 07:00:05,295 - my_app.youtube - INFO - Getting video id for OVER EACH OTHER LINKIN PARK from YouTube.
+2024-11-02 07:00:06,011 - my_app.youtube - INFO - Getting video id for HEART OF A WOMAN SUMMER WALKER from YouTube.
+2024-11-02 07:00:06,580 - my_app.youtube - INFO - 8 Video IDs updated successfully.
+2024-11-02 07:00:06,583 - my_app.youtube - INFO - 0 videos remaining.
