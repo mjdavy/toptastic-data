@@ -1,3 +1,15 @@
-2024-11-19 07:00:01,861 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2024-11-19 07:00:01,861 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2024-11-19 07:00:01,862 - my_app.youtube - INFO - 0 videos remaining.
+2024-11-26 09:54:47,237 - my_app.youtube - INFO - Updating video IDs for 12 songs.
+2024-11-26 09:54:47,237 - my_app.youtube - INFO - Getting video id for PEOPLE WATCHING SAM FENDER from YouTube.
+2024-11-26 09:54:47,804 - my_app.youtube - INFO - Getting video id for 2 HANDS TATE MCRAE from YouTube.
+2024-11-26 09:54:48,443 - my_app.youtube - INFO - Getting video id for TWO FACED LINKIN PARK from YouTube.
+2024-11-26 09:54:49,054 - my_app.youtube - INFO - Getting video id for JUNO SABRINA CARPENTER from YouTube.
+2024-11-26 09:54:49,666 - my_app.youtube - INFO - Getting video id for RUNNING WILD JIN from YouTube.
+2024-11-26 09:54:50,384 - my_app.youtube - INFO - Getting video id for DIRTY CASH (MONEY TALKS) PAWSA/ADVENTURES OF STEVIE V from YouTube.
+2024-11-26 09:54:50,996 - my_app.youtube - INFO - Getting video id for STICKY TYLER THE CREATOR from YouTube.
+2024-11-26 09:54:51,507 - my_app.youtube - INFO - Getting video id for KESE (DANCE) WIZKID from YouTube.
+2024-11-26 09:54:52,024 - my_app.youtube - INFO - Getting video id for IT CAN'T BE CHRISTMAS TOM GRENNAN from YouTube.
+2024-11-26 09:54:52,470 - my_app.youtube - INFO - Getting video id for NO ONE NOTICED MARIAS from YouTube.
+2024-11-26 09:54:53,044 - my_app.youtube - INFO - Getting video id for AGATS2 (INSECURE) JUICE WRLD/NICKI MINAJ from YouTube.
+2024-11-26 09:54:53,554 - my_app.youtube - INFO - Getting video id for WHATCHU KNO ABOUT ME GLORILLA from YouTube.
+2024-11-26 09:54:54,076 - my_app.youtube - INFO - 12 Video IDs updated successfully.
+2024-11-26 09:54:54,078 - my_app.youtube - INFO - 0 videos remaining.
