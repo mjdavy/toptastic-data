@@ -1,7 +1,6 @@
 beautifulsoup4==4.13.3
-certifi==2023.7.22
+certifi==2025.1.31
 Flask==3.1.0
-GitPython==3.1.44
 GitPython==3.1.44
 google_api_python_client==2.111.0
 google_auth_oauthlib==1.2.0
