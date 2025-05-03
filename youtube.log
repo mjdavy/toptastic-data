@@ -1,3 +1,76 @@
-2025-03-02 10:22:13,422 - my_app.youtube - INFO - Updating video IDs for 0 songs.
-2025-03-02 10:22:13,422 - my_app.youtube - INFO - 0 Video IDs updated successfully.
-2025-03-02 10:22:13,422 - my_app.youtube - INFO - 0 videos remaining.
+2025-05-03 09:13:29,948 - my_app.youtube - INFO - Updating video IDs for 73 songs.
+2025-05-03 09:13:29,948 - my_app.youtube - INFO - Getting video id for SHOW ME LOVE WIZTHEMC/BEES & HONEY from YouTube.
+2025-05-03 09:13:30,484 - my_app.youtube - INFO - Getting video id for AZIZAM ED SHEERAN from YouTube.
+2025-05-03 09:13:30,975 - my_app.youtube - INFO - Getting video id for ANXIETY DOECHII from YouTube.
+2025-05-03 09:13:31,508 - my_app.youtube - INFO - Getting video id for STEVE'S LAVA CHICKEN JACK BLACK from YouTube.
+2025-05-03 09:13:31,870 - my_app.youtube - INFO - Getting video id for WHAT WAS THAT LORDE from YouTube.
+2025-05-03 09:13:32,321 - my_app.youtube - INFO - Getting video id for UNDRESSED SOMBR from YouTube.
+2025-05-03 09:13:32,838 - my_app.youtube - INFO - Getting video id for MYSTICAL MAGICAL BENSON BOONE from YouTube.
+2025-05-03 09:13:33,348 - my_app.youtube - INFO - Getting video id for THE GIVER CHAPPELL ROAN from YouTube.
+2025-05-03 09:13:33,806 - my_app.youtube - INFO - Getting video id for BACK TO FRIENDS SOMBR from YouTube.
+2025-05-03 09:13:34,270 - my_app.youtube - INFO - Getting video id for SORRY I'M HERE FOR SOMEONE ELSE BENSON BOONE from YouTube.
+2025-05-03 09:13:34,780 - my_app.youtube - INFO - Getting video id for DAMOCLES SLEEP TOKEN from YouTube.
+2025-05-03 09:13:35,138 - my_app.youtube - INFO - Getting video id for SHAKE IT TO THE MAX (FLY) MOLIY & SILENT ADDY from YouTube.
+2025-05-03 09:13:35,604 - my_app.youtube - INFO - Getting video id for HEADPHONES ON ADDISON RAE from YouTube.
+2025-05-03 09:13:35,989 - my_app.youtube - INFO - Getting video id for TWILIGHT ZONE ARIANA GRANDE from YouTube.
+2025-05-03 09:13:36,446 - my_app.youtube - INFO - Getting video id for PARTY 4 U CHARLI XCX from YouTube.
+2025-05-03 09:13:36,861 - my_app.youtube - INFO - Getting video id for HAIRDRESSER SKYE NEWMAN from YouTube.
+2025-05-03 09:13:37,344 - my_app.youtube - INFO - Getting video id for DARK THOUGHTS LIL TECCA from YouTube.
+2025-05-03 09:13:37,855 - my_app.youtube - INFO - Getting video id for END OF THE WORLD MILEY CYRUS from YouTube.
+2025-05-03 09:13:38,367 - my_app.youtube - INFO - Getting video id for BLUEST FLAME SELENA GOMEZ/BENNY BLANCO from YouTube.
+2025-05-03 09:13:38,879 - my_app.youtube - INFO - Getting video id for LIKE JENNIE JENNIE from YouTube.
+2025-05-03 09:13:39,288 - my_app.youtube - INFO - Getting video id for CARAMEL SLEEP TOKEN from YouTube.
+2025-05-03 09:13:39,698 - my_app.youtube - INFO - Getting video id for ALL I EVER ASKED RACHEL CHINOURIRI from YouTube.
+2025-05-03 09:13:40,115 - my_app.youtube - INFO - Getting video id for BLINK TWICE SHABOOZEY/MYLES SMITH from YouTube.
+2025-05-03 09:13:40,618 - my_app.youtube - INFO - Getting video id for SOME MIGHT SAY OASIS from YouTube.
+2025-05-03 09:13:41,083 - my_app.youtube - INFO - Getting video id for LAHO SHALLIPOPI from YouTube.
+2025-05-03 09:13:41,540 - my_app.youtube - INFO - Getting video id for BEAUTIFUL PEOPLE DAVID GUETTA FT SIA from YouTube.
+2025-05-03 09:13:42,051 - my_app.youtube - INFO - Getting video id for ALL I KNOW RUDIMENTAL & KHALID from YouTube.
+2025-05-03 09:13:42,464 - my_app.youtube - INFO - Getting video id for SULTANS OF SWING DIRE STRAITS from YouTube.
+2025-05-03 09:13:42,939 - my_app.youtube - INFO - Getting video id for STATESIDE PINKPANTHERESS from YouTube.
+2025-05-03 09:13:43,385 - my_app.youtube - INFO - Getting video id for TONIGHT PINKPANTHERESS from YouTube.
+2025-05-03 09:13:43,813 - my_app.youtube - INFO - Getting video id for CONCEITED LOLA YOUNG from YouTube.
+2025-05-03 09:13:44,307 - my_app.youtube - INFO - Getting video id for PASSO BEM SOLTO ATLXS from YouTube.
+2025-05-03 09:13:44,817 - my_app.youtube - INFO - Getting video id for I NEED TO KNOW DENON REED & CRU2 from YouTube.
+2025-05-03 09:13:45,331 - my_app.youtube - INFO - Getting video id for TYRANTS SAM FENDER from YouTube.
+2025-05-03 09:13:45,844 - my_app.youtube - INFO - Getting video id for GARDEN OF EDEN LADY GAGA from YouTube.
+2025-05-03 09:13:46,250 - my_app.youtube - INFO - Getting video id for WE HUG NOW SYDNEY ROSE from YouTube.
+2025-05-03 09:13:46,764 - my_app.youtube - INFO - Getting video id for I AIN'T COMIN' BACK MORGAN WALLEN/POST MALONE from YouTube.
+2025-05-03 09:13:47,232 - my_app.youtube - INFO - Getting video id for EMERGENCE SLEEP TOKEN from YouTube.
+2025-05-03 09:13:47,788 - my_app.youtube - INFO - Getting video id for SPRING INTO SUMMER LIZZY MCALPINE from YouTube.
+2025-05-03 09:13:48,300 - my_app.youtube - INFO - Getting video id for PAL PAL AFUSIC/ALISOOMROMUSIC from YouTube.
+2025-05-03 09:13:48,813 - my_app.youtube - INFO - Getting video id for ON & ON SUB FOCUS & BBYCLOSE from YouTube.
+2025-05-03 09:13:49,222 - my_app.youtube - INFO - Getting video id for DON'T WAKE ME UP JAMES HYPE from YouTube.
+2025-05-03 09:13:49,655 - my_app.youtube - INFO - Getting video id for SALLY WHEN THE WINE RUNS OUT ROLE MODEL from YouTube.
+2025-05-03 09:13:50,065 - my_app.youtube - INFO - Getting video id for SMOKE THE PAIN AWAY CALVIN HARRIS from YouTube.
+2025-05-03 09:13:50,553 - my_app.youtube - INFO - Getting video id for BLUEBIRD LANA DEL REY from YouTube.
+2025-05-03 09:13:51,066 - my_app.youtube - INFO - Getting video id for CLOSER TO THE FLOOR JAZZY/ANKHOI from YouTube.
+2025-05-03 09:13:51,475 - my_app.youtube - INFO - Getting video id for HENRY COME ON LANA DEL REY from YouTube.
+2025-05-03 09:13:51,988 - my_app.youtube - INFO - Getting video id for LACHRYMA GHOST from YouTube.
+2025-05-03 09:13:52,499 - my_app.youtube - INFO - Getting video id for RATHER LIE PLAYBOI CARTI/WEEKND from YouTube.
+2025-05-03 09:13:53,010 - my_app.youtube - INFO - Getting video id for DANDELION ARIANA GRANDE from YouTube.
+2025-05-03 09:13:53,425 - my_app.youtube - INFO - Getting video id for ANGEL OF MINE TOBIAHS from YouTube.
+2025-05-03 09:13:53,938 - my_app.youtube - INFO - Getting video id for FUFN (F**K YOU FOR NOW) JADE from YouTube.
+2025-05-03 09:13:54,444 - my_app.youtube - INFO - Getting video id for DILEMMA NEMZZZ FT CENTRAL CEE from YouTube.
+2025-05-03 09:13:54,852 - my_app.youtube - INFO - Getting video id for INTRO (END OF THE WORLD) ARIANA GRANDE from YouTube.
+2025-05-03 09:13:55,312 - my_app.youtube - INFO - Getting video id for STEVES LAVA CHICKEN JACK BLACK from YouTube.
+2025-05-03 09:13:55,776 - my_app.youtube - INFO - Getting video id for CHEST PAIN (I LOVE) MALCOLM TODD from YouTube.
+2025-05-03 09:13:56,288 - my_app.youtube - INFO - Getting video id for BACK IT UP JOSH BAKER & OMAR+ from YouTube.
+2025-05-03 09:13:56,798 - my_app.youtube - INFO - Getting video id for CATCH THESE FISTS WET LEG from YouTube.
+2025-05-03 09:13:57,231 - my_app.youtube - INFO - Getting video id for UP FROM THE BOTTOM LINKIN PARK from YouTube.
+2025-05-03 09:13:57,722 - my_app.youtube - INFO - Getting video id for EVIL J0RDAN PLAYBOI CARTI from YouTube.
+2025-05-03 09:13:58,234 - my_app.youtube - INFO - Getting video id for PICK YOUR POISON KILLOWEN from YouTube.
+2025-05-03 09:13:58,744 - my_app.youtube - INFO - Getting video id for RUSHMERE MUMFORD & SONS from YouTube.
+2025-05-03 09:13:59,256 - my_app.youtube - INFO - Getting video id for JUST US JACK HARLOW FT DOJA CAT from YouTube.
+2025-05-03 09:13:59,767 - my_app.youtube - INFO - Getting video id for COLD NEMZZZ from YouTube.
+2025-05-03 09:14:00,179 - my_app.youtube - INFO - Getting video id for MONA LISA J-HOPE from YouTube.
+2025-05-03 09:14:00,689 - my_app.youtube - INFO - Getting video id for TOXIC PLAYBOI CARTI/SKEPTA from YouTube.
+2025-05-03 09:14:01,204 - my_app.youtube - INFO - Getting video id for HOW DOES IT FEEL TO BE FORGOTTEN SELENA GOMEZ/BENNY BLANCO from YouTube.
+2025-05-03 09:14:01,727 - my_app.youtube - INFO - Getting video id for HANDLEBARS JENNIE FT DUA LIPA from YouTube.
+2025-05-03 09:14:02,229 - my_app.youtube - INFO - Getting video id for SUNSET BLVD SELENA GOMEZ/BENNY BLANCO from YouTube.
+2025-05-03 09:14:02,635 - my_app.youtube - INFO - Getting video id for RELATIONSHIPS HAIM from YouTube.
+2025-05-03 09:14:03,150 - my_app.youtube - INFO - Getting video id for MS. WHITMAN BHAD BHABIE from YouTube.
+2025-05-03 09:14:03,661 - my_app.youtube - INFO - Getting video id for SWEET DREAMS J-HOPE FT MIGUEL from YouTube.
+2025-05-03 09:14:04,172 - my_app.youtube - INFO - Getting video id for WHAT THE HELL JUST HAPPENED REMEMBER MONDAY from YouTube.
+2025-05-03 09:14:04,685 - my_app.youtube - INFO - 73 Video IDs updated successfully.
+2025-05-03 09:14:04,688 - my_app.youtube - INFO - 0 videos remaining.
