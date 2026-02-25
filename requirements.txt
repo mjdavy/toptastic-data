@@ -4,7 +4,7 @@ Flask==3.1.1
 GitPython==3.1.44
 google_api_python_client==2.172.0
 google_auth_oauthlib==1.2.2
-protobuf==6.31.1
+protobuf==6.33.5
 pytest==8.4.0
 python_dateutil==2.9.0.post0
 pytube==15.0.0
