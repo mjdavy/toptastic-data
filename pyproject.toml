@@ -3,7 +3,7 @@ name = "toptastic-data"
 version = "0.1.0"
 description = "Toptastic data scraping and API utilities"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4==4.14.3",
     "certifi==2026.5.20",
