@@ -19,14 +19,29 @@ def test_create_playlist(client):
         ]
     }
 
-    # Send a POST request to the create_playlist endpoint
-    response = client.post('/create_playlist', data=json.dumps(playlist), content_type='application/json')
-    print(response.data)
+    # Prevent real OAuth/network calls and return predictable values.
+    from my_app import youtube
+    original_get_authenticated_service = youtube.get_authenticated_service
+    original_create_playlist = youtube.create_playlist
+    original_add_video_to_playlist = youtube.add_video_to_playlist
 
-    # Check that the response status code is 200
-    assert response.status_code == 200
+    youtube.get_authenticated_service = lambda: object()
+    youtube.create_playlist = lambda _svc, _title, _description: 'test_playlist_id'
+    youtube.add_video_to_playlist = lambda _svc, _playlist_id, _video_id: None
 
-    # Check that the response data contains a success status and a playlist ID
-    data = json.loads(response.data)
-    assert data['status'] == 'success'
-    assert 'playlist_id' in data
+    try:
+        # Send a POST request to the create_playlist endpoint
+        response = client.post('/api/create_playlist', data=json.dumps(playlist), content_type='application/json')
+        print(response.data)
+
+        # Check that the response status code is 200
+        assert response.status_code == 200
+
+        # Check that the response data contains a success status and a playlist ID
+        data = json.loads(response.data)
+        assert data['status'] == 'success'
+        assert data['playlist_id'] == 'test_playlist_id'
+    finally:
+        youtube.get_authenticated_service = original_get_authenticated_service
+        youtube.create_playlist = original_create_playlist
+        youtube.add_video_to_playlist = original_add_video_to_playlist
